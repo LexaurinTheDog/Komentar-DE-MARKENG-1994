@@ -1,0 +1,88 @@
+{
+  "stage": "drafted_technical_validation",
+  "country": "de",
+  "identifier": "MarkenG",
+  "repo": "Komentar-DE-MARKENG-1994",
+  "decisive_date": "2026-10-19",
+  "completed_at": "2026-10-19T16:04:51.143784+00:00",
+  "total_units": 193,
+  "completed_units": 193,
+  "chapters": 13,
+  "commentary_characters": 215943,
+  "source_checks": {
+    "official_source": "https://www.gesetze-im-internet.de/markeng/",
+    "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+    "http_status": 200,
+    "version": "Art. 14 G v. 20.5.2026 I Nr.152",
+    "current_amendment_effective_from": "2026-10-01",
+    "preceding_amendment_effective_from": "2026-01-16",
+    "commencement_checked_in_official_bgbl": true,
+    "intake_sha256": "f0f08aec140ce600b08b97b6995423c2d471c6667d30532f40ae2a3a29fece86",
+    "intake_substantive_changes": [],
+    "verification": "sources/verification.json",
+    "completeness": "completeness-independent.json",
+    "annexes": "No operative annex in complete official XML",
+    "repealed_slots": [
+      "p161",
+      "p162",
+      "p163",
+      "p164"
+    ]
+  },
+  "case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "2023-01-12",
+      "docket": "I ZR 86/22",
+      "card": "cases/bgh-dachser.md",
+      "read_full_text": true
+    },
+    {
+      "court": "BGH",
+      "date": "2025-05-07",
+      "docket": "I ZR 143/24",
+      "card": "cases/bgh-werktitel.md",
+      "read_full_text": true
+    },
+    {
+      "court": "BGH",
+      "date": "2022-10-13",
+      "docket": "I ZB 59/19",
+      "card": "cases/bgh-patentanwaltskosten.md",
+      "read_full_text": true
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 193,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 215943,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": {
+    "ok": true,
+    "expected": 193,
+    "extracted": 193,
+    "missing": [],
+    "duplicates": [],
+    "xml_character_mismatch": []
+  },
+  "quality_checks": {
+    "output_local_links": 75,
+    "broken_links": [],
+    "repeated_paragraphs": [],
+    "repeated_long_sentences": []
+  },
+  "remaining_limitations": [
+    "Independent second pass pending; no independent or external professional approval claimed.",
+    "Selective case-law coverage: three principal decisions, not an exhaustive case-law survey.",
+    "Historical versions continued by transitional provisions are not fully reproduced or independently reconstructed.",
+    "All cross-referenced acts and delegated regulations not comprehensively separately verified; no unverified rates or historical wording inserted.",
+    "Current GII consolidation and relevant amending acts checked; no exhaustive independent scan of every post-intake BGBl issue."
+  ],
+  "unresolved_blockers": [],
+  "independent_second_pass": "pending",
+  "publication": "local only; no push or external submission"
+}

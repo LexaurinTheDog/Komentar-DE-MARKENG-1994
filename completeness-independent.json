@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T16:03:34.514983+00:00",
+  "checked_at": "2026-10-19T16:04:51.085317+00:00",
   "expected_basis": "Independent enumeration of all raw operative XML metadata; no parser import and no copying parsed ids",
   "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
   "expected_ids": [
@@ -435,7 +435,7 @@
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_characters": 215520,
+  "commentary_characters": 215943,
   "repeated_paragraphs": [],
   "repeated_long_sentences": [],
   "ok": true
