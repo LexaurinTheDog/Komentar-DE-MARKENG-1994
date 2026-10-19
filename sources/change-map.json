@@ -1,0 +1,17 @@
+{
+  "original_intake_path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-markeng.md",
+  "preserved_intake": "sources/intake-2026-10-02.md",
+  "original_sha256": "f0f08aec140ce600b08b97b6995423c2d471c6667d30532f40ae2a3a29fece86",
+  "current_xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+  "comparison": "All 190 individually headed intake provisions compared after removing whitespace only; three grouped repeal slots separately accounted for",
+  "compared_individual_units": 190,
+  "changed_individual_units": [],
+  "grouped_repeal_disposition": "Original grouped §§ 161–163 retained as three explicit empty slots, no substantive insertion",
+  "statutory_change_since_intake": false,
+  "format_changes": [
+    "XML list and paragraph boundaries preserved in canonical Markdown",
+    "Official structure separated from operative text",
+    "Grouped repeal expanded for individual coverage"
+  ],
+  "version_note": "Both intake and current XML list Art. 14 G v. 20.5.2026 I Nr. 152; commencement independently checked in BGBl. Art. 18(1): 1 October 2026. Earlier Art. 5 G v. 11.1.2026 I Nr. 9 effective 16 January 2026."
+}

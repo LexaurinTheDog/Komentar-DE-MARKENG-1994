@@ -1,0 +1,105 @@
+{
+  "units": 193,
+  "commentary_chars": 215520,
+  "minimum_commentary_chars": 332,
+  "below_700": [
+    {
+      "id": "p161",
+      "chars": 332
+    },
+    {
+      "id": "p162",
+      "chars": 379
+    },
+    {
+      "id": "p163",
+      "chars": 342
+    },
+    {
+      "id": "p164",
+      "chars": 699
+    }
+  ],
+  "exact_repeated_paragraphs": [],
+  "repeated_long_sentences": [],
+  "checked_output_links": 36,
+  "broken_local_links": [
+    {
+      "file": "00-einleitung.md",
+      "target": "SOURCES.md"
+    },
+    {
+      "file": "00-einleitung.md",
+      "target": "completeness.json"
+    },
+    {
+      "file": "00-einleitung.md",
+      "target": "REVIEW.md"
+    },
+    {
+      "file": "01-grundlagen.md",
+      "target": "cases/bgh-werktitel.md"
+    },
+    {
+      "file": "02-verletzung.md",
+      "target": "cases/bgh-dachser.md"
+    },
+    {
+      "file": "02-verletzung.md",
+      "target": "cases/bgh-werktitel.md"
+    },
+    {
+      "file": "10-international.md",
+      "target": "cases/bgh-patentanwaltskosten.md"
+    },
+    {
+      "file": "12-durchsetzung.md",
+      "target": "cases/bgh-patentanwaltskosten.md"
+    },
+    {
+      "file": "README.md",
+      "target": "SOURCES.md"
+    },
+    {
+      "file": "README.md",
+      "target": "REVIEW.md"
+    },
+    {
+      "file": "README.md",
+      "target": "sources/verification.json"
+    },
+    {
+      "file": "README.md",
+      "target": "sources/change-map.json"
+    },
+    {
+      "file": "README.md",
+      "target": "sources/canonical.md"
+    },
+    {
+      "file": "README.md",
+      "target": "completeness.json"
+    },
+    {
+      "file": "README.md",
+      "target": "sources/manifest.json"
+    },
+    {
+      "file": "README.md",
+      "target": "cases/bgh-dachser.md"
+    },
+    {
+      "file": "README.md",
+      "target": "cases/bgh-werktitel.md"
+    },
+    {
+      "file": "README.md",
+      "target": "cases/bgh-patentanwaltskosten.md"
+    },
+    {
+      "file": "README.md",
+      "target": "sources/search-log.json"
+    }
+  ],
+  "placeholder_matches": []
+}

@@ -1,0 +1,152 @@
+{
+  "created_at": "2026-10-19T16:04:22.272847+00:00",
+  "primary_statute": "markeng.xml",
+  "canonical_statute": "canonical.md",
+  "files": [
+    {
+      "path": "sources/amendment-2026-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/amendment-2026-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/amendment-2026-9.pdf",
+      "bytes": 748171,
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c"
+    },
+    {
+      "path": "sources/amendment-2026-9.txt",
+      "bytes": 166215,
+      "sha256": "968e2d7c8c7f171fe5912cdcf4926703f6e8abd3c2824d5d4acf0fa80a71cbfe"
+    },
+    {
+      "path": "sources/amendment-page.html",
+      "bytes": 40979,
+      "sha256": "d01f185a6eb7401f06e3c33303a4ed51e2d4aac311a21da4216e5e14b6a641f6"
+    },
+    {
+      "path": "sources/canonical.md",
+      "bytes": 217893,
+      "sha256": "be762f262f52fdc47360c42a5219266174ece3eaa3826a4d848ac13d4bec1588"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 1159,
+      "sha256": "81823f8ac04569df437b8193ff4e1bfb53e3b10443b8c691d02c8f066aae54c2"
+    },
+    {
+      "path": "sources/dachser-local.md",
+      "bytes": 36742,
+      "sha256": "e36485564b6f93f4770e0085c6f602f6ceba5a71697583e22e80cd91c8e0f6d5"
+    },
+    {
+      "path": "sources/dachser.xml",
+      "bytes": 59309,
+      "sha256": "999503dbec19f10cb9682fde8e6d7a60dd3c110b16b9669f2132913c33403bad"
+    },
+    {
+      "path": "sources/dachser.zip",
+      "bytes": 48697,
+      "sha256": "671a2b2b5371b182edd97f71e2e9fca88dd32c20186c0aba2d42c7dc499a6d50"
+    },
+    {
+      "path": "sources/full.html",
+      "bytes": 395683,
+      "sha256": "53a37fac2b6d3ba78186abd25a2dc1cc2df62a55b75f56563521e75c8509396d"
+    },
+    {
+      "path": "sources/index.html",
+      "bytes": 44679,
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae"
+    },
+    {
+      "path": "sources/intake-2026-10-02.md",
+      "bytes": 228763,
+      "sha256": "f0f08aec140ce600b08b97b6995423c2d471c6667d30532f40ae2a3a29fece86"
+    },
+    {
+      "path": "sources/markeng.xml",
+      "bytes": 343720,
+      "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484"
+    },
+    {
+      "path": "sources/markeng.zip",
+      "bytes": 60854,
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa"
+    },
+    {
+      "path": "sources/official-index-firecrawl.md",
+      "bytes": 32097,
+      "sha256": "0c0501324fb70a2809ab9667aa57dfcd5f77e16ed87882e93ebd0fd7244b2f90"
+    },
+    {
+      "path": "sources/patentanwaltskosten-local.md",
+      "bytes": 22486,
+      "sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81"
+    },
+    {
+      "path": "sources/patentanwaltskosten-wert-local.md",
+      "bytes": 1922,
+      "sha256": "a06cca0a1751aa9290ce79a4be41ebe48748e1a2148c354c4821e9a8857535fe"
+    },
+    {
+      "path": "sources/patentanwaltskosten.xml",
+      "bytes": 33770,
+      "sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d"
+    },
+    {
+      "path": "sources/patentanwaltskosten.zip",
+      "bytes": 8008,
+      "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0"
+    },
+    {
+      "path": "sources/search-amendments.json",
+      "bytes": 961,
+      "sha256": "8e9837a58564d895845c3bd7eb1d850461745cd956c0a5a33b641c391f1d2d72"
+    },
+    {
+      "path": "sources/search-costs-firecrawl.json",
+      "bytes": 375,
+      "sha256": "f0d11430b034ddc27209d078ef5fe22bf706dd570646d95e94370edd03c75726"
+    },
+    {
+      "path": "sources/search-log.json",
+      "bytes": 4851,
+      "sha256": "cfe01a6faf34ab10a87f9d5c2ea21819f5b4fa45a3a423c48b310c2b42ab35c6"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 6686,
+      "sha256": "182868e7370496624ab6eb72c2f025c972cdbf08b9717adcee98f09398d9985e"
+    },
+    {
+      "path": "sources/werktitel-local.md",
+      "bytes": 25405,
+      "sha256": "768091cf497d40fb0f7caf50423847d8fc385a6d33d87e41b2395e8244cb50b5"
+    },
+    {
+      "path": "sources/werktitel.xml",
+      "bytes": 34290,
+      "sha256": "8ee77ba5a800c4f29ca76a6990376b31aeba01d5e3662af15b065b4ead6335cd"
+    },
+    {
+      "path": "sources/werktitel.zip",
+      "bytes": 8704,
+      "sha256": "ff6d2b0e2411358ef4ec219fa7def692418cace197b38f1f4f2fa58643959a98"
+    },
+    {
+      "path": "sources/zpo-752a.html",
+      "bytes": 4066,
+      "sha256": "72b64697fe6794f8de8fd41e4278ea235e8cdbe232c3aad282b1790d94198ccf"
+    },
+    {
+      "path": "sources/zpo-753a.html",
+      "bytes": 4113,
+      "sha256": "7cc0161e8a39f93849b702aeafe5d3c83f31fdd71237e3ec2fbd09e66a78cd29"
+    }
+  ]
+}

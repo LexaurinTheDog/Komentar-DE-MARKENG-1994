@@ -1,0 +1,152 @@
+{
+  "authoring_date": "2026-10-19",
+  "fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-19T15:37:54.969671+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "path": "sources/index.html",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-19T15:37:55.137226+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "path": "sources/markeng.zip",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/BJNR308210994.html",
+      "accessed_at": "2026-10-19T15:37:55.436184+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "53a37fac2b6d3ba78186abd25a2dc1cc2df62a55b75f56563521e75c8509396d",
+      "path": "sources/full.html",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/VO.html",
+      "path": "sources/amendment-page.html",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:38:26.323198+00:00",
+      "sha256": "d01f185a6eb7401f06e3c33303a4ed51e2d4aac311a21da4216e5e14b6a641f6",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "path": "sources/amendment-2026-152.pdf",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:39:04.193378+00:00",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "format_validation": "PDF magic confirmed",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "path": "sources/amendment-2026-9.pdf",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:39:24.399051+00:00",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "format_validation": "PDF magic confirmed",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310722023.zip",
+      "path": "sources/dachser.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:44:55.692626+00:00",
+      "sha256": "671a2b2b5371b182edd97f71e2e9fca88dd32c20186c0aba2d42c7dc499a6d50",
+      "format_validation": "ZIP parsed; XML member extracted",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE713292025.zip",
+      "path": "sources/werktitel.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:56:23.631160+00:00",
+      "sha256": "ff6d2b0e2411358ef4ec219fa7def692418cace197b38f1f4f2fa58643959a98",
+      "format_validation": "ZIP and XML validated",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310532023.zip",
+      "path": "sources/patentanwaltskosten.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T15:59:41.681150+00:00",
+      "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0",
+      "format_validation": "ZIP and XML validated",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__752a.html",
+      "path": "sources/zpo-752a.html",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T16:03:34.420129+00:00",
+      "sha256": "72b64697fe6794f8de8fd41e4278ea235e8cdbe232c3aad282b1790d94198ccf",
+      "format_validation": "HTML with ZPO provision heading",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__753a.html",
+      "path": "sources/zpo-753a.html",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T16:03:43.662414+00:00",
+      "sha256": "7cc0161e8a39f93849b702aeafe5d3c83f31fdd71237e3ec2fbd09e66a78cd29",
+      "format_validation": "HTML ZPO provision heading confirmed",
+      "captured_body_sha256_verified": true
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "official_act_abbreviation": "MarkenG",
+  "official_doknr": "BJNR308210994",
+  "official_xml_builddate": "20260930215552",
+  "official_version": "Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152",
+  "xml_validation": "ZIP opened successfully; member BJNR308210994.xml parsed as dokumente; jurabk and amtabk both MarkenG; 224 norm records audited; no disguised HTML",
+  "commencement_checks": [
+    {
+      "act": "BGBl. 2026 I Nr. 152",
+      "amending_article": "Art. 14",
+      "provisions": [
+        "§ 81 Abs. 6 Satz 3",
+        "§ 82 Abs. 4"
+      ],
+      "commencement_article": "Art. 18 Abs. 1",
+      "effective_from": "2026-10-01",
+      "evidence": "sources/amendment-2026-152.pdf",
+      "text_evidence": "sources/amendment-2026-152.txt",
+      "publication_date": "2026-05-26"
+    },
+    {
+      "act": "BGBl. 2026 I Nr. 9",
+      "amending_article": "Art. 5",
+      "commencement_article": "Art. 16",
+      "publication_date": "2026-01-15",
+      "effective_from": "2026-01-16",
+      "evidence": "sources/amendment-2026-9.pdf",
+      "text_evidence": "sources/amendment-2026-9.txt"
+    }
+  ],
+  "intake_comparison": "sources/change-map.json",
+  "currentness_assessment": "Fetched GII XML and full HTML display same latest amendment as intake; substantive text compared, latest and preceding relevant amending acts checked for commencement. Supplementary official-domain searches for later September/October changes found no evidenced later MarkenG act. No exhaustive independent BGBl legislative pipeline audit claimed.",
+  "limitations": [
+    "GII consolidation is not itself the promulgation; captured BGBl amending texts establish commencement of the 2026 changes.",
+    "No full reproduction of historical versions continued by §§ 152–160.",
+    "External delegated regulations and all cross-referenced acts are not comprehensively independently consolidated."
+  ],
+  "supplementary_provisions": [
+    {
+      "provision": "ZPO §§ 752a und 753a",
+      "purpose": "Precise explanation of MarkenG § 82(4)",
+      "effective_from": "2026-10-01",
+      "commencement_basis": "Art. 1 Nr. 3 und 5, Art. 18(1), BGBl. 2026 I Nr. 152",
+      "snapshots": [
+        "sources/zpo-752a.html",
+        "sources/zpo-753a.html"
+      ]
+    }
+  ]
+}
