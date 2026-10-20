@@ -1,0 +1,118 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/",
+    "accessed_at": "2026-10-20T11:48:10.929947+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p19-p34/index.html",
+    "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+    "format_validation": "HTML signature and expected title checked",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "accessed_at": "2026-10-20T11:48:11.194137+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p19-p34/markeng.zip",
+    "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+    "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:48:11.363179+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p19-p34/amendment-2026-152.pdf",
+    "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+    "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:48:12.209518+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p19-p34/amendment-2026-9.pdf",
+    "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+    "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__811.html",
+    "accessed_at": "2026-10-20T11:49:03.919331+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb-811.html",
+    "sha256": "4829fd4bd0688de182c18aafeeb6fc2fe79e0a14aa7b38035ed9abaaa391286e",
+    "format_validation": "HTML signature, expected BGB title; not a reproduced statutory unit"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+    "accessed_at": "2026-10-20T11:49:04.041729+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb-195.html",
+    "sha256": "db542b2a124f440ebcfad22129b7323809692e96cd4efd638dadfa6a23474ca1",
+    "format_validation": "HTML signature, expected BGB title; not a reproduced statutory unit"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+    "accessed_at": "2026-10-20T11:49:04.265223+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb-199.html",
+    "sha256": "1fad808afadae9631d82aa6b04ceae5bdd5bfa431b4d27470bc4b982a208c349",
+    "format_validation": "HTML signature, expected BGB title; not a reproduced statutory unit"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__852.html",
+    "accessed_at": "2026-10-20T11:49:04.361174+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb-852.html",
+    "sha256": "40c116353ee3261f0804e788e7287b0953c1fed4bc27ea7e27b6d3ca88db59bb",
+    "format_validation": "HTML signature, expected BGB title; not a reproduced statutory unit"
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303312016.zip",
+    "accessed_at": "2026-10-20T11:49:32.467439+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/davidoff.zip",
+    "sha256": "dfbf04df52224b1a51d7c0d2a5154472abfb2e6bbd3eb05a338490414597cab4",
+    "format_validation": "ZIP CRC, one XML member, parsed identity I ZR 51/12",
+    "xml_path": "sources/review-p19-p34/davidoff.xml",
+    "xml_sha256": "16b08ebc07c0a136d130a54c5009f651db41e6fa0d96fa94511660ff3ff25c59",
+    "full_text_comparison": {
+      "nonempty_paragraphs": 46,
+      "missing": 0
+    }
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/",
+    "accessed_at": "2026-10-20T11:52:09.364436+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb-index.html",
+    "sha256": "9df07aaded7e8d559337f147f6d3fe9908ae88dd207d701e0dfda5691e4a71ef",
+    "format_validation": "HTML expected BGB index"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/xml.zip",
+    "accessed_at": "2026-10-20T11:53:24.878695+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb.zip",
+    "sha256": "a4f41098aad1932df88ba2743de4a650b931a23cf71958bf5fad1c0e3785284a",
+    "format_validation": "ZIP CRC verified, unique XML member parsed, BGB identity checked",
+    "xml_path": "sources/review-p19-p34/bgb.xml",
+    "xml_sha256": "34fc732d8b963eb753ed11236490d3c47c123ccb72b67c2fdda7f19544389e57"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/226/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T11:53:32.804416+00:00",
+    "http_status": 200,
+    "path": "sources/review-p19-p34/bgb-amendment-2026-226.pdf",
+    "sha256": "e24d08e69485cfaf53c114b62e2a6000f7236dd0fbde9e5fe2408676cfffb6df",
+    "format_validation": "PDF magic and EOF verified; pdftotext extraction succeeded"
+  }
+]

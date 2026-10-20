@@ -301,5 +301,68 @@
       }
     ],
     "unreviewed_case_card": "cases/bgh-patentanwaltskosten.md"
+  },
+  "bounded_review_p19_p34": {
+    "checked_at": "2026-10-20T11:55:48.482797+00:00",
+    "queries": [
+      {
+        "query": "site:recht.bund.de Markengesetz Änderung 2026 Oktober September",
+        "evidence": "sources/review-p19-p34-amendments-search.json",
+        "result": "Three results: latest and preceding MarkenG amendments plus previously checked DPMA regulation; no evidenced later MarkenG amendment"
+      },
+      {
+        "query": "site:rechtsprechung-im-internet.de \"Davidoff Hot Water\"",
+        "result": "No search results; CLI did not create output file"
+      },
+      {
+        "query": "BGH I ZR 51/12 Davidoff Hot Water 21.10.2015",
+        "evidence": "sources/review-p19-p34-cases-search.json",
+        "result": "Search used only for discovery, official BGH press release and third-party links; actual authority verified separately through local RII corpus and official XML ZIP"
+      }
+    ],
+    "local_corpus_query": "rg exact case_number and BGH title I ZR 51/12; selected final judgment KORE303312016 rather than referral KORE306452013",
+    "fresh_fetches": "sources/review-p19-p34/fetches.json",
+    "case_checks": [
+      {
+        "court": "BGH",
+        "date": "20151021",
+        "docket": "I ZR 51/12",
+        "ecli": "ECLI:DE:BGH:2015:211015UIZR51.12.0",
+        "read_full_text": true,
+        "read_scope": "Tenor und Rn. 1–37",
+        "supported_reviewed_ids": [
+          "p19"
+        ],
+        "official_xml": "sources/review-p19-p34/davidoff.xml",
+        "official_xml_sha256": "16b08ebc07c0a136d130a54c5009f651db41e6fa0d96fa94511660ff3ff25c59",
+        "corpus_path": "sources/review-p19-p34/davidoff-local.md",
+        "nonempty_official_paragraphs_compared": 46,
+        "missing_from_read_corpus": 0,
+        "card": "cases/bgh-davidoff.md",
+        "superseded_law_check": "Current § 19(2) Nr. 3 and refusal proviso compared. Historical GMV, § 125b and § 143a not asserted as current provisions."
+      }
+    ],
+    "no_new_case_selected_ids": [
+      "p19a",
+      "p19b",
+      "p19c",
+      "p19d",
+      "p20",
+      "p21",
+      "p22",
+      "p23",
+      "p24",
+      "p25",
+      "p26",
+      "p27",
+      "p28",
+      "p29",
+      "p30",
+      "p31",
+      "p32",
+      "p33",
+      "p34"
+    ],
+    "limit": "Selective additional case research: one relevant BGH judgment read in full; no exhaustive survey, no added verified decision for the other 19 units, no claim that none exists."
   }
 }

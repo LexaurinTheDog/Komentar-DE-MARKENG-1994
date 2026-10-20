@@ -8,7 +8,7 @@
   "total_units": 191,
   "completed_units": 191,
   "chapters": 13,
-  "commentary_characters": 224497,
+  "commentary_characters": 232237,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/markeng/",
     "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
@@ -26,7 +26,7 @@
       "p161-163",
       "p164"
     ],
-    "latest_verification": "2026-10-20T11:46:41.061403+00:00",
+    "latest_verification": "2026-10-20T11:54:02.077559+00:00",
     "grouped_repeal": "(XXXX) §§ 161 bis 163 preserved as one official unit p161-163",
     "eingangsformel": "No separate operative record; header introductory footnotes preserved."
   },
@@ -51,6 +51,13 @@
       "docket": "I ZB 59/19",
       "card": "cases/bgh-patentanwaltskosten.md",
       "read_full_text": true
+    },
+    {
+      "court": "BGH",
+      "date": "2015-10-21",
+      "docket": "I ZR 51/12",
+      "card": "cases/bgh-davidoff.md",
+      "read_full_text": true
     }
   ],
   "validation_result": {
@@ -74,36 +81,62 @@
     "covered_paragraph_numbers": 193
   },
   "quality_checks": {
-    "output_local_links": 104,
+    "output_local_links": 136,
     "broken_links": [],
     "repeated_paragraphs": [],
     "repeated_long_sentences": [],
-    "other_commentary_blocks": "All 171 unassigned unit commentaries unchanged against work baseline 30a204fc011a3f6d6d276f9cc79a12051b64f7f2",
-    "unchanged_commentary_units": 179,
-    "retained_reviewed_units": 8,
-    "corrected_reviewed_units": 12
+    "other_commentary_blocks": "All 171 unassigned commentary blocks unchanged against baseline 421f988a9f33be5888d5a3c21fb6d9340751187c",
+    "unchanged_commentary_units": 178,
+    "retained_reviewed_units": 7,
+    "corrected_reviewed_units": 13
   },
   "remaining_limitations": [
-    "Complete means this exact 20-unit assignment only; the remaining 171 commentary units have not received this second pass.",
-    "Selective case law: the two existing relevant BGH decisions were read and verified again; no exhaustive new case-law survey for every unit.",
-    "No new substantive review of the Patentanwaltskosten case card or commentary outside the assigned IDs.",
-    "No complete reconstruction of historical statutes or separate consolidation of all cross-referenced EU, treaty and domestic rules; those are not reproduced from memory.",
-    "Current official consolidation, both 2026 amending articles and commencement clauses checked; supplementary search is not an exhaustive BGBl pipeline audit.",
-    "No external lawyer approval or legal errorlessness certification; technical tests are separate from the recorded substantive reading."
+    "Complete refers only to these exact 20 assigned units; no whole-book completion. Previous 20-unit review preserved, 151 units still await second pass.",
+    "Selective additional case research: one relevant BGH judgment read in full; no exhaustive survey, no added verified decision for the other 19 units, no claim that none exists.",
+    "Earlier case cards retained without renewed substantive review in this batch. Decisions quoted inside Davidoff are not independently verified authorities here.",
+    "No complete reconstruction of historical law or every cross-referenced act. Four BGB provisions checked against official current HTML/XML and latest amending article; not a full BGB review.",
+    "Current MarkenG consolidation and both 2026 amending/commencement texts checked; selective later-law search is not an exhaustive BGBl pipeline audit.",
+    "Technical coverage, length and repetition checks do not establish legal errorlessness or external professional approval."
   ],
   "unresolved_blockers": [],
-  "independent_second_pass": "completed for assigned 20 units; remaining 171 pending",
+  "independent_second_pass": "Current assigned 20 complete; 40 cumulatively reviewed, 151 pending",
   "publication": "local only; no push or external submission",
   "prior_stage": "drafted_technical_validation",
-  "task_scope": "Exactly p1–p18 including p6a and p14a; no whole-book review completion.",
-  "updated_at": "2026-10-20T11:46:41.061403+00:00",
+  "task_scope": "Exactly p19–p34 including p19a–p19d; no whole-book completion.",
+  "updated_at": "2026-10-20T11:55:48.482797+00:00",
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
   "covered_paragraph_numbers": 193,
-  "case_law_provenance": "I ZR 143/24 and I ZR 86/22 fully reread and official XML freshly verified for this batch; Patentanwaltskosten card preserved without renewed substantive review.",
+  "case_law_provenance": "Davidoff Hot Water II fully read and fresh official XML verified for current batch; other three case cards retained without new substantive review.",
   "preflight_completed_at": "2026-10-20T11:36:29.881722+00:00",
   "validation_scope": "Strict build validator plus separate complete raw-XML identifier and character audit; not legal approval of the book.",
   "reviewed_ids": [
+    "p19",
+    "p19a",
+    "p19b",
+    "p19c",
+    "p19d",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34"
+  ],
+  "units_reviewed": 20,
+  "review_result": "review-result.json",
+  "review_completed_at": "2026-10-20T11:55:48.482797+00:00",
+  "whole_book_review_complete": false,
+  "cumulative_reviewed_ids": [
     "p1",
     "p2",
     "p3",
@@ -123,10 +156,28 @@
     "p15",
     "p16",
     "p17",
-    "p18"
+    "p18",
+    "p19",
+    "p19a",
+    "p19b",
+    "p19c",
+    "p19d",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34"
   ],
-  "units_reviewed": 20,
-  "review_result": "review-result.json",
-  "review_completed_at": "2026-10-20T11:46:41.061403+00:00",
-  "whole_book_review_complete": false
+  "cumulative_reviewed_units": 40,
+  "remaining_second_pass_units": 151
 }

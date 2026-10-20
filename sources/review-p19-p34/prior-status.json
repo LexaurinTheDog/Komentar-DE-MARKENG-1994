@@ -1,0 +1,132 @@
+{
+  "stage": "bounded_second_pass_complete",
+  "country": "de",
+  "identifier": "MarkenG",
+  "repo": "Komentar-DE-MARKENG-1994",
+  "decisive_date": "2026-10-19",
+  "completed_at": "2026-10-19T16:04:51.143784+00:00",
+  "total_units": 191,
+  "completed_units": 191,
+  "chapters": 13,
+  "commentary_characters": 224497,
+  "source_checks": {
+    "official_source": "https://www.gesetze-im-internet.de/markeng/",
+    "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+    "http_status": 200,
+    "version": "Art. 14 G v. 20.5.2026 I Nr.152",
+    "current_amendment_effective_from": "2026-10-01",
+    "preceding_amendment_effective_from": "2026-01-16",
+    "commencement_checked_in_official_bgbl": true,
+    "intake_sha256": "f0f08aec140ce600b08b97b6995423c2d471c6667d30532f40ae2a3a29fece86",
+    "intake_substantive_changes": [],
+    "verification": "sources/verification.json",
+    "completeness": "completeness-independent.json",
+    "annexes": "No operative annex in complete official XML",
+    "repealed_slots": [
+      "p161-163",
+      "p164"
+    ],
+    "latest_verification": "2026-10-20T11:46:41.061403+00:00",
+    "grouped_repeal": "(XXXX) §§ 161 bis 163 preserved as one official unit p161-163",
+    "eingangsformel": "No separate operative record; header introductory footnotes preserved."
+  },
+  "case_law_sources": [
+    {
+      "court": "BGH",
+      "date": "2023-01-12",
+      "docket": "I ZR 86/22",
+      "card": "cases/bgh-dachser.md",
+      "read_full_text": true
+    },
+    {
+      "court": "BGH",
+      "date": "2025-05-07",
+      "docket": "I ZR 143/24",
+      "card": "cases/bgh-werktitel.md",
+      "read_full_text": true
+    },
+    {
+      "court": "BGH",
+      "date": "2022-10-13",
+      "docket": "I ZB 59/19",
+      "card": "cases/bgh-patentanwaltskosten.md",
+      "read_full_text": true
+    }
+  ],
+  "validation_result": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 224497,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness_result": {
+    "ok": true,
+    "missing": [],
+    "duplicates": [],
+    "xml_character_mismatch": [],
+    "missing_official_identifiers": [],
+    "extra_official_identifiers": [],
+    "expected": 191,
+    "extracted": 191,
+    "covered_paragraph_numbers": 193
+  },
+  "quality_checks": {
+    "output_local_links": 104,
+    "broken_links": [],
+    "repeated_paragraphs": [],
+    "repeated_long_sentences": [],
+    "other_commentary_blocks": "All 171 unassigned unit commentaries unchanged against work baseline 30a204fc011a3f6d6d276f9cc79a12051b64f7f2",
+    "unchanged_commentary_units": 179,
+    "retained_reviewed_units": 8,
+    "corrected_reviewed_units": 12
+  },
+  "remaining_limitations": [
+    "Complete means this exact 20-unit assignment only; the remaining 171 commentary units have not received this second pass.",
+    "Selective case law: the two existing relevant BGH decisions were read and verified again; no exhaustive new case-law survey for every unit.",
+    "No new substantive review of the Patentanwaltskosten case card or commentary outside the assigned IDs.",
+    "No complete reconstruction of historical statutes or separate consolidation of all cross-referenced EU, treaty and domestic rules; those are not reproduced from memory.",
+    "Current official consolidation, both 2026 amending articles and commencement clauses checked; supplementary search is not an exhaustive BGBl pipeline audit.",
+    "No external lawyer approval or legal errorlessness certification; technical tests are separate from the recorded substantive reading."
+  ],
+  "unresolved_blockers": [],
+  "independent_second_pass": "completed for assigned 20 units; remaining 171 pending",
+  "publication": "local only; no push or external submission",
+  "prior_stage": "drafted_technical_validation",
+  "task_scope": "Exactly p1–p18 including p6a and p14a; no whole-book review completion.",
+  "updated_at": "2026-10-20T11:46:41.061403+00:00",
+  "preflight_result": "preflight-result.json",
+  "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
+  "covered_paragraph_numbers": 193,
+  "case_law_provenance": "I ZR 143/24 and I ZR 86/22 fully reread and official XML freshly verified for this batch; Patentanwaltskosten card preserved without renewed substantive review.",
+  "preflight_completed_at": "2026-10-20T11:36:29.881722+00:00",
+  "validation_scope": "Strict build validator plus separate complete raw-XML identifier and character audit; not legal approval of the book.",
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p6a",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p16",
+    "p17",
+    "p18"
+  ],
+  "units_reviewed": 20,
+  "review_result": "review-result.json",
+  "review_completed_at": "2026-10-20T11:46:41.061403+00:00",
+  "whole_book_review_complete": false
+}
