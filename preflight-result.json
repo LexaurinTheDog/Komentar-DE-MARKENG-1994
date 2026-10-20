@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "verification_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/markeng/",
-  "verified_at": "2026-10-20T13:09:43.522851+00:00",
+  "verified_at": "2026-10-20T13:10:27.229615+00:00",
   "version_evidence": {
     "consolidated_version": "Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152",
     "xml_path": "sources/markeng.xml",
@@ -321,6 +321,14 @@
       "UWG §8 and ZPO §383 read as targeted official individual provisions, without an additional full-system commentary or exhaustive amendment-history audit.",
       "Current official consolidation plus both 2026 amendment/commencement acts checked; later-law search selective, not an exhaustive BGBl pipeline audit."
     ],
-    "technical_validation": null
+    "technical_validation": {
+      "repo": "Komentar-DE-MARKENG-1994",
+      "units": 191,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 297746,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }
