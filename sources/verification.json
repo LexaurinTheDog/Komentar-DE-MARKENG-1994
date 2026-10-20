@@ -1627,22 +1627,23 @@
     },
     {
       "url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
-      "accessed_at": "2026-10-20T12:53:30.788712+00:00",
+      "final_url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+      "accessed_at": "2026-10-20T12:54:41.315382+00:00",
       "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
       "path": "sources/review-p106-p117/wipo-current.html",
-      "sha256": "4d5aefa7ecebe7b99de6a5e5368578aafee54f875b98f7bbf0284662d88ec427",
-      "format_validation": "HTML signature and Madrid legal text index verified",
-      "timestamp_note": "Timestamp recorded immediately after initial retrieval; prior successful retrieval in same review"
+      "sha256": "26f4e08db95ffd567834ed3c854cb3c7faabdeb71eecbe1abf221e666adfc5d4",
+      "format_validation": "HTML signature; current Madrid legal texts index links to treaty 283484"
     },
     {
       "url": "https://www.wipo.int/wipolex/en/text/283484",
       "final_url": "https://www.wipo.int/wipolex/en/text/283484",
-      "accessed_at": "2026-10-20T12:53:45.325357+00:00",
+      "accessed_at": "2026-10-20T12:54:41.527817+00:00",
       "http_status": 200,
       "content_type": "text/html; charset=utf-8",
       "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
       "sha256": "ab02bdcaaed2f18f769710c3df6ac8561dad76ac9cf96a570b267b7d8d1c3d4e",
-      "format_validation": "HTML signature checked; wrapper rather than treaty body"
+      "format_validation": "HTML signature and actual treaty content verified; readable extraction preserved"
     },
     {
       "url": "https://www.gesetze-im-internet.de/markeng/",
@@ -1925,6 +1926,59 @@
       "path": "sources/review-p152-p164/goeler.zip",
       "sha256": "f7a40e58e38cf7248796caa3943aeb834c768e52b66aac721afb6fb560a30f9b",
       "format_validation": "ZIP CRC validated; unique XML parsed; expected docket 26 W (pat) 27/18"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T13:36:46.703979+00:00",
+      "path": "sources/finalization-2026-10-20/index.html",
+      "http_status": 200,
+      "content_type": "text/html",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "bytes": 44679,
+      "format_validation": "HTML signature, expected act and official XML/full-text links verified; version is checked in XML, not inferred from index",
+      "valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T13:36:46.704444+00:00",
+      "path": "sources/finalization-2026-10-20/markeng.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "bytes": 60854,
+      "extracted_xml_path": "sources/finalization-2026-10-20/markeng.xml",
+      "extracted_xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+      "agrees_with_canonical_xml": true,
+      "format_validation": "ZIP magic, CRC, single XML, parsed root, jurabk and amtabk verified",
+      "valid": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:36:46.704567+00:00",
+      "path": "sources/finalization-2026-10-20/amendment-2026-152.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "bytes": 371774,
+      "agrees_with_preserved_promulgation": true,
+      "format_validation": "PDF magic/EOF, pdftotext readability, amending and commencement articles verified",
+      "valid": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:36:46.704647+00:00",
+      "path": "sources/finalization-2026-10-20/amendment-2026-9.pdf",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "bytes": 748171,
+      "agrees_with_preserved_promulgation": true,
+      "format_validation": "PDF magic/EOF, pdftotext readability, amending and commencement articles verified",
+      "valid": true
     }
   ],
   "decisive_date": "2026-10-19",
@@ -1976,7 +2030,7 @@
       ]
     }
   ],
-  "last_verified_at": "2026-10-20T13:25:43.032366+00:00",
+  "last_verified_at": "2026-10-20T13:36:46.704647+00:00",
   "preflight_decisive_date": "2026-10-19",
   "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
   "official_xml": {
@@ -2367,5 +2421,14 @@
       "OWiG §4"
     ],
     "rejected_responses": "sources/review-p152-p164/rejected-fetches.json"
-  }
+  },
+  "final_assembly_recheck": {
+    "decisive_date": "2026-10-19",
+    "fetches": "sources/finalization-2026-10-20/fetches.json",
+    "canonical_xml_unchanged": true,
+    "promulgation_pdfs_unchanged": true,
+    "purpose": "Technical source and version-evidence recheck; no new substantive second pass",
+    "web_tool_attempt": "Official index open through web tool timed out; successful direct official response bodies preserved here."
+  },
+  "finalization_metadata_repairs": "sources/finalization-2026-10-20/verification-metadata-repairs.json"
 }

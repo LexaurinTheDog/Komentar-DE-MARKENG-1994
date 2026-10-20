@@ -1,10 +1,10 @@
 {
   "complete": true,
-  "task": "source_preflight_with_bounded_review_rechecks",
+  "task": "source_preflight_with_final_assembly_recheck",
   "decisive_date": "2026-10-19",
   "verification_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/markeng/",
-  "verified_at": "2026-10-20T13:10:27.229615+00:00",
+  "verified_at": "2026-10-20T13:36:46.704647+00:00",
   "version_evidence": {
     "consolidated_version": "Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152",
     "xml_path": "sources/markeng.xml",
@@ -82,22 +82,11 @@
   ],
   "unresolved_blockers": [],
   "limitations": [
-    "This task did not review the legal meaning of all existing commentary or re-research existing case cards.",
-    "Historical laws continued by transitional references were not reconstructed in full.",
-    "Later-law search is selective; no exhaustive legislative pipeline audit claimed.",
-    "This process completes only the eleven-unit bounded second pass; earlier review records preserved, no whole-book completion claimed."
+    "Historical laws, every external or EU reference and implementing regulation have not been comprehensively reconstructed; concrete historical double tests need separate historical sources.",
+    "Current official consolidation and both relevant 2026 promulgation/commencement sources are preserved; later-amendment search is selective, not an exhaustive BGBl pipeline audit.",
+    "No new substantive second pass during final assembly; existing completed bounded reviews are aggregated separately."
   ],
-  "technical_validation": {
-    "repo": "Komentar-DE-MARKENG-1994",
-    "units": 191,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 215941,
-    "errors": [],
-    "warnings": [],
-    "ok": true,
-    "independent_xml_coverage_ok": true,
-    "broken_output_links": 0
-  },
+  "technical_validation": null,
   "bounded_review_recheck": {
     "complete": true,
     "decisive_date": "2026-10-19",
@@ -425,5 +414,13 @@
       "warnings": [],
       "ok": true
     }
+  },
+  "final_assembly_recheck": {
+    "decisive_date": "2026-10-19",
+    "fetches": "sources/finalization-2026-10-20/fetches.json",
+    "canonical_xml_unchanged": true,
+    "promulgation_pdfs_unchanged": true,
+    "purpose": "Technical source and version-evidence recheck; no new substantive second pass",
+    "web_tool_attempt": "Official index open through web tool timed out; successful direct official response bodies preserved here."
   }
 }

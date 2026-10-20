@@ -1,0 +1,53 @@
+[
+  {
+    "path": "sources/review-p106-p117/wipo-current.html",
+    "previous_metadata": {
+      "url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+      "accessed_at": "2026-10-20T12:53:30.788712+00:00",
+      "http_status": 200,
+      "path": "sources/review-p106-p117/wipo-current.html",
+      "sha256": "4d5aefa7ecebe7b99de6a5e5368578aafee54f875b98f7bbf0284662d88ec427",
+      "format_validation": "HTML signature and Madrid legal text index verified",
+      "timestamp_note": "Timestamp recorded immediately after initial retrieval; prior successful retrieval in same review"
+    },
+    "corrected_metadata": {
+      "url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+      "final_url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+      "accessed_at": "2026-10-20T12:54:41.315382+00:00",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "path": "sources/review-p106-p117/wipo-current.html",
+      "sha256": "26f4e08db95ffd567834ed3c854cb3c7faabdeb71eecbe1abf221e666adfc5d4",
+      "format_validation": "HTML signature; current Madrid legal texts index links to treaty 283484"
+    },
+    "evidence": "sources/review-p106-p117/fetches.json",
+    "reason": "Central log retained an earlier retrieval and obsolete wrapper description; batch-local final capture record matches preserved body",
+    "earlier_body_still_available": false
+  },
+  {
+    "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
+    "previous_metadata": {
+      "url": "https://www.wipo.int/wipolex/en/text/283484",
+      "final_url": "https://www.wipo.int/wipolex/en/text/283484",
+      "accessed_at": "2026-10-20T12:53:45.325357+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
+      "sha256": "ab02bdcaaed2f18f769710c3df6ac8561dad76ac9cf96a570b267b7d8d1c3d4e",
+      "format_validation": "HTML signature checked; wrapper rather than treaty body"
+    },
+    "corrected_metadata": {
+      "url": "https://www.wipo.int/wipolex/en/text/283484",
+      "final_url": "https://www.wipo.int/wipolex/en/text/283484",
+      "accessed_at": "2026-10-20T12:54:41.527817+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
+      "sha256": "ab02bdcaaed2f18f769710c3df6ac8561dad76ac9cf96a570b267b7d8d1c3d4e",
+      "format_validation": "HTML signature and actual treaty content verified; readable extraction preserved"
+    },
+    "evidence": "sources/review-p106-p117/fetches.json",
+    "reason": "Central log retained an earlier retrieval and obsolete wrapper description; batch-local final capture record matches preserved body",
+    "earlier_body_still_available": true
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "complete": false,
+  "task": "bounded_finalize",
+  "assembled_at": "2026-10-20T13:40:26.079509+00:00",
+  "decisive_date": "2026-10-19",
+  "total_units": 191,
+  "completed_commentary_units": 191,
+  "ledger_reviewed_units": 191,
+  "new_substantive_reviews": 0,
+  "chapters": 13,
+  "all_reviewed_commentary_hashes_match": true,
+  "all_reviewed_statutory_hashes_match": true,
+  "all_official_doknr_match": true,
+  "commentary_unchanged_from_finalization_baseline": true,
+  "baseline_hashes": "sources/finalization-2026-10-20/commentary-baseline-hashes.json",
+  "source_checks": "sources/verification.json",
+  "ledger": "batch-review-ledger.json",
+  "ledger_sha256": "ae06fe9f4219a5ea1fd9b41d1ff6fe686179b4a38caa63b22b9529d4695de0e9",
+  "validation": null,
+  "completeness": {
+    "ok": true,
+    "expected": 191,
+    "parsed": 191,
+    "missing": [],
+    "extra": [],
+    "duplicate_ids": [],
+    "xml_character_mismatch": []
+  },
+  "quality": {
+    "checked_output_links": 555,
+    "broken_links": [],
+    "repeated_paragraphs": [],
+    "repeated_long_sentences": [],
+    "placeholder_matches": []
+  },
+  "unresolved_blockers": [],
+  "limitations": [
+    "Assigned task is final assembly and technical validation only. No new substantive unit review or independent whole-book approval was performed; no whole-book completion certification.",
+    "Ledger proves recorded bounded review coverage and matching final hashes, not legal errorlessness or external professional approval.",
+    "Case law remains selective: 19 inherited case cards with full-text review recorded in their bounded reviews, no fresh full-text rereading or exhaustive later-case audit during final assembly.",
+    "Historical laws, every external or EU reference and implementing regulation have not been comprehensively reconstructed; concrete historical double tests need separate historical sources.",
+    "Current official consolidation and both relevant 2026 promulgation/commencement sources are preserved; later-amendment search is selective, not an exhaustive BGBl pipeline audit.",
+    "Earlier failed Firecrawl/EUR-Lex/PDF requests remain documented and are not valid source evidence. Fresh direct official HTTP captures succeeded. An initial finalization index assertion wrongly expected a version date on the table of contents; it was corrected to check the version in XML, with the failed attempt retained.",
+    "Central WIPO discovery-index/treaty retrieval metadata was synchronized to the already preserved final batch-local captures. The earlier discovery-index response body is no longer available; its obsolete metadata is archived, not claimed as a retained source. The actual final index body and treaty full text both match their contemporaneous batch-local hashes."
+  ],
+  "whole_book_completion_claimed": false,
+  "publication": "local only; no push or external submission"
+}
