@@ -1,0 +1,15 @@
+§ 200 GVG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gerichtsverfassungsgesetz (GVG)
+§ 200
+Für Nachteile, die auf Grund von Verzögerungen bei Gerichten eines Landes eingetreten sind, haftet das Land. Für Nachteile, die auf Grund von Verzögerungen bei Gerichten des Bundes eingetreten sind, haftet der Bund. Für Staatsanwaltschaften und Finanzbehörden in Fällen des § 386 Absatz 2 der Abgabenordnung gelten die Sätze 1 und 2 entsprechend.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

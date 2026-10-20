@@ -1,0 +1,18 @@
+§ 7 VwZG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Verwaltungszustellungsgesetz (VwZG)
+§ 7
+Zustellung an Bevollmächtigte
+(1) Zustellungen können an den allgemeinen oder für bestimmte Angelegenheiten bestellten Bevollmächtigten gerichtet werden. Sie sind an ihn zu richten, wenn er schriftliche Vollmacht vorgelegt hat. Ist ein Bevollmächtigter für mehrere Beteiligte bestellt, so genügt die Zustellung eines Dokuments an ihn für alle Beteiligten.
+(2) Einem Zustellungsbevollmächtigten mehrerer Beteiligter sind so viele Ausfertigungen oder Abschriften zuzustellen, als Beteiligte vorhanden sind.
+(3) Auf § 180 Abs. 2 der Abgabenordnung beruhende Regelungen und die §§ 183 und 183a der Abgabenordnung bleiben unberührt.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

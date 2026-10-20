@@ -1,0 +1,104 @@
+---
+source: rechtsprechung-im-internet
+country: de
+document_type: decision
+court: BPatG
+chamber: 24. Senat
+ecli: null
+doknr: JURE119007542
+case_number: 24 W (pat) 33/09
+date: '2010-10-26'
+decision_type: Beschluss
+norms: § 8 Abs 2 Nr 1 MarkenG, § 97 MarkenG, § 103 MarkenG
+prior_instance: null
+source_url: https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=JURE119007542
+download_url: https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE119007542.zip
+chars: 9542
+license: amtliches Werk (§ 5 UrhG)
+retrieved_at: '2026-10-03T08:56:40Z'
+---
+
+# BPatG 24 W (pat) 33/09 (2010-10-26)
+
+- **Gericht:** BPatG 24. Senat
+- **Datum:** 2010-10-26
+- **Aktenzeichen:** 24 W (pat) 33/09
+- **ECLI:** —
+- **Dokumenttyp:** Beschluss
+- **Normen:** § 8 Abs 2 Nr 1 MarkenG, § 97 MarkenG, § 103 MarkenG
+
+## Titelzeile
+
+Markenbeschwerdeverfahren – "Wasser bewegt uns" – Kollektivmarke - keine Unterscheidungskraft
+
+## Tenor
+
+In der Beschwerdesache
+
+…
+
+betreffend die Markenanmeldung 306 36 895.1
+
+hat der 24. Senat (Marken-Beschwerdesenat) des Bundespatentgerichts auf die mündliche Verhandlung vom 26. Oktober 2010 unter Mitwirkung des Vorsitzenden Richters Prof. Dr. Hacker, des Richters Viereck und der Richterin Dr. Mittenberger-Huber
+
+beschlossen:
+
+Die Beschwerde wird zurückgewiesen.
+
+## Gründe
+
+I.
+
+1 Das Zeichen
+
+2 Wasser bewegt uns
+
+3 ist als Kollektivmarke für die Dienstleistungen
+
+4 „Errichtung und Betrieb von Wasserversorgungsanlagen; Versorgung der Verbandsmitglieder mit Wasser; Planung von Wasserversorgungsanlagen und damit verbundene Ingenieurleistungen; Forschungen auf dem Gebiet der Wasserversorgung und im Bereich der Vermessungs- und Elektrotechnik; Übernahme von Betriebsleitungen im Auftrag kommunaler Wasserversorgungsunternehmen"
+
+5 zur Eintragung in das Register angemeldet.
+
+6 Die Markenstelle für Klasse 42 des Deutschen Patent- und Markenamtes hat die Anmeldung mit Beschluss vom 17. Juni 2008 und die dagegen eingelegte Erinnerung durch Beschluss vom 2. März 2009 zurückgewiesen.
+
+7 Zur Begründung hat sie ausgeführt, dem Wortzeichen fehle jegliche Unterscheidungskraft. Es handle sich um eine sloganartige Wortfolge, die im Hinblick auf die beanspruchten Dienstleistungen lediglich eine Sachaussage darstelle. Für den Verkehr sei erkennbar, dass sich das Zeichen auf Dienstleistungen beziehe, die sich mit Wasser beschäftigten oder in Zusammenhang damit stünden. Unabhängig von der doppelten Bedeutung des Wortes „bewegen“, handle es sich lediglich um eine werbende Aussage, die - in Verbindung mit diesem Verb - im deutschen Sprachgebrauch üblich und gebräuchlich sei. Auch aus den Vorschriften über Kollektivmarken ergebe sich nichts Anderes.
+
+8 Gegen diese Beurteilung richtet sich die Beschwerde des Anmelders. Er meint, dass das Zeichen „Wasser bewegt uns“ über die erforderliche Unterscheidungskraft verfüge. Der vorgenannte Slogan enthalte keinen beschreibenden Hinweis auf das Produkt selbst, sondern lediglich einen solchen auf den Anmelder bzw. dessen Mitglieder. Das Deutsche Patent- und Markenamt habe zu Unrecht auf den Bestandteil „bewegt“ abgestellt, da das Schutzhindernis für die Wortfolge in der Gesamtheit bestehen müsse. Das Zeichen genüge auch den Anforderungen der Rechtsprechung des Gerichtshofs der Europäischen Gemeinschaften. Eine Wortfolge müsse weder phantasievoll sein, noch ein begriffliches Spannungsfeld aufweisen. Der Slogan sei mehrdeutig und eine Interpretation in wörtlichem ebenso wie in übertragenem Sinn denkbar. Bei Anlegung des vom Bundesgerichtshof geforderten großzügigen Maßstabs sei das angemeldete Zeichen daher schutzfähig.
+
+9 Der Anmelder beantragt,
+
+10 die angefochtenen Beschlüsse der Markenstelle aufzuheben.
+
+11 Wegen der weiteren Einzelheiten wird auf den Akteninhalt Bezug genommen.
+
+II.
+
+12 Die zulässige Beschwerde ist unbegründet, da der als Kollektivmarke angemeldeten Wortfolge „Wasser bewegt uns“ jegliche Unterscheidungskraft fehlt und ihr damit das über §§ 97, 103 MarkenG modifiziert anzuwendende Eintragungshindernis des § 8 Abs. 2 Nr. 1 MarkenG entgegensteht.
+
+13 1. An die Unterscheidungskraft von Kollektivmarken im Sinn von § 97 Abs. 1 MarkenG sind teilweise andere Anforderungen zu stellen als an Individualmarken. Sie können ihre „kollektive“ Unterscheidungskraft nicht nur aus der Eignung als betriebliche Herkunftskennzeichnung gewinnen, auch der Hinweis auf die geografische Herkunft oder die Qualität der Waren und Dienstleistungen kann ihre Schutzfähigkeit begründen. Insoweit liegt eine „kollektive“ Unterscheidungskraft schon dann vor, wenn das Zeichen auf eine Gruppe von Unternehmen hinweist und diese so von anderen Geschäftsbetrieben unterscheidet. Im Übrigen darf aber auch bei Kollektivmarken nicht auf jegliche Unterscheidungskraft im Sinne von § 8 Abs. 2 Nr. 1 MarkenG verzichtet werden (BGH GRUR 1996, 270, 271 - MADEIRA; Kober-Dehm in: Ströbele/Hacker, Markengesetz, 9. Auflage, § 103 Rn. 2).
+
+14 2. Nach diesen Grundsätzen ist die Wortfolge „Wasser bewegt uns“ für die beanspruchten Dienstleistungen nicht schutzfähig, da ihr - auch als Kollektivmarke - jegliche Unterscheidungskraft fehlt.
+
+15 2. 1. Die Wortfolge „Wasser bewegt uns“ ist der schlagwortartige Hinweis auf die besondere Bedeutung, die das Thema „Wasser“ für den Verwender besitzt. Der Anmelder geht zwar zutreffend davon aus, dass das angemeldete Zeichen keinen beschreibenden Hinweis auf die beanspruchten Dienstleistungen darstellt, obgleich diese alle mit Wasser bzw. der Wasserversorgung zu tun haben. Auch an einem engen beschreibenden Bezug fehlt es. Allerdings handelt es sich um eine sachbezogene Anpreisung, die sprachüblich gebildet ist, von zahlreichen unterschiedlichen Unternehmen verwendet wird und bereits häufig belegt ist. Es handelt sich deshalb nur um eine Werbeaussage, die der Verkehr nicht als Hinweis auf eine - auch kollektive - betriebliche Herkunft versteht.
+
+16 2. 2. Aus den – dem Anmelder übersandten – Rechercheunterlagen ergibt sich, dass auch andere Betriebe, Institutionen oder Einzelpersonen, die auf ganz unterschiedlichen Gebieten mit Wasser befasst sind, das angemeldete Zeichen für ihre Darstellung oder Werbung wie folgt verwenden:
+
+17 - Ein Dienstleister für Teichtechnik- und Teichbauprodukte wirbt mit: „Wir sorgen für noch mehr Bewegung im Teichmarkt, denn Wasser bewegt uns alle!“ (http://www.teich-i-tekten.de/).
+
+18 - Die Imperial Schifffahrt GmbH bewirbt ihre Befrachtungsdienstleistungen mit: „Wasser bewegt uns!“ (www.imperial-schiffahrt.de/spotmarkt-befrachtung.php).
+
+19 - Der Kräuterpark Bad Heilbrunn lädt ein mit den Worten: „Wasser ist Leben. Wasser bewegt uns alle: Es sprudelt aus der Quelle ….“ (www.google.de Stichwort: „Wasser bewegt uns“).
+
+20 - Eine brandenburgische Rohrleitungsfirma stellt sich mit den Worten vor: „Unser Motto 'Wasser bewegt uns' steht als Synonym für unsere Mitarbeiter, die täglich ihr Bestes geben …“ (www.google.de Stichwort: „Wasser bewegt uns“).
+
+21 - Im BNE-Portal (Bildung für nachhaltige Entwicklung) wird als thematisches Lehrmaterial die Broschüre „Wasser bewegt uns. Nutzungsansprüche an Räume.“ angeboten (www.google.de Stichwort: „Wasser bewegt uns“).
+
+22 - Ein Sachverständiger für Wasserwirtschaft bietet seine Dienstleistungen ebenfalls unter dem Oberbegriff „Wasser bewegt uns“ an (www.google.de Stichwort: „Wasser bewegt uns“).
+
+23 - An der Hochschule für Technik Stuttgart haben sich Studierende im Fach Architektur mit dem Thema „Wasser bewegt uns“ beschäftigt (www.google.de Stichwort: „Wasser bewegt uns“).
+
+24 2. 3. Einem Verständnis als Marke steht ferner entgegen, dass auch andere mit „….bewegt uns“ gebildete Redewendungen dem Verbraucher in der sprachlichen Struktur bekannt und daher verkehrsüblich sind. Es ist nicht nur Wasser, das bewegt, sondern „Geologie bewegt uns alle“ (Geologische Bundesanstalt Anlagenkonvolut Bl. 43 d. A.); „Wissen bewegt uns“ (http://550.unibas.ch/Wissen-Bewegt-Uns.3.0.html), oder Geschichte (Vortragsreihe am Historischen Seminar der TU Braunschweig zum Thema „Geschichte, die uns bewegt“; www.heike-maetzing.de/ArtikelDamm.htm). Der Verkehr wird daher ähnlich gebildete Satzstrukturen als bekannt wiedererkennen und entgegen der Auffassung des Anmelders die jeweilige Wortfolge weder für interpretationsbedürftig noch für mehrdeutig halten. Er wird sie allenfalls als schlagwortartigen Hinweis auf ein Thema verstehen, das den Verwender veranlasst, auch andere darauf hinzuweisen, dass es sich um eine lohnende Aufgabenstellung handelt, mit der man sich intensiv beschäftigen sollte.
+
+25 2. 4. Unerheblich ist in diesem Zusammenhang, dass sich die nachgewiesenen Verwendungen der beanspruchten bzw. ähnlich gebildeter Wortfolgen nicht exakt auf die von der Anmeldung erfassten Dienstleistungen beziehen. Zwar ist auch das Schutzhindernis der fehlenden Unterscheidungskraft im Hinblick auf die konkret beanspruchten Waren oder Dienstleistungen zu prüfen (vgl. EuGH GRUR 2004, 674, 675 - Rn. 33 - Postkantoor; GRUR 2010, 534 - Rn. 22 ff. - PRANAHAUS). Jedoch lässt sich nicht ausschließen, dass die Verbraucher einer bestimmten (Ware oder) Dienstleistung gegebenenfalls durch für andere, ebenfalls von ihnen (konsumierte Waren oder) in Anspruch genommene Dienstleistungen entwickelte Vermarktungsmodalitäten in ihrer Wahrnehmung der für die betreffende (Ware oder) Dienstleistung angemeldeten Marke beeinflusst werden. So kann es je nach der Natur der fraglichen Waren/Dienstleistungen und der angemeldeten Marke für die Beurteilung der Unterscheidungskraft der Marke erforderlich sein, einen weiter gefassten Sektor zu Grunde zu legen. Kennzeichnungsgepflogenheiten, d. h. hier die bereits erfolgte dienstleistungsbezogene Verwendung einer gleichlautenden (oder ähnlichen) Wortfolge auf Produktgebieten, die denen der Anmeldung mehr oder weniger nahestehen, können daher bei der Beurteilung der Unterscheidungskraft Berücksichtigung finden (vgl. EuGH GRUR 2006, 233, 234 – Rn. 32 ff. – Standbeutel).
+
+26 Kennt der Verbraucher daher - wie im vorliegenden Fall - die Wortfolge „Wasser bewegt uns“ für das Angebot diverser Dienstleistungen im Zusammenhang mit dem Element „Wasser“, so kann und wird er nicht (mehr) annehmen, dass dieses Zeichen individualisierend auf einen bestimmten Verband hinweisen soll. Dies selbst dann nicht, wenn es ihm bisher noch nicht mit Unternehmen der Wasserversorgung, sondern lediglich mit anderen Dienstleistern begegnet ist.

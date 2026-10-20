@@ -1,0 +1,16 @@
+§ 8 VwZG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Verwaltungszustellungsgesetz (VwZG)
+§ 8
+Heilung von Zustellungsmängeln
+Lässt sich die formgerechte Zustellung eines Dokuments nicht nachweisen oder ist es unter Verletzung zwingender Zustellungsvorschriften zugegangen, gilt es als in dem Zeitpunkt zugestellt, in dem es dem Empfangsberechtigten tatsächlich zugegangen ist, im Fall des § 5 Abs. 5 in dem Zeitpunkt, in dem der Empfänger das Empfangsbekenntnis zurückgesendet hat.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,19 @@
+§ 85 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 85
+Wirkung der Prozessvollmacht
+(1) Die von dem Bevollmächtigten vorgenommenen Prozesshandlungen sind für die Partei in gleicher Art verpflichtend, als wenn sie von der Partei selbst vorgenommen wären. Dies gilt von Geständnissen und anderen tatsächlichen Erklärungen, insoweit sie nicht von der miterschienenen Partei sofort widerrufen oder berichtigt werden.
+(2) Das Verschulden des Bevollmächtigten steht dem Verschulden der Partei gleich.
+Fußnote
+§ 85 Abs. 2: Mit dem GG nach Maßgabe der Entscheidungsformel vereinbar, BVerfGE v. 20.4.1982 I 1169 - 2 BvL 26/81 -
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-10-20T12:40:12.138240+00:00",
+  "queries": [
+    {
+      "query": "site:rechtsprechung-im-internet.de Kollektivmarke § 100 ernsthafte Benutzung; site:rechtsprechung-im-internet.de MarkenG Wiedereinsetzung § 91",
+      "result": "No useful official decision result returned in initial three-query web batch; no web snippet used as holding."
+    },
+    {
+      "query": "site:rechtsprechung-im-internet.de Kollektivmarke Unterscheidungskraft; site:recht.bund.de Markengesetz 2026 Änderung",
+      "evidence": "sources/review-p90-p105/web-search.json",
+      "result": "Selective official-domain search; no evidenced subsequent MarkenG amendment identified, no exhaustive legislative audit."
+    }
+  ],
+  "local_corpus_queries": [
+    "rg -l Kollektivmarke /Volumes/LaCie/law-intake/eu/de/rii",
+    "rg -l --glob *.md § 91.*MarkenG|MarkenG.*§ 91 /Volumes/LaCie/law-intake/eu/de/rii"
+  ],
+  "candidate_inventory": "sources/review-p90-p105/collective-candidates.txt",
+  "selected_cases": [
+    {
+      "court": "BPatG",
+      "date": "2010-10-26",
+      "docket": "24 W (pat) 33/09",
+      "ecli": null,
+      "ecli_note": "Official XML ECLI preserved; no inferred identifier",
+      "read_full_text": true,
+      "read_scope": "Vollständiger Tenor und Gründe Rn. 1–26",
+      "supported_reviewed_ids": [
+        "p97",
+        "p103"
+      ],
+      "official_xml": "sources/review-p90-p105/wasser.xml",
+      "official_xml_sha256": "562d5317578d987a42aba377591fbba6b74819a64f163f4bcfd75a14288d81fb",
+      "corpus_path": "sources/review-p90-p105/wasser-local.md",
+      "corpus_sha256": "6289a3b84ec5cb56ca6adb4fadf6c59ea3bfd988cf019da77f7ee9151488217b",
+      "nonempty_official_paragraphs_compared": 34,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bpatg-wasser-bewegt-uns.md",
+      "superseded_law_check": "Current collective distinctiveness under §§ 97/103 persists; modern § 103(2)/(3) explained from current statute, not retroactively attributed. No general slogan prohibition."
+    },
+    {
+      "court": "BGH",
+      "date": "2021-07-29",
+      "docket": "I ZR 163/19",
+      "ecli": "ECLI:DE:BGH:2021:290721UIZR163.19.0",
+      "ecli_note": "Official XML ECLI preserved; no inferred identifier",
+      "read_full_text": true,
+      "read_scope": "Vollständiger Tenor, Tatbestand Rn. 1–5, Entscheidungsgründe Rn. 6–52, Namenszeilen",
+      "supported_reviewed_ids": [
+        "p99",
+        "p102"
+      ],
+      "official_xml": "sources/review-p90-p105/hohenlohe.xml",
+      "official_xml_sha256": "682098cfc08a0b05a09d80bbc0f04c837e9f25b093655b08f14aca944db7251d",
+      "corpus_path": "sources/review-p90-p105/hohenlohe-local.md",
+      "corpus_sha256": "32fff017a8f759e2aa97faaa916fe52a9e65ed401ea082c5486e97767796c986",
+      "nonempty_official_paragraphs_compared": 60,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bgh-hohenloher-landschwein.md",
+      "superseded_law_check": "Former § 100(1) became § 99(2) on 16 January 2026; current anständige Gepflogenheiten expressly noted, prior express § 127 condition removed. Used only for bounded totality test/quality-function propositions, not continued application of former EU Regulation 1151/2012."
+    }
+  ],
+  "excluded_candidate": {
+    "docket": "27 W (pat) 111/10",
+    "date": "2011-06-28",
+    "corpus": "/Volumes/LaCie/law-intake/eu/de/rii/rii-mpre190480964.md",
+    "read": "Tenor and grounds Rn. 1–66",
+    "reason": "Historical VERO CUOIO discussion in Rn. 41–50 says statutory amendments to regulations were no longer registered then; current § 104(3) expressly makes registration constitutive, and former § 105(1) no. 3 is now no. 4. Not cited as current authority."
+  },
+  "fresh_fetches": "sources/review-p90-p105/fetches.json",
+  "no_new_case_selected_ids": [
+    "p90",
+    "p91",
+    "p91a",
+    "p92",
+    "p93",
+    "p93a",
+    "p94",
+    "p95",
+    "p95a",
+    "p96",
+    "p96a",
+    "p98",
+    "p100",
+    "p101",
+    "p104",
+    "p105"
+  ],
+  "limit": "Selective case research: BPatG 24 W (pat) 33/09 and BGH I ZR 163/19 read in full in local corpus and compared to fresh official XML. Nine earlier case cards retained without renewed substantive review. No additional sufficiently specific case selected for remaining 16 assigned units; no assertion that none exists."
+}

@@ -1,0 +1,19 @@
+§ 6 PatKostG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (Patentkostengesetz - PatKostG)
+§ 6
+Zahlungsfristen, Folgen der Nichtzahlung
+(1) Ist für die Stellung eines Antrags oder die Vornahme einer sonstigen Handlung durch Gesetz eine Frist bestimmt, so ist innerhalb dieser Frist auch die Gebühr zu zahlen. Alle übrigen Gebühren sind innerhalb von drei Monaten ab Fälligkeit (§ 3 Abs. 1) zu zahlen, soweit gesetzlich nichts anderes bestimmt ist.
+(2) Wird eine Gebühr nach Absatz 1 nicht, nicht vollständig oder nicht rechtzeitig gezahlt, so gilt die Anmeldung oder der Antrag als zurückgenommen, oder die Handlung als nicht vorgenommen, soweit gesetzlich nichts anderes bestimmt ist.
+(3) Absatz 2 ist auf Weiterleitungsgebühren (Nummern 335 100, 344 100 und 345 100) nicht anwendbar.
+(4) Zahlt der Erinnerungsführer die Gebühr für das Erinnerungsverfahren nicht, nicht rechtzeitig oder nicht vollständig, so gilt auch die von ihm nach § 64 Abs. 6 Satz 2 des Markengesetzes eingelegte Beschwerde als zurückgenommen.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

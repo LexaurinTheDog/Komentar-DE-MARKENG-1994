@@ -1,0 +1,25 @@
+§ 186 GVG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gerichtsverfassungsgesetz (GVG)
+§ 186
+(1) Die Verständigung mit einer hör- oder sprachbehinderten Person erfolgt nach ihrer Wahl mündlich, schriftlich oder mit Hilfe einer die Verständigung ermöglichenden Person, die vom Gericht hinzuzuziehen ist. Für die mündliche und schriftliche Verständigung hat das Gericht die geeigneten technischen Hilfsmittel bereitzustellen. Die hör- oder sprachbehinderte Person ist auf ihr Wahlrecht hinzuweisen.
+(2) Das Gericht kann eine schriftliche Verständigung verlangen oder die Hinzuziehung einer Person als Dolmetscher anordnen, wenn die hör- oder sprachbehinderte Person von ihrem Wahlrecht nach Absatz 1 keinen Gebrauch gemacht hat oder eine ausreichende Verständigung in der nach Absatz 1 gewählten Form nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+1.
+den Umfang des Anspruchs auf Bereitstellung von geeigneten Kommunikationshilfen gemäß den Absätzen 1 und 2,
+2.
+die Grundsätze einer angemessenen Vergütung für den Einsatz von Kommunikationshilfen gemäß den Absätzen 1 und 2,
+3.
+die geeigneten Kommunikationshilfen, mit Hilfe derer die in den Absätzen 1 und 2 genannte Verständigung zu gewährleisten ist, und
+4.
+ob und wie die Person mit Hör- oder Sprachbehinderung mitzuwirken hat.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->
