@@ -64,7 +64,7 @@
     "repo": "Komentar-DE-MARKENG-1994",
     "units": 191,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 224497,
+    "commentary_chars": 232237,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -103,7 +103,7 @@
   "publication": "local only; no push or external submission",
   "prior_stage": "drafted_technical_validation",
   "task_scope": "Exactly p19–p34 including p19a–p19d; no whole-book completion.",
-  "updated_at": "2026-10-20T11:55:48.482797+00:00",
+  "updated_at": "2026-10-20T11:56:45.844744+00:00",
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
   "covered_paragraph_numbers": 193,
@@ -134,7 +134,7 @@
   ],
   "units_reviewed": 20,
   "review_result": "review-result.json",
-  "review_completed_at": "2026-10-20T11:55:48.482797+00:00",
+  "review_completed_at": "2026-10-20T11:56:45.844744+00:00",
   "whole_book_review_complete": false,
   "cumulative_reviewed_ids": [
     "p1",
