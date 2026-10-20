@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_second_pass_validation_pending",
+  "stage": "bounded_second_pass_complete",
   "country": "de",
   "identifier": "MarkenG",
   "repo": "Komentar-DE-MARKENG-1994",
@@ -26,7 +26,7 @@
       "p161-163",
       "p164"
     ],
-    "latest_verification": "2026-10-20T12:55:03.553648+00:00",
+    "latest_verification": "2026-10-20T12:55:46.972535+00:00",
     "grouped_repeal": "(XXXX) §§ 161 bis 163 preserved as one official unit p161-163",
     "eingangsformel": "No separate operative record; header introductory footnotes preserved."
   },
@@ -134,7 +134,7 @@
     "repo": "Komentar-DE-MARKENG-1994",
     "units": 191,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 277352,
+    "commentary_chars": 287218,
     "errors": [],
     "warnings": [],
     "ok": true
@@ -174,7 +174,7 @@
   "publication": "local only; no push or external submission",
   "prior_stage": "drafted_technical_validation",
   "task_scope": "Exactly p106–p117 including p106a–p106h; no whole-book completion.",
-  "updated_at": "2026-10-20T12:55:03.553648+00:00",
+  "updated_at": "2026-10-20T12:55:46.972535+00:00",
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
   "covered_paragraph_numbers": 193,
@@ -205,7 +205,7 @@
   ],
   "units_reviewed": 20,
   "review_result": "review-result.json",
-  "review_completed_at": null,
+  "review_completed_at": "2026-10-20T12:55:46.972535+00:00",
   "whole_book_review_complete": false,
   "cumulative_reviewed_ids": [
     "p1",
