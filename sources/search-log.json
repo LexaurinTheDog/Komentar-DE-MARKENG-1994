@@ -430,7 +430,7 @@
     "limit": "Selective case research: Nivea-Blau read in full and verified against official XML. No sufficiently specific additional verified case selected for the other 19 assigned units; no claim that no such case exists. Earlier case cards not re-reviewed."
   },
   "bounded_review_p55_p71": {
-    "checked_at": "2026-10-20T12:17:48.567681+00:00",
+    "checked_at": "2026-10-20T12:19:02.393169+00:00",
     "queries": [
       {
         "query": "site:rechtsprechung-im-internet.de \"24 W (pat) 46/09\"",
