@@ -1,0 +1,16 @@
+§ 237 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 237
+Zuständigkeit für Wiedereinsetzung
+Über den Antrag auf Wiedereinsetzung entscheidet das Gericht, dem die Entscheidung über die nachgeholte Prozesshandlung zusteht.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

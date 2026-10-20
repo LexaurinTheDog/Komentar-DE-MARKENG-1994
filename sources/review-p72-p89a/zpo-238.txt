@@ -1,0 +1,19 @@
+§ 238 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 238
+Verfahren bei Wiedereinsetzung
+(1) Das Verfahren über den Antrag auf Wiedereinsetzung ist mit dem Verfahren über die nachgeholte Prozesshandlung zu verbinden. Das Gericht kann jedoch das Verfahren zunächst auf die Verhandlung und Entscheidung über den Antrag beschränken.
+(2) Auf die Entscheidung über die Zulässigkeit des Antrags und auf die Anfechtung der Entscheidung sind die Vorschriften anzuwenden, die in diesen Beziehungen für die nachgeholte Prozesshandlung gelten. Der Partei, die den Antrag gestellt hat, steht jedoch der Einspruch nicht zu.
+(3) Die Wiedereinsetzung ist unanfechtbar.
+(4) Die Kosten der Wiedereinsetzung fallen dem Antragsteller zur Last, soweit sie nicht durch einen unbegründeten Widerspruch des Gegners entstanden sind.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

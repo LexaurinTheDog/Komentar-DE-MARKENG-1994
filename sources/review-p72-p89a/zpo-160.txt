@@ -1,0 +1,50 @@
+§ 160 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 160
+Inhalt des Protokolls
+(1) Das Protokoll enthält
+1.
+den Ort und den Tag der Verhandlung;
+2.
+die Namen der Richter, des Urkundsbeamten der Geschäftsstelle und des etwa zugezogenen Dolmetschers sowie im Fall des § 128a Absatz 5 Satz 2 dieses Gesetzes und des § 185 Absatz 1a des Gerichtsverfassungsgesetzes die Angabe, wer an der Verhandlung oder der Beweisaufnahme per Bild- und Tonübertragung teilnimmt;
+3.
+die Bezeichnung des Rechtsstreits;
+4.
+die Namen der erschienenen Parteien, Nebenintervenienten, Vertreter, Bevollmächtigten, Beistände, Zeugen und Sachverständigen sowie im Fall der §§ 128a und 284 Absatz 2 die Angabe, wer an der Verhandlung oder der Beweisaufnahme per Bild- und Tonübertragung teilnimmt, und im Fall des § 284 Absatz 3 die Gerichtsstelle, von der aus die Parteien, Zeugen und Sachverständigen an der Beweisaufnahme teilnehmen;
+5.
+die Angabe, dass öffentlich verhandelt oder die Öffentlichkeit ausgeschlossen worden ist.
+(2) Die wesentlichen Vorgänge der Verhandlung sind aufzunehmen.
+(3) Im Protokoll sind festzustellen
+1.
+Anerkenntnis, Anspruchsverzicht und Vergleich;
+2.
+die Anträge;
+3.
+Geständnis und Erklärung über einen Antrag auf Parteivernehmung sowie sonstige Erklärungen, wenn ihre Feststellung vorgeschrieben ist;
+4.
+die Aussagen der Zeugen, Sachverständigen und vernommenen Parteien; bei einer wiederholten Vernehmung braucht die Aussage nur insoweit in das Protokoll aufgenommen zu werden, als sie von der früheren abweicht;
+5.
+das Ergebnis eines Augenscheins;
+6.
+die Entscheidungen (Urteile, Beschlüsse und Verfügungen) des Gerichts;
+7.
+die Verkündung der Entscheidungen;
+8.
+die Zurücknahme der Klage oder eines Rechtsmittels;
+9.
+der Verzicht auf Rechtsmittel;
+10.
+das Ergebnis der Güteverhandlung.
+(4) Die Beteiligten können beantragen, dass bestimmte Vorgänge oder Äußerungen in das Protokoll aufgenommen werden. Das Gericht kann von der Aufnahme absehen, wenn es auf die Feststellung des Vorgangs oder der Äußerung nicht ankommt. Dieser Beschluss ist unanfechtbar; er ist in das Protokoll aufzunehmen.
+(5) Der Aufnahme in das Protokoll steht die Aufnahme in eine Schrift gleich, die dem Protokoll als Anlage beigefügt und in ihm als solche bezeichnet ist.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

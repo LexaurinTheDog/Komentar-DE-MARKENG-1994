@@ -1,0 +1,17 @@
+§ 236 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 236
+Wiedereinsetzungsantrag
+(1) Die Form des Antrags auf Wiedereinsetzung richtet sich nach den Vorschriften, die für die versäumte Prozesshandlung gelten.
+(2) Der Antrag muss die Angabe der die Wiedereinsetzung begründenden Tatsachen enthalten; diese sind bei der Antragstellung oder im Verfahren über den Antrag glaubhaft zu machen. Innerhalb der Antragsfrist ist die versäumte Prozesshandlung nachzuholen; ist dies geschehen, so kann Wiedereinsetzung auch ohne Antrag gewährt werden.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

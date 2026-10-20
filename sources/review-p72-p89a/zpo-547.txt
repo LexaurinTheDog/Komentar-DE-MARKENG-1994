@@ -1,0 +1,28 @@
+§ 547 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 547
+Absolute Revisionsgründe
+Eine Entscheidung ist stets als auf einer Verletzung des Rechts beruhend anzusehen,
+1.
+wenn das erkennende Gericht nicht vorschriftsmäßig besetzt war;
+2.
+wenn bei der Entscheidung ein Richter mitgewirkt hat, der von der Ausübung des Richteramts kraft Gesetzes ausgeschlossen war, sofern nicht dieses Hindernis mittels eines Ablehnungsgesuchs ohne Erfolg geltend gemacht ist;
+3.
+wenn bei der Entscheidung ein Richter mitgewirkt hat, obgleich er wegen Besorgnis der Befangenheit abgelehnt und das Ablehnungsgesuch für begründet erklärt war;
+4.
+wenn eine Partei in dem Verfahren nicht nach Vorschrift der Gesetze vertreten war, sofern sie nicht die Prozessführung ausdrücklich oder stillschweigend genehmigt hat;
+5.
+wenn die Entscheidung auf Grund einer mündlichen Verhandlung ergangen ist, bei der die Vorschriften über die Öffentlichkeit des Verfahrens verletzt sind;
+6.
+wenn die Entscheidung entgegen den Bestimmungen dieses Gesetzes nicht mit Gründen versehen ist.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

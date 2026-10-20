@@ -1,0 +1,31 @@
+§ 160a ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 160a
+Vorläufige Protokollaufzeichnung
+(1) Der Inhalt des Protokolls kann vorläufig aufgezeichnet werden.
+(2) Das Protokoll ist im Fall des Absatzes 1 unverzüglich nach der Sitzung herzustellen. Wenn Aussagen nach § 160 Absatz 3 Nummer 4 oder das Ergebnis eines Augenscheins nach § 160 Absatz 3 Nummer 5 in Ton oder in Bild und Ton vorläufig aufgezeichnet worden sind, muss lediglich dies in dem Protokoll vermerkt werden. Das Protokoll ist um den Inhalt der vorläufigen Aufzeichnungen nach Satz 2 zu ergänzen, wenn eine Partei dies bis zum rechtskräftigen Abschluss des Verfahrens beantragt oder das Rechtsmittelgericht die Ergänzung anfordert. Sind Aussagen nach § 160 Absatz 3 Nummer 4 in Ton oder in Bild und Ton unmittelbar aufgenommen und ist zugleich das wesentliche Ergebnis der Aussagen vorläufig aufgezeichnet worden, so kann eine Ergänzung des Protokolls nur um das wesentliche Ergebnis der Aussagen verlangt werden.
+(3) Die vorläufigen Aufzeichnungen sind
+1.
+zu den Prozessakten zu nehmen,
+2.
+bei der Geschäftsstelle mit den Prozessakten aufzubewahren oder
+3.
+auf einer zentralen Datenspeicherungseinrichtung der Justiz zu speichern.
+(4) Die vorläufigen Aufzeichnungen sind zu löschen,
+1.
+sobald das Protokoll nach der Sitzung hergestellt oder um den Inhalt der vorläufigen Aufzeichnungen ergänzt ist, wenn die Parteien innerhalb eines Monats nach Mitteilung der Abschrift keine Einwendungen erhoben haben;
+2.
+in nicht in Nummer 1 genannten Fällen nach rechtskräftigem Abschluss des Verfahrens.
+(5) Die endgültige Herstellung durch Aufzeichnung auf Datenträger in der Form des § 130b ist möglich.
+(6) Einsicht in die vorläufigen Aufzeichnungen in Ton oder in Bild und Ton wird durch den Vorsitzenden in entsprechender Anwendung des § 299 Absatz 3 und 4 gewährt, ohne dass es eines besonderen Antrags nach § 299 Absatz 3 Satz 2 bedarf.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

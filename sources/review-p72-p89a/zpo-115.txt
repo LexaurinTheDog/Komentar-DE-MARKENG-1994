@@ -1,0 +1,44 @@
+§ 115 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 115
+Einsatz von Einkommen und Vermögen
+(1) Die Partei hat ihr Einkommen einzusetzen. Zum Einkommen gehören alle Einkünfte in Geld oder Geldeswert. Von ihm sind abzusetzen:
+1.
+a)
+die in § 82 Abs. 2 des Zwölften Buches Sozialgesetzbuch bezeichneten Beträge;
+b)
+bei Parteien, die ein Einkommen aus Erwerbstätigkeit erzielen, ein Betrag in Höhe von 50 vom Hundert des Regelsatzes, der für den alleinstehenden oder alleinerziehenden Leistungsberechtigten vom Bund gemäß der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch festgesetzt oder fortgeschrieben worden ist;
+2.
+a)
+für die Partei und ihren Ehegatten oder ihren Lebenspartner jeweils ein Betrag in Höhe des um 10 vom Hundert erhöhten Regelsatzes, der für den alleinstehenden oder alleinerziehenden Leistungsberechtigten vom Bund gemäß der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch festgesetzt oder fortgeschrieben worden ist;
+b)
+bei weiteren Unterhaltsleistungen auf Grund gesetzlicher Unterhaltspflicht für jede unterhaltsberechtigte Person jeweils ein Betrag in Höhe des um 10 vom Hundert erhöhten Regelsatzes, der für eine Person ihres Alters vom Bund gemäß den Regelbedarfsstufen 3 bis 6 nach der Anlage zu § 28 des Zwölften Buches Sozialgesetzbuch festgesetzt oder fortgeschrieben worden ist;
+3.
+die Kosten der Unterkunft und Heizung, soweit sie nicht in einem auffälligen Missverhältnis zu den Lebensverhältnissen der Partei stehen;
+4.
+Mehrbedarfe nach § 21 des Zweiten Buches Sozialgesetzbuch und nach § 30 des Zwölften Buches Sozialgesetzbuch;
+5.
+weitere Beträge, soweit dies mit Rücksicht auf besondere Belastungen angemessen ist; § 1610a des Bürgerlichen Gesetzbuchs gilt entsprechend.
+Maßgeblich sind die Beträge, die zum Zeitpunkt der Bewilligung der Prozesskostenhilfe gelten. Soweit am Wohnsitz der Partei aufgrund einer Neufestsetzung oder Fortschreibung nach § 29 Absatz 2 bis 4 des Zwölften Buches Sozialgesetzbuch höhere Regelsätze gelten, sind diese heranzuziehen. Das Bundesministerium der Justiz und für Verbraucherschutz gibt bei jeder Neufestsetzung oder jeder Fortschreibung die maßgebenden Beträge nach Satz 3 Nummer 1 Buchstabe b und Nummer 2 und nach Satz 5 im Bundesgesetzblatt bekannt. Diese Beträge sind, soweit sie nicht volle Euro ergeben, bis zu 0,49 Euro abzurunden und von 0,50 Euro an aufzurunden. Die Unterhaltsfreibeträge nach Satz 3 Nr. 2 vermindern sich um eigenes Einkommen der unterhaltsberechtigten Person. Wird eine Geldrente gezahlt, so ist sie an Stelle des Freibetrages abzusetzen, soweit dies angemessen ist.
+(2) Von dem nach den Abzügen verbleibenden Teil des monatlichen Einkommens (einzusetzendes Einkommen) sind Monatsraten in Höhe der Hälfte des einzusetzenden Einkommens festzusetzen; die Monatsraten sind auf volle Euro abzurunden. Beträgt die Höhe einer Monatsrate weniger als 10 Euro, ist von der Festsetzung von Monatsraten abzusehen. Bei einem einzusetzenden Einkommen von mehr als 600 Euro beträgt die Monatsrate 300 Euro zuzüglich des Teils des einzusetzenden Einkommens, der 600 Euro übersteigt. Unabhängig von der Zahl der Rechtszüge sind höchstens 48 Monatsraten aufzubringen.
+(3) Die Partei hat ihr Vermögen einzusetzen, soweit dies zumutbar ist. § 90 des Zwölften Buches Sozialgesetzbuch gilt entsprechend.
+(4) Prozesskostenhilfe wird nicht bewilligt, wenn die Kosten der Prozessführung der Partei vier Monatsraten und die aus dem Vermögen aufzubringenden Teilbeträge voraussichtlich nicht übersteigen.
+Fußnote
+(+++ Hinweis: Zur Höhe der nach § 115 Abs. 1 Satz 3 Nr. 1 Buchst. b und Nr. 2 sowie Satz 5 maßgebenden Beträge
+ab dem 1.1.2021 vgl. Bek. v. 28.12.2020 I 3344 (PKHB 2021)
+ab dem 1.1.2022 vgl. Bek. v. 17.12.2021 I 5239 (PKHB 2022)
+ab dem 1.1.2023 vgl. Bek. v. 22.12.2022 I 2843 (PKHB 2023)
+ab dem 1.1.2024 vgl. Bek. v. 22.12.2023 I Nr. 403 (PKHB 2024)
+ab dem 1.1.2025 vgl. Bek. v. 18.12.2024 I Nr. 429 (PKHB 2025)
+ab dem 1.1.2026 vgl. Bek. v. 19.12.2025 I Nr. 360 (PKHB 2026) +++)
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

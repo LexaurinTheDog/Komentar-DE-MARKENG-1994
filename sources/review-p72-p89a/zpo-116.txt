@@ -1,0 +1,21 @@
+§ 116 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 116
+Partei kraft Amtes; juristische Person; parteifähige Vereinigung
+Prozesskostenhilfe erhalten auf Antrag
+1.
+eine Partei kraft Amtes, wenn die Kosten aus der verwalteten Vermögensmasse nicht aufgebracht werden können und den am Gegenstand des Rechtsstreits wirtschaftlich Beteiligten nicht zuzumuten ist, die Kosten aufzubringen;
+2.
+eine juristische Person oder parteifähige Vereinigung, die im Inland, in einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum gegründet und dort ansässig ist, wenn die Kosten weder von ihr noch von den am Gegenstand des Rechtsstreits wirtschaftlich Beteiligten aufgebracht werden können und wenn die Unterlassung der Rechtsverfolgung oder Rechtsverteidigung allgemeinen Interessen zuwiderlaufen würde.
+§ 114 Absatz 1 Satz 1 letzter Halbsatz und Absatz 2 ist anzuwenden. Können die Kosten nur zum Teil oder nur in Teilbeträgen aufgebracht werden, so sind die entsprechenden Beträge zu zahlen.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,80 @@
+{
+  "checked_at": "2026-10-20T12:28:23.968867+00:00",
+  "queries": [
+    {
+      "query": "site:rechtsprechung-im-internet.de MarkenG 83 Gehör 78",
+      "result": "Firecrawl: No results found; exit 0, no result file. Decisions instead located in local national corpus, then fresh official XML downloaded."
+    },
+    {
+      "query": "Markengesetz Änderung Oktober 2026 BGBl",
+      "evidence": "sources/review-p72-p89a-amendments-search.json",
+      "result": "Official current consolidated MarkenG among results; commercial snippets not used as legal proof. No evidenced later MarkenG amendment; selective search only."
+    }
+  ],
+  "local_corpus_query": "rg -l § 83.*MarkenG|§ 89a.*MarkenG in /Volumes/LaCie/law-intake/eu/de/rii; inspected candidate metadata, selected and fully read JURE130017836 and JURE100067758 for direct relevance",
+  "case_checks": [
+    {
+      "court": "BGH",
+      "date": "2013-04-11",
+      "docket": "I ZB 93/11",
+      "ecli": null,
+      "ecli_note": "Official XML field empty; no ECLI invented",
+      "read_full_text": true,
+      "read_scope": "Tenor und vollständige Gründe Rn. 1–28 sowie Namenszeilen",
+      "supported_reviewed_ids": [
+        "p78",
+        "p83",
+        "p89"
+      ],
+      "official_xml": "sources/review-p72-p89a/gehoer.xml",
+      "official_xml_sha256": "eb349d7bbfd7a9505aba9e35291b31dbe0ef51cc2875d27d1883eaffbf916a30",
+      "corpus_path": "sources/review-p72-p89a/gehoer-local.md",
+      "corpus_sha256": "5e2a79825ded777a8f9493431261ec2febc1801c0a78b3a99464bc60f80f744b",
+      "nonempty_official_paragraphs_compared": 40,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bgh-gehoer-schriftverfahren.md",
+      "superseded_law_check": "Current §§ 78(2), 83(3)(3), 89(4) retain relied-on rules; historical costs and use requirements not imported; original costs dispute not finally decided."
+    },
+    {
+      "court": "BGH",
+      "date": "2010-07-01",
+      "docket": "I ZA 14/10",
+      "ecli": null,
+      "ecli_note": "Official XML field empty; no ECLI invented",
+      "read_full_text": true,
+      "read_scope": "Tenor und vollständige Gründe Rn. 1–8 sowie Namenszeilen",
+      "supported_reviewed_ids": [
+        "p81a",
+        "p82",
+        "p83",
+        "p88"
+      ],
+      "official_xml": "sources/review-p72-p89a/vkh.xml",
+      "official_xml_sha256": "1c69d8da0d6e646b9735b50b0acc74b53a611e68b3ed164a468d70a0298b5b7c",
+      "corpus_path": "sources/review-p72-p89a/vkh-local.md",
+      "corpus_sha256": "5a5d0ae3603a10581fd385a17cb92775dd6d2051af7ab447108ce21cebc44cfc",
+      "nonempty_official_paragraphs_compared": 13,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bgh-vkh-nebenentscheidung.md",
+      "superseded_law_check": "Current § 83 gateway persists; modern § 81a separately sourced, not retroactively attributed to 2010; no historical fee or substantive cancellation law imported."
+    }
+  ],
+  "fresh_fetches": "sources/review-p72-p89a/fetches.json",
+  "no_new_case_selected_ids": [
+    "p72",
+    "p73",
+    "p74",
+    "p75",
+    "p76",
+    "p77",
+    "p79",
+    "p80",
+    "p81",
+    "p84",
+    "p85",
+    "p86",
+    "p87",
+    "p89a"
+  ],
+  "limit": "Selective case research: two BGH decisions read in full in local corpus and fresh official XML. Seven previous case cards retained without renewed substantive review. No new sufficiently specific case selected for the remaining 14 assigned units; no assertion that none exists."
+}

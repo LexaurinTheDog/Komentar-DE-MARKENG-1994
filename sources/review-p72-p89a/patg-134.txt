@@ -1,0 +1,15 @@
+§ 134 PatG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Patentgesetz
+§ 134
+Wird das Gesuch um Bewilligung der Verfahrenskostenhilfe nach den §§ 130 bis 132 vor Ablauf einer für die Zahlung einer Gebühr vorgeschriebenen Frist eingereicht, so wird der Lauf dieser Frist bis zum Ablauf von einem Monat nach Zustellung des auf das Gesuch ergehenden Beschlusses gehemmt.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,18 @@
+§ 234 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 234
+Wiedereinsetzungsfrist
+(1) Die Wiedereinsetzung muss innerhalb einer zweiwöchigen Frist beantragt werden. Die Frist beträgt einen Monat, wenn die Partei verhindert ist, die Frist zur Begründung der Berufung, der Revision, der Nichtzulassungsbeschwerde oder der Rechtsbeschwerde einzuhalten.
+(2) Die Frist beginnt mit dem Tag, an dem das Hindernis behoben ist.
+(3) Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

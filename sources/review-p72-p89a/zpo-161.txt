@@ -1,0 +1,21 @@
+§ 161 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 161
+Entbehrliche Feststellungen
+(1) Feststellungen nach § 160 Abs. 3 Nr. 4 und 5 brauchen nicht in das Protokoll aufgenommen zu werden,
+1.
+wenn das Prozessgericht die Vernehmung oder den Augenschein durchführt und das Endurteil der Berufung oder der Revision nicht unterliegt;
+2.
+soweit die Klage zurückgenommen, der geltend gemachte Anspruch anerkannt oder auf ihn verzichtet wird, auf ein Rechtsmittel verzichtet oder der Rechtsstreit durch einen Vergleich beendet wird.
+(2) In dem Protokoll ist zu vermerken, dass die Vernehmung oder der Augenschein durchgeführt worden ist. § 160a Abs. 3 gilt entsprechend.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

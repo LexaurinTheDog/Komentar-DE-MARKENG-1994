@@ -1,0 +1,18 @@
+§ 752a ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 752a
+Versicherung der Vollmacht für Prozesshandlungen in der Zwangsvollstreckung
+(1) In Verfahren der Zwangsvollstreckung wegen Geldforderungen in das bewegliche Vermögen haben die in § 79 Absatz 2 Satz 1 und 2 Nummer 3 und 4 Genannten die ihnen erteilten Vollmachten zur Vornahme der Prozesshandlungen, die durch die Zwangsvollstreckung veranlasst werden, abweichend von § 80 Satz 1 dem jeweils zuständigen Vollstreckungsorgan ausschließlich zu versichern.
+(2) Die Versicherung ist in Textform zu übermitteln.
+(3) Die Wirkung der Versicherung der Vollmacht entfällt mit der Anzeige des Erlöschens der Vollmacht bei dem Vollstreckungsorgan.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

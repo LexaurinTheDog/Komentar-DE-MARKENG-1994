@@ -1,0 +1,44 @@
+§ 227 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 227
+Terminsänderung
+(1) Aus erheblichen Gründen kann ein Termin aufgehoben oder verlegt sowie eine Verhandlung vertagt werden. Erhebliche Gründe sind insbesondere nicht
+1.
+das Ausbleiben einer Partei oder die Ankündigung, nicht zu erscheinen, wenn nicht das Gericht dafür hält, dass die Partei ohne ihr Verschulden am Erscheinen verhindert ist;
+2.
+die mangelnde Vorbereitung einer Partei, wenn nicht die Partei dies genügend entschuldigt;
+3.
+das Einvernehmen der Parteien allein.
+Von einer Terminsänderung soll abgesehen werden, wenn sich der Termin für eine Durchführung als Videoverhandlung nach § 128a oder als Beweisaufnahme nach § 284 Absatz 2 eignet und die erheblichen Gründe nach Satz 1 dadurch entfallen.
+(2) Die erheblichen Gründe sind auf Verlangen des Vorsitzenden, für eine Vertagung auf Verlangen des Gerichts glaubhaft zu machen.
+(3) Ein für die Zeit vom 1. Juli bis 31. August bestimmter Termin, mit Ausnahme eines Termins zur Verkündung einer Entscheidung, ist auf Antrag innerhalb einer Woche nach Zugang der Ladung oder Terminsbestimmung zu verlegen. Dies gilt nicht für
+1.
+Arrestsachen oder die eine einstweilige Verfügung oder einstweilige Anordnung betreffenden Sachen,
+2.
+Streitigkeiten wegen Überlassung, Benutzung, Räumung oder Herausgabe von Räumen oder wegen Fortsetzung des Mietverhältnisses über Wohnraum auf Grund der §§ 574 bis 574b des Bürgerlichen Gesetzbuchs,
+3.
+(weggefallen)
+4.
+Wechsel- oder Scheckprozesse,
+5.
+Bausachen, wenn über die Fortsetzung eines angefangenen Baues gestritten wird,
+6.
+Streitigkeiten wegen Überlassung oder Herausgabe einer Sache an eine Person, bei der die Sache nicht der Pfändung unterworfen ist,
+7.
+Zwangsvollstreckungsverfahren oder
+8.
+Verfahren der Vollstreckbarerklärung oder zur Vornahme richterlicher Handlungen im Schiedsverfahren;
+dabei genügt es, wenn nur einer von mehreren Ansprüchen die Voraussetzungen erfüllt. Wenn das Verfahren besonderer Beschleunigung bedarf, ist dem Verlegungsantrag nicht zu entsprechen.
+(4) Ein Antrag auf Terminsverlegung soll eine Äußerung dazu enthalten, ob gegen die Durchführung einer Videoverhandlung (§ 128a) Bedenken bestehen.
+(5) Über die Aufhebung sowie Verlegung eines Termins entscheidet der Vorsitzende ohne mündliche Verhandlung; über die Vertagung einer Verhandlung entscheidet das Gericht. Die Entscheidung ist kurz zu begründen. Sie ist unanfechtbar.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->
