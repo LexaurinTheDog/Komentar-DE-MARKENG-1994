@@ -1,0 +1,33 @@
+{
+  "decisive_date": "2026-10-19",
+  "checked_at": "2026-10-20T13:09:43.522851+00:00",
+  "official_xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+  "amendment_2026_9": {
+    "effective_from": "2026-01-16",
+    "commencement": "Art.16: day after publication 15 January 2026",
+    "assigned_changes": {
+      "p119": "Nr.18 shortens EU regulation citation",
+      "p120": "Nr.19a citation; Nr.19b removes auch schon from paragraph2 sentence2",
+      "p121": "Nr.20 citation",
+      "p122": "Nr.20 citation",
+      "p124": "Nr.20 citation",
+      "p125a": "Nr.20 citation",
+      "p127": "Nr.21 paragraph4 introductory wording and new paragraphs5/6",
+      "p129a": "Nr.23 newly inserts scope; Nr.22 replaces section heading",
+      "p130": "Nr.24 replaces specified paragraphs and public-data list; deletes paragraph7",
+      "p131": "Nr.25 replaces §§131–135 with new craft/industrial regime",
+      "p132": "Nr.25 replaces §§131–135",
+      "p132a": "Nr.25 replaces §§131–135",
+      "p133": "Nr.25 replaces §§131–135",
+      "p134": "Nr.25 replaces §§131–135"
+    }
+  },
+  "amendment_2026_152": {
+    "effective_from": "2026-10-01",
+    "assigned_changes": {},
+    "actual_amending_article": "Art.14 affects §§81/82 only; Art.18(1) commencement"
+  },
+  "substantive_changes_since_intake": false,
+  "interpretive_correction": "BGH PUC II confirms extinction by waiver declaration rather than later registration, and no double date; current §120(2) no longer contains auch schon.",
+  "evidence": "sources/review-p118-p134/version-excerpts.json"
+}

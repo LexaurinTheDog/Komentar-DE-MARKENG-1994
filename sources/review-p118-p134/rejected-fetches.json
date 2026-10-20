@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0148",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0148",
+    "accessed_at": "2026-10-20T13:04:46.229967+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/review-p118-p134/peek-rejected.http-body",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted_as_source": false,
+    "reason": "No valid PDF response; not treated as statutory or case full text"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02017R1001-20251201",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02017R1001-20251201",
+    "accessed_at": "2026-10-20T13:04:46.372734+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/review-p118-p134/umv-rejected.http-body",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted_as_source": false,
+    "reason": "No valid PDF response; not treated as statutory or case full text"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02023R2411-20231027",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02023R2411-20231027",
+    "accessed_at": "2026-10-20T13:04:46.431114+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/review-p118-p134/craft-rejected.http-body",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted_as_source": false,
+    "reason": "No valid PDF response; not treated as statutory or case full text"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02019R1753-20251201",
+    "final_url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:02019R1753-20251201",
+    "accessed_at": "2026-10-20T13:04:46.495806+00:00",
+    "http_status": 202,
+    "content_type": "text/html; charset=UTF-8",
+    "path": "sources/review-p118-p134/geneva-rejected.http-body",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "accepted_as_source": false,
+    "reason": "No valid PDF response; not treated as statutory or case full text"
+  }
+]

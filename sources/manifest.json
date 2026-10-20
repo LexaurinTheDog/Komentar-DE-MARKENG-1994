@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T12:55:46.972535+00:00",
+  "created_at": "2026-10-20T13:09:43.522851+00:00",
   "primary_statute": "markeng.xml",
   "canonical_statute": "canonical.md",
   "files": [
@@ -527,6 +527,216 @@
       "path": "sources/review-p106-p117/wipo-protocol-wrapper.txt",
       "bytes": 58987,
       "sha256": "aecd6dd46f1832363e9d9484956de4e1760df6c815bb571ee8729ff897ff8930"
+    },
+    {
+      "path": "sources/review-p118-p134/amendment-2026-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/review-p118-p134/amendment-2026-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/review-p118-p134/amendment-2026-9.pdf",
+      "bytes": 748171,
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c"
+    },
+    {
+      "path": "sources/review-p118-p134/amendment-2026-9.txt",
+      "bytes": 166215,
+      "sha256": "968e2d7c8c7f171fe5912cdcf4926703f6e8abd3c2824d5d4acf0fa80a71cbfe"
+    },
+    {
+      "path": "sources/review-p118-p134/assigned-version-review.json",
+      "bytes": 1603,
+      "sha256": "f3205158639eaf0f8771f6bb631fa9af0602eae5835ac46f9b3c13af731daee9"
+    },
+    {
+      "path": "sources/review-p118-p134/case-comparison.json",
+      "bytes": 1083,
+      "sha256": "ee165848e447667f46561975a48a0866acf0539ce9babcf3b902bd4748285215"
+    },
+    {
+      "path": "sources/review-p118-p134/commentary-baseline.json",
+      "bytes": 311512,
+      "sha256": "c722bce221829e84bf3ab4ac4d943acf94df989c5acd69a5265c691429606800"
+    },
+    {
+      "path": "sources/review-p118-p134/craft-rejected.http-body",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-p118-p134/fetch-errors.jsonl",
+      "bytes": 2931,
+      "sha256": "157f236b1a66263dac29210021308604ae052c5c6a0c417bf15a9cf58c3047c1"
+    },
+    {
+      "path": "sources/review-p118-p134/fetches.json",
+      "bytes": 4947,
+      "sha256": "e2cfa668923d8420b0a11c3f93c3363d4b8e09ba5e4f34bd17d75c602f61999a"
+    },
+    {
+      "path": "sources/review-p118-p134/firecrawl-stderr.txt",
+      "bytes": 182,
+      "sha256": "8d8da65540100f2b803ee223c5c59081f6d960738f8af0c8cacc07bdc5eaa816"
+    },
+    {
+      "path": "sources/review-p118-p134/firecrawl-stdout.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-p118-p134/geneva-rejected.http-body",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-p118-p134/himalaya-local.md",
+      "bytes": 34008,
+      "sha256": "a18f4c92974f02e89305f5e13ac1a8b5c71f5a9b5c30bdb26e9e727eb7f75f3d"
+    },
+    {
+      "path": "sources/review-p118-p134/himalaya.txt",
+      "bytes": 38902,
+      "sha256": "2708a4964b1e4693d59d2094c4677bf8bb85266817818d153fc96fd65c868298"
+    },
+    {
+      "path": "sources/review-p118-p134/himalaya.xml",
+      "bytes": 47282,
+      "sha256": "e7dec1de851011e11cc83493071348aaa73d8898146a734ca53f906168a5125f"
+    },
+    {
+      "path": "sources/review-p118-p134/himalaya.zip",
+      "bytes": 12369,
+      "sha256": "b1441c36a1d9a05d8323458abb037c27ea44544e1f716f116608dd46d13da6fe"
+    },
+    {
+      "path": "sources/review-p118-p134/index.html",
+      "bytes": 44679,
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae"
+    },
+    {
+      "path": "sources/review-p118-p134/markeng.xml",
+      "bytes": 343720,
+      "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484"
+    },
+    {
+      "path": "sources/review-p118-p134/markeng.zip",
+      "bytes": 60854,
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa"
+    },
+    {
+      "path": "sources/review-p118-p134/patentanwaltskosten-local.md",
+      "bytes": 22486,
+      "sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81"
+    },
+    {
+      "path": "sources/review-p118-p134/patentanwaltskosten.txt",
+      "bytes": 425,
+      "sha256": "17672555fc36374cf80a9a6635767a43e129733d5e2856840bcc2a744b673f37"
+    },
+    {
+      "path": "sources/review-p118-p134/patentanwaltskosten.xml",
+      "bytes": 33770,
+      "sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d"
+    },
+    {
+      "path": "sources/review-p118-p134/patentanwaltskosten.zip",
+      "bytes": 8008,
+      "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0"
+    },
+    {
+      "path": "sources/review-p118-p134/peek-rejected.http-body",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-p118-p134/prior-review-result.json",
+      "bytes": 26057,
+      "sha256": "43e703358fc0340a25a3e2849fd460d74d89b6feece95c9555cb10f8a0365b2e"
+    },
+    {
+      "path": "sources/review-p118-p134/rejected-fetches.json",
+      "bytes": 2433,
+      "sha256": "04d73983bba13f0116b143dee09f25d90eb74472cb9943ecaaa5ddab79130908"
+    },
+    {
+      "path": "sources/review-p118-p134/search-log.json",
+      "bytes": 4100,
+      "sha256": "503bab0cc530cf9ab430256e5cb23ee4c53acf6679c8dbe35c659f9809c25894"
+    },
+    {
+      "path": "sources/review-p118-p134/senioritaet-local.md",
+      "bytes": 44538,
+      "sha256": "aa1808d015a494157586cc54e114948abb988922a32e4386e7b490cb1d0b6d81"
+    },
+    {
+      "path": "sources/review-p118-p134/senioritaet.txt",
+      "bytes": 55208,
+      "sha256": "93be631066233e6243bf0a2a57c855971668bd025c6d4f3eba006c78743bd536"
+    },
+    {
+      "path": "sources/review-p118-p134/senioritaet.xml",
+      "bytes": 67785,
+      "sha256": "6844383122680747e9c9c5af41a560f0d18705cb7268ff4b47ad40d23085bd0d"
+    },
+    {
+      "path": "sources/review-p118-p134/senioritaet.zip",
+      "bytes": 14364,
+      "sha256": "f76b86bfb7668691526ad49776e40bc0cc989df83206a6cad5361403c8e8d154"
+    },
+    {
+      "path": "sources/review-p118-p134/umv-rejected.http-body",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sources/review-p118-p134/uwg-8.html",
+      "bytes": 6818,
+      "sha256": "7196ab2d020ef59954026bc89bab0060952e62bc70347eeb4676486f196b6670"
+    },
+    {
+      "path": "sources/review-p118-p134/uwg-8.txt",
+      "bytes": 3121,
+      "sha256": "01cd6cee31f905cdd7796acd09dc165c8ec6f8748a56793922bd5b40ecdaf946"
+    },
+    {
+      "path": "sources/review-p118-p134/version-excerpts.json",
+      "bytes": 44409,
+      "sha256": "d9f34cef0b37aaf92caeb922a7495e4bdfb9d51823f423194244f9d3fb18249b"
+    },
+    {
+      "path": "sources/review-p118-p134/web-search-2.json",
+      "bytes": 13007,
+      "sha256": "cbaf207b0a4699cd81a4e49c6172c2d03730d1e7f797e4ccd216bcd5511578ea"
+    },
+    {
+      "path": "sources/review-p118-p134/web-search-3.json",
+      "bytes": 12037,
+      "sha256": "b7d4c697400e4612efd8cf487497cdcf95fd3ea749256419b7caf1b3cbc2dfb4"
+    },
+    {
+      "path": "sources/review-p118-p134/web-search-4.json",
+      "bytes": 14842,
+      "sha256": "dfc006fd5399c0e17d88f8ba0e84ecec9476bd9d8b067217a82242b003462d9d"
+    },
+    {
+      "path": "sources/review-p118-p134/web-search.json",
+      "bytes": 28092,
+      "sha256": "75c6c3d6708548d0654b8d7a0764f728b4ccf99cc2df063855660ac090ba7797"
+    },
+    {
+      "path": "sources/review-p118-p134/zpo-383.html",
+      "bytes": 5859,
+      "sha256": "38844599c36aeec0e8376a231c608ca77330cfe311cd94c48b4489ae36a5673c"
+    },
+    {
+      "path": "sources/review-p118-p134/zpo-383.txt",
+      "bytes": 2038,
+      "sha256": "f42e4c3c9b9d69ee7e6346c499c474775f81d8f1c7ae247916b75798a410647b"
     },
     {
       "path": "sources/review-p19-p34/amendment-2026-152.pdf",
@@ -1920,8 +2130,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 103201,
-      "sha256": "762198a6ac86cedc0cfbf58e7154347474dde215740576577309b73359f2a101"
+      "bytes": 111701,
+      "sha256": "846d35a4e6fb0e904d715b83d0143afa2890f4914b9bbf81dba36cb56549b04b"
     },
     {
       "path": "sources/werktitel-local.md",

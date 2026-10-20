@@ -1,0 +1,28 @@
+§ 8 UWG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gesetz gegen den unlauteren Wettbewerb (UWG)
+§ 8
+Beseitigung und Unterlassung
+(1) Wer eine nach § 3 oder § 7 unzulässige geschäftliche Handlung vornimmt, kann auf Beseitigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch auf Unterlassung besteht bereits dann, wenn eine derartige Zuwiderhandlung gegen § 3 oder § 7 droht.
+(2) Werden die Zuwiderhandlungen in einem Unternehmen von einem Mitarbeiter oder Beauftragten begangen, so sind der Unterlassungsanspruch und der Beseitigungsanspruch auch gegen den Inhaber des Unternehmens begründet.
+(3) Die Ansprüche aus Absatz 1 stehen zu:
+1.
+jedem Mitbewerber, der Waren oder Dienstleistungen in nicht unerheblichem Maße und nicht nur gelegentlich vertreibt oder nachfragt,
+2.
+denjenigen rechtsfähigen Verbänden zur Förderung gewerblicher oder selbstständiger beruflicher Interessen, die in der Liste der qualifizierten Wirtschaftsverbände nach § 8b eingetragen sind, soweit ihnen eine erhebliche Zahl von Unternehmern angehört, die Waren oder Dienstleistungen gleicher oder verwandter Art auf demselben Markt vertreiben, und die Zuwiderhandlung die Interessen ihrer Mitglieder berührt,
+3.
+den qualifizierten Verbraucherverbänden, die in der Liste nach § 4 des Unterlassungsklagengesetzes eingetragen sind, und den qualifizierten Einrichtungen aus anderen Mitgliedstaaten der Europäischen Union, die in dem Verzeichnis der Europäischen Kommission nach Artikel 5 Absatz 1 Satz 4 der Richtlinie (EU) 2020/1828 des Europäischen Parlaments und des Rates vom 25. November 2020 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG (ABl. L 409 vom 4.12.2020, S. 1) eingetragen sind,
+4.
+den Industrie- und Handelskammern, den nach der Handwerksordnung errichteten Organisationen und anderen berufsständischen Körperschaften des öffentlichen Rechts im Rahmen der Erfüllung ihrer Aufgaben sowie den Gewerkschaften im Rahmen der Erfüllung ihrer Aufgaben bei der Vertretung selbstständiger beruflicher Interessen.
+(4) Stellen nach Absatz 3 Nummer 2 und 3 können die Ansprüche nicht geltend machen, solange ihre Eintragung ruht.
+(5) § 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden; in § 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten an die Stelle der dort aufgeführten Ansprüche nach dem Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Macht eine anspruchsberechtigte Stelle nach Absatz 3 Nummer 3 Ansprüche nach Absatz 1 gerichtlich geltend, so sind die §§ 5a und 6a des Unterlassungsklagengesetzes entsprechend anzuwenden. Im Übrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei denn, es liegt ein Fall des § 2a des Unterlassungsklagengesetzes vor.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

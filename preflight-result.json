@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "verification_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/markeng/",
-  "verified_at": "2026-10-20T12:55:46.972535+00:00",
+  "verified_at": "2026-10-20T13:09:43.522851+00:00",
   "version_evidence": {
     "consolidated_version": "Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152",
     "xml_path": "sources/markeng.xml",
@@ -288,5 +288,39 @@
       "xml_character_mismatch": []
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p118_p134_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/markeng/",
+    "verified_at": "2026-10-20T12:57:06.814048+00:00",
+    "version_evidence": "sources/review-p118-p134/version-excerpts.json",
+    "fetches": "sources/review-p118-p134/fetches.json",
+    "historical_versions_checked": {
+      "duplicate_labels": [],
+      "duplicate_doknr": [],
+      "method": "Single current consolidation; fresh identical XML; both 2026 amendment articles and commencement clauses checked; no historical text concatenation."
+    },
+    "annexes_checked": {
+      "raw_records": 224,
+      "operative_annexes": [],
+      "disposition": "No operative annex in raw XML or contents; no separate Eingangsformel; introductory official notes preserved."
+    },
+    "coverage": {
+      "expected": 191,
+      "parsed": 191,
+      "missing": [],
+      "extra": [],
+      "xml_character_mismatch": []
+    },
+    "unresolved_blockers": [],
+    "assigned_version_analysis": "sources/review-p118-p134/assigned-version-review.json",
+    "supplementary_source_limitations": [
+      "No full reconstruction of all historical statutes, EU regulations, international treaty versions or implementing rules. National current statutory text and operative references checked.",
+      "Supplementary EUR-Lex full-text attempts returned invalid HTTP 202/empty responses and alternative URLs failed; not used as law/case evidence. C-148/17 is only reported as explained in the fully read BGH judgment, not independently full-text verified.",
+      "UWG §8 and ZPO §383 read as targeted official individual provisions, without an additional full-system commentary or exhaustive amendment-history audit.",
+      "Current official consolidation plus both 2026 amendment/commencement acts checked; later-law search selective, not an exhaustive BGBl pipeline audit."
+    ],
+    "technical_validation": null
   }
 }

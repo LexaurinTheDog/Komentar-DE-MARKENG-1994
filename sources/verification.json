@@ -1643,6 +1643,100 @@
       "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
       "sha256": "ab02bdcaaed2f18f769710c3df6ac8561dad76ac9cf96a570b267b7d8d1c3d4e",
       "format_validation": "HTML signature checked; wrapper rather than treaty body"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T12:57:05.163018+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p118-p134/index.html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "format_validation": "HTML signature and expected title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T12:57:05.404723+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p118-p134/markeng.zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:57:05.596898+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p118-p134/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:57:06.265111+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p118-p134/amendment-2026-9.pdf",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303842016.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE303842016.zip",
+      "accessed_at": "2026-10-20T12:58:35.606403+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p118-p134/himalaya.zip",
+      "sha256": "b1441c36a1d9a05d8323458abb037c27ea44544e1f716f116608dd46d13da6fe",
+      "format_validation": "ZIP CRC validated, unique XML parsed, docket I ZR 86/13"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300632019.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300632019.zip",
+      "accessed_at": "2026-10-20T12:58:35.825128+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p118-p134/senioritaet.zip",
+      "sha256": "f76b86bfb7668691526ad49776e40bc0cc989df83206a6cad5361403c8e8d154",
+      "format_validation": "ZIP CRC validated, unique XML parsed, docket I ZR 126/15"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310532023.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310532023.zip",
+      "accessed_at": "2026-10-20T12:58:35.953659+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p118-p134/patentanwaltskosten.zip",
+      "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0",
+      "format_validation": "ZIP CRC validated, unique XML parsed, docket I ZB 59/19"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/__8.html",
+      "final_url": "https://www.gesetze-im-internet.de/uwg_2004/__8.html",
+      "accessed_at": "2026-10-20T12:58:36.276448+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p118-p134/uwg-8.html",
+      "sha256": "7196ab2d020ef59954026bc89bab0060952e62bc70347eeb4676486f196b6670",
+      "format_validation": "HTML parsed, extracted text retained; content checked before reliance"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__383.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__383.html",
+      "accessed_at": "2026-10-20T12:58:36.410014+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p118-p134/zpo-383.html",
+      "sha256": "38844599c36aeec0e8376a231c608ca77330cfe311cd94c48b4489ae36a5673c",
+      "format_validation": "HTML parsed, extracted text retained; content checked before reliance"
     }
   ],
   "decisive_date": "2026-10-19",
@@ -1694,7 +1788,7 @@
       ]
     }
   ],
-  "last_verified_at": "2026-10-20T12:55:46.972535+00:00",
+  "last_verified_at": "2026-10-20T13:09:43.522851+00:00",
   "preflight_decisive_date": "2026-10-19",
   "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
   "official_xml": {
@@ -1981,6 +2075,72 @@
         "card": "cases/bpatg-fritz-frize.md",
         "superseded_law_check": "Express older law under § 158; former two § 43 periods, former § 115 wording and §§119/124 chain not adopted as current law. Only distinct IR/German data and historical pitfall supported."
       }
+    ]
+  },
+  "bounded_review_p118_p134": {
+    "verified_at": "2026-10-20T12:57:06.814048+00:00",
+    "evidence": "sources/review-p118-p134/fetches.json",
+    "version_excerpts": "sources/review-p118-p134/version-excerpts.json",
+    "decisive_date": "2026-10-19",
+    "official_xml_unchanged": true,
+    "search_log": "sources/review-p118-p134/search-log.json",
+    "firecrawl_extraction": null,
+    "firecrawl_failure": "Insufficient credits; direct official HTTP fetch used",
+    "limit": "Current consolidation plus selective later-amendment search; no exhaustive BGBl pipeline audit.",
+    "case_checks": [
+      {
+        "slug": "himalaya",
+        "court": "BGH",
+        "date": "20160331",
+        "docket": "I ZR 86/13",
+        "xml_sha256": "e7dec1de851011e11cc83493071348aaa73d8898146a734ca53f906168a5125f",
+        "local_sha256": "a18f4c92974f02e89305f5e13ac1a8b5c71f5a9b5c30bdb26e9e727eb7f75f3d",
+        "official_nonempty_paragraphs_compared": 45,
+        "read_full_text": true,
+        "supported_reviewed_ids": [
+          "p126",
+          "p127",
+          "p128"
+        ],
+        "card": "cases/bgh-himalaya-salz.md"
+      },
+      {
+        "slug": "senioritaet",
+        "court": "BGH",
+        "date": "20181108",
+        "docket": "I ZR 126/15",
+        "xml_sha256": "6844383122680747e9c9c5af41a560f0d18705cb7268ff4b47ad40d23085bd0d",
+        "local_sha256": "aa1808d015a494157586cc54e114948abb988922a32e4386e7b490cb1d0b6d81",
+        "official_nonempty_paragraphs_compared": 78,
+        "read_full_text": true,
+        "supported_reviewed_ids": [
+          "p120"
+        ],
+        "card": "cases/bgh-puc-ii.md"
+      },
+      {
+        "slug": "patentanwaltskosten",
+        "court": "BGH",
+        "date": "20221013",
+        "docket": "I ZB 59/19",
+        "xml_sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d",
+        "local_sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81",
+        "official_nonempty_paragraphs_compared": 37,
+        "read_full_text": true,
+        "supported_reviewed_ids": [
+          "p122"
+        ],
+        "card": "cases/bgh-patentanwaltskosten.md"
+      }
+    ],
+    "supplementary_rejected_fetches": "sources/review-p118-p134/rejected-fetches.json",
+    "limits": [
+      "Exactly these 20 units materially reviewed; 31 whole-book second-pass units remain. No external professional approval.",
+      "Case law selective: two new BGH cases and one existing BGH case fully reread, 13 other cards retained without substantive rereview; no comprehensive later-case audit.",
+      "No full reconstruction of all historical statutes, EU regulations, international treaty versions or implementing rules. National current statutory text and operative references checked.",
+      "Supplementary EUR-Lex full-text attempts returned invalid HTTP 202/empty responses and alternative URLs failed; not used as law/case evidence. C-148/17 is only reported as explained in the fully read BGH judgment, not independently full-text verified.",
+      "UWG §8 and ZPO §383 read as targeted official individual provisions, without an additional full-system commentary or exhaustive amendment-history audit.",
+      "Current official consolidation plus both 2026 amendment/commencement acts checked; later-law search selective, not an exhaustive BGBl pipeline audit."
     ]
   }
 }

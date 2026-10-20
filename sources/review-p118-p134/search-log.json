@@ -1,0 +1,94 @@
+{
+  "checked_at": "2026-10-20T13:09:43.522851+00:00",
+  "web_search_evidence": [
+    "sources/review-p118-p134/web-search.json",
+    "sources/review-p118-p134/web-search-2.json",
+    "sources/review-p118-p134/web-search-3.json",
+    "sources/review-p118-p134/web-search-4.json"
+  ],
+  "queries": [
+    "site:rechtsprechung-im-internet.de Himalaya Salz",
+    "site:curia.europa.eu C-148/17 Peek Cloppenburg seniority",
+    "site:recht.bund.de 2026 Markengesetz Änderung Oktober",
+    "site:eur-lex.europa.eu 02023R2411 02017R1001 02019R1753"
+  ],
+  "local_corpus_queries": [
+    "Himalaya",
+    "C-148/17",
+    "nachträgliche Feststellung der Ungültigkeit"
+  ],
+  "selected_cases": [
+    {
+      "slug": "himalaya",
+      "court": "BGH",
+      "date": "20160331",
+      "docket": "I ZR 86/13",
+      "xml_sha256": "e7dec1de851011e11cc83493071348aaa73d8898146a734ca53f906168a5125f",
+      "local_sha256": "a18f4c92974f02e89305f5e13ac1a8b5c71f5a9b5c30bdb26e9e727eb7f75f3d",
+      "official_nonempty_paragraphs_compared": 45,
+      "read_full_text": true,
+      "supported_reviewed_ids": [
+        "p126",
+        "p127",
+        "p128"
+      ],
+      "card": "cases/bgh-himalaya-salz.md"
+    },
+    {
+      "slug": "senioritaet",
+      "court": "BGH",
+      "date": "20181108",
+      "docket": "I ZR 126/15",
+      "xml_sha256": "6844383122680747e9c9c5af41a560f0d18705cb7268ff4b47ad40d23085bd0d",
+      "local_sha256": "aa1808d015a494157586cc54e114948abb988922a32e4386e7b490cb1d0b6d81",
+      "official_nonempty_paragraphs_compared": 78,
+      "read_full_text": true,
+      "supported_reviewed_ids": [
+        "p120"
+      ],
+      "card": "cases/bgh-puc-ii.md"
+    },
+    {
+      "slug": "patentanwaltskosten",
+      "court": "BGH",
+      "date": "20221013",
+      "docket": "I ZB 59/19",
+      "xml_sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d",
+      "local_sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81",
+      "official_nonempty_paragraphs_compared": 37,
+      "read_full_text": true,
+      "supported_reviewed_ids": [
+        "p122"
+      ],
+      "card": "cases/bgh-patentanwaltskosten.md"
+    }
+  ],
+  "units_without_new_specific_verified_case": [
+    "p118",
+    "p119",
+    "p121",
+    "p123",
+    "p124",
+    "p125",
+    "p125a",
+    "p129",
+    "p129a",
+    "p130",
+    "p131",
+    "p132",
+    "p132a",
+    "p133",
+    "p134"
+  ],
+  "outcome": "Local national corpus led to two directly relevant BGH final judgments, both read in full and matched to fresh official XML; existing BGH cost decision likewise fully reread and verified. Search hits not used as authority without full text.",
+  "rejected_eurlex": "All attempted supplementary PDF retrievals failed valid-format/content checks; HTTP202 empty bodies and alternative404 URLs rejected. No independent C-148/17 card or added EU detail rule inferred from snippets.",
+  "firecrawl": "Authenticated but zero credits; actual scrape failed; direct official German source fetches used.",
+  "limits": [
+    "Exactly these 20 units materially reviewed; 31 whole-book second-pass units remain. No external professional approval.",
+    "Case law selective: two new BGH cases and one existing BGH case fully reread, 13 other cards retained without substantive rereview; no comprehensive later-case audit.",
+    "No full reconstruction of all historical statutes, EU regulations, international treaty versions or implementing rules. National current statutory text and operative references checked.",
+    "Supplementary EUR-Lex full-text attempts returned invalid HTTP 202/empty responses and alternative URLs failed; not used as law/case evidence. C-148/17 is only reported as explained in the fully read BGH judgment, not independently full-text verified.",
+    "UWG §8 and ZPO §383 read as targeted official individual provisions, without an additional full-system commentary or exhaustive amendment-history audit.",
+    "Current official consolidation plus both 2026 amendment/commencement acts checked; later-law search selective, not an exhaustive BGBl pipeline audit."
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "himalaya",
+    "court": "BGH",
+    "date": "20160331",
+    "docket": "I ZR 86/13",
+    "xml_sha256": "e7dec1de851011e11cc83493071348aaa73d8898146a734ca53f906168a5125f",
+    "local_sha256": "a18f4c92974f02e89305f5e13ac1a8b5c71f5a9b5c30bdb26e9e727eb7f75f3d",
+    "official_nonempty_paragraphs_compared": 45,
+    "read_full_text": true
+  },
+  {
+    "slug": "senioritaet",
+    "court": "BGH",
+    "date": "20181108",
+    "docket": "I ZR 126/15",
+    "xml_sha256": "6844383122680747e9c9c5af41a560f0d18705cb7268ff4b47ad40d23085bd0d",
+    "local_sha256": "aa1808d015a494157586cc54e114948abb988922a32e4386e7b490cb1d0b6d81",
+    "official_nonempty_paragraphs_compared": 78,
+    "read_full_text": true
+  },
+  {
+    "slug": "patentanwaltskosten",
+    "court": "BGH",
+    "date": "20221013",
+    "docket": "I ZB 59/19",
+    "xml_sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d",
+    "local_sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81",
+    "official_nonempty_paragraphs_compared": 37,
+    "read_full_text": true
+  }
+]
