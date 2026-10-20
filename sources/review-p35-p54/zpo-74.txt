@@ -1,0 +1,18 @@
+§ 74 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 74
+Wirkung der Streitverkündung
+(1) Wenn der Dritte dem Streitverkünder beitritt, so bestimmt sich sein Verhältnis zu den Parteien nach den Grundsätzen über die Nebenintervention.
+(2) Lehnt der Dritte den Beitritt ab oder erklärt er sich nicht, so wird der Rechtsstreit ohne Rücksicht auf ihn fortgesetzt.
+(3) In allen Fällen dieses Paragraphen sind gegen den Dritten die Vorschriften des § 68 mit der Abweichung anzuwenden, dass statt der Zeit des Beitritts die Zeit entscheidet, zu welcher der Beitritt infolge der Streitverkündung möglich war.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,16 @@
+§ 69 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 69
+Streitgenössische Nebenintervention
+Insofern nach den Vorschriften des bürgerlichen Rechts die Rechtskraft der in dem Hauptprozess erlassenen Entscheidung auf das Rechtsverhältnis des Nebenintervenienten zu dem Gegner von Wirksamkeit ist, gilt der Nebenintervenient im Sinne des § 61 als Streitgenosse der Hauptpartei.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,18 @@
+§ 72 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 72
+Zulässigkeit der Streitverkündung
+(1) Eine Partei, die für den Fall des ihr ungünstigen Ausganges des Rechtsstreits einen Anspruch auf Gewährleistung oder Schadloshaltung gegen einen Dritten erheben zu können glaubt oder den Anspruch eines Dritten besorgt, kann bis zur rechtskräftigen Entscheidung des Rechtsstreits dem Dritten gerichtlich den Streit verkünden.
+(2) Das Gericht und ein vom Gericht ernannter Sachverständiger sind nicht Dritter im Sinne dieser Vorschrift. § 73 Satz 2 ist nicht anzuwenden.
+(3) Der Dritte ist zu einer weiteren Streitverkündung berechtigt.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

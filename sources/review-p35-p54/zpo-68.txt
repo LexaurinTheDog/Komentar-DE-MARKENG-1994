@@ -1,0 +1,16 @@
+§ 68 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 68
+Wirkung der Nebenintervention
+Der Nebenintervenient wird im Verhältnis zu der Hauptpartei mit der Behauptung nicht gehört, dass der Rechtsstreit, wie er dem Richter vorgelegen habe, unrichtig entschieden sei; er wird mit der Behauptung, dass die Hauptpartei den Rechtsstreit mangelhaft geführt habe, nur insoweit gehört, als er durch die Lage des Rechtsstreits zur Zeit seines Beitritts oder durch Erklärungen und Handlungen der Hauptpartei verhindert worden ist, Angriffs- oder Verteidigungsmittel geltend zu machen, oder als Angriffs- oder Verteidigungsmittel, die ihm unbekannt waren, von der Hauptpartei absichtlich oder durch grobes Verschulden nicht geltend gemacht sind.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

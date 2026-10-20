@@ -1,0 +1,18 @@
+§ 71 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 71
+Zwischenstreit über Nebenintervention
+(1) Über den Antrag auf Zurückweisung einer Nebenintervention wird nach mündlicher Verhandlung unter den Parteien und dem Nebenintervenienten entschieden. Der Nebenintervenient ist zuzulassen, wenn er sein Interesse glaubhaft macht.
+(2) Gegen das Zwischenurteil findet sofortige Beschwerde statt.
+(3) Solange nicht die Unzulässigkeit der Intervention rechtskräftig ausgesprochen ist, wird der Intervenient im Hauptverfahren zugezogen.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

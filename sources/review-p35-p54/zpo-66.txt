@@ -1,0 +1,17 @@
+§ 66 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 66
+Nebenintervention
+(1) Wer ein rechtliches Interesse daran hat, dass in einem zwischen anderen Personen anhängigen Rechtsstreit die eine Partei obsiege, kann dieser Partei zum Zwecke ihrer Unterstützung beitreten.
+(2) Die Nebenintervention kann in jeder Lage des Rechtsstreits bis zur rechtskräftigen Entscheidung, auch in Verbindung mit der Einlegung eines Rechtsmittels, erfolgen.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

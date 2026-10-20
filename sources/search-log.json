@@ -364,5 +364,69 @@
       "p34"
     ],
     "limit": "Selective additional case research: one relevant BGH judgment read in full; no exhaustive survey, no added verified decision for the other 19 units, no claim that none exists."
+  },
+  "bounded_review_p35_p54": {
+    "checked_at": "2026-10-20T12:06:26.314437+00:00",
+    "queries": [
+      {
+        "query": "site:rechtsprechung-im-internet.de \"Sparkassen-Rot\"",
+        "result": "No results; CLI produced no file; selected shorter directly relevant Nivea-Blau from actual local corpus instead."
+      },
+      {
+        "query": "site:rechtsprechung-im-internet.de \"I ZB 65/13\"",
+        "result": "No results; CLI produced no file; authority fetched directly using corpus official download URL."
+      },
+      {
+        "query": "Markengesetz Änderung 2026 Oktober BGBl",
+        "evidence": "sources/review-p35-p54-amendments-search.json",
+        "result": "Official current MarkenG and BGBl portal among results; no evidenced later amendment; search absence is not exhaustive proof."
+      }
+    ],
+    "local_corpus_query": "rg exact case_number I ZB 52/15, I ZB 65/13, I ZB 59/19; selected KORE301012015 Nivea-Blau after inspecting actual subject and length",
+    "fresh_fetches": "sources/review-p35-p54/fetches.json",
+    "case_checks": [
+      {
+        "court": "BGH",
+        "date": "2015-07-09",
+        "docket": "I ZB 65/13",
+        "ecli": null,
+        "ecli_note": "Official XML field empty; no ECLI invented",
+        "read_full_text": true,
+        "read_scope": "Tenor und Gründe Rn. 1–47",
+        "supported_reviewed_ids": [
+          "p50"
+        ],
+        "official_xml": "sources/review-p35-p54/nivea.xml",
+        "official_xml_sha256": "3f5d766b4eda5a92a9f952e2ce3f32226236d6b07b52687120902a29d133a95d",
+        "corpus_path": "sources/review-p35-p54/nivea-local.md",
+        "corpus_sha256": "747871ad3d05ee37036229e0a040535864c0117efb179495ac647cf867b3397e",
+        "nonempty_official_paragraphs_compared": 56,
+        "missing_from_read_corpus": 0,
+        "card": "cases/bgh-nivea.md",
+        "superseded_law_check": "Rn. 40 historical healing at decision not asserted as current § 50(2) sentence 2; § 158(8) noted. Rn. 42–47 support proof scope/methodology only; actual disposition was remand."
+      }
+    ],
+    "no_new_case_selected_ids": [
+      "p35",
+      "p36",
+      "p37",
+      "p38",
+      "p39",
+      "p40",
+      "p41",
+      "p42",
+      "p43",
+      "p44",
+      "p45",
+      "p46",
+      "p47",
+      "p48",
+      "p49",
+      "p51",
+      "p52",
+      "p53",
+      "p54"
+    ],
+    "limit": "Selective case research: Nivea-Blau read in full and verified against official XML. No sufficiently specific additional verified case selected for the other 19 assigned units; no claim that no such case exists. Earlier case cards not re-reviewed."
   }
 }

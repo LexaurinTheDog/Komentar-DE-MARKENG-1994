@@ -149,5 +149,31 @@
       "xml_character_mismatch": []
     },
     "unresolved_blockers": []
+  },
+  "bounded_review_p35_p54_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/markeng/",
+    "verified_at": "2026-10-20T12:03:33.074217+00:00",
+    "version_evidence": "sources/review-p35-p54/version-excerpts.json",
+    "fetches": "sources/review-p35-p54/fetches.json",
+    "historical_versions_checked": {
+      "duplicate_labels": [],
+      "duplicate_doknr": [],
+      "method": "Single current consolidation; fresh identical XML; both 2026 amendment articles and commencement clauses checked; no historical text concatenation."
+    },
+    "annexes_checked": {
+      "raw_records": 224,
+      "operative_annexes": [],
+      "disposition": "No operative annex in raw XML or contents; no separate Eingangsformel; introductory official notes preserved."
+    },
+    "coverage": {
+      "expected": 191,
+      "parsed": 191,
+      "missing": [],
+      "extra": [],
+      "xml_character_mismatch": []
+    },
+    "unresolved_blockers": []
   }
 }
