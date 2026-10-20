@@ -361,6 +361,15 @@
       "No independent full-text revalidation of every EU regulation, international agreement, historical version or implementing ordinance. National current statute, all operative references and both 2026 amendment/commencement acts checked.",
       "UWG §14, StGB §15 and OWiG §10 freshly read as targeted official provisions; not a complete amendment-history audit of those laws.",
       "Firecrawl extraction unavailable for lack of credits; validated direct official HTTP bodies used. Later-amendment search selective, not exhaustive BGBl pipeline audit."
-    ]
+    ],
+    "technical_validation": {
+      "repo": "Komentar-DE-MARKENG-1994",
+      "units": 191,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 306211,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }
