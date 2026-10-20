@@ -1,5 +1,5 @@
 {
-  "stage": "source_preflight_complete",
+  "stage": "bounded_second_pass_complete",
   "country": "de",
   "identifier": "MarkenG",
   "repo": "Komentar-DE-MARKENG-1994",
@@ -8,7 +8,7 @@
   "total_units": 191,
   "completed_units": 191,
   "chapters": 13,
-  "commentary_characters": 215941,
+  "commentary_characters": 224497,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/markeng/",
     "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
@@ -26,7 +26,7 @@
       "p161-163",
       "p164"
     ],
-    "latest_verification": "2026-10-20",
+    "latest_verification": "2026-10-20T11:46:31.092788+00:00",
     "grouped_repeal": "(XXXX) §§ 161 bis 163 preserved as one official unit p161-163",
     "eingangsformel": "No separate operative record; header introductory footnotes preserved."
   },
@@ -74,31 +74,59 @@
     "covered_paragraph_numbers": 193
   },
   "quality_checks": {
-    "output_local_links": 86,
+    "output_local_links": 104,
     "broken_links": [],
     "repeated_paragraphs": [],
     "repeated_long_sentences": [],
-    "unchanged_ordinary_units": 190,
-    "other_commentary_blocks": "Unchanged; prior grouped-block snapshot preserved."
+    "other_commentary_blocks": "All 171 unassigned unit commentaries unchanged against work baseline 30a204fc011a3f6d6d276f9cc79a12051b64f7f2",
+    "unchanged_commentary_units": 179,
+    "retained_reviewed_units": 8,
+    "corrected_reviewed_units": 12
   },
   "remaining_limitations": [
-    "This checkpoint completes the source/parser preflight only; whole-book legal second pass remains outstanding.",
-    "Independent second pass pending; no independent or external professional approval claimed.",
-    "Selective case-law coverage: three principal decisions, not an exhaustive case-law survey.",
-    "Historical versions continued by transitional provisions are not fully reproduced or independently reconstructed.",
-    "All cross-referenced acts and delegated regulations not comprehensively separately verified; no unverified rates or historical wording inserted.",
-    "Current GII consolidation and relevant amending acts checked; no exhaustive independent scan of every post-intake BGBl issue."
+    "Complete means this exact 20-unit assignment only; the remaining 171 commentary units have not received this second pass.",
+    "Selective case law: the two existing relevant BGH decisions were read and verified again; no exhaustive new case-law survey for every unit.",
+    "No new substantive review of the Patentanwaltskosten case card or commentary outside the assigned IDs.",
+    "No complete reconstruction of historical statutes or separate consolidation of all cross-referenced EU, treaty and domestic rules; those are not reproduced from memory.",
+    "Current official consolidation, both 2026 amending articles and commencement clauses checked; supplementary search is not an exhaustive BGBl pipeline audit.",
+    "No external lawyer approval or legal errorlessness certification; technical tests are separate from the recorded substantive reading."
   ],
   "unresolved_blockers": [],
-  "independent_second_pass": "pending",
+  "independent_second_pass": "completed for assigned 20 units; remaining 171 pending",
   "publication": "local only; no push or external submission",
   "prior_stage": "drafted_technical_validation",
-  "task_scope": "Bounded source and parser preflight only; no whole-book completion or independent legal review asserted.",
-  "updated_at": "2026-10-20T11:35:56.230415+00:00",
+  "task_scope": "Exactly p1–p18 including p6a and p14a; no whole-book review completion.",
+  "updated_at": "2026-10-20T11:46:31.092788+00:00",
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
   "covered_paragraph_numbers": 193,
-  "case_law_provenance": "Existing case cards and source evidence preserved from prior authoring; not re-researched by this preflight.",
+  "case_law_provenance": "I ZR 143/24 and I ZR 86/22 fully reread and official XML freshly verified for this batch; Patentanwaltskosten card preserved without renewed substantive review.",
   "preflight_completed_at": "2026-10-20T11:36:29.881722+00:00",
-  "validation_scope": "Strict build validator plus separate complete raw-XML identifier and character audit; not legal approval of the book."
+  "validation_scope": "Strict build validator plus separate complete raw-XML identifier and character audit; not legal approval of the book.",
+  "reviewed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p6a",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p14a",
+    "p15",
+    "p16",
+    "p17",
+    "p18"
+  ],
+  "units_reviewed": 20,
+  "review_result": "review-result.json",
+  "review_completed_at": "2026-10-20T11:46:31.092788+00:00",
+  "whole_book_review_complete": false
 }

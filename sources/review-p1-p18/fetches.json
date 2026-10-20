@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/",
+    "accessed_at": "2026-10-20T11:38:50.086247+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p1-p18/index.html",
+    "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+    "format_validation": "HTML signature and expected title checked",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "accessed_at": "2026-10-20T11:38:50.465362+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p18/markeng.zip",
+    "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+    "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:38:50.858623+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "path": "sources/review-p1-p18/amendment-2026-152.pdf",
+    "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+    "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:38:51.882534+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/review-p1-p18/amendment-2026-9.pdf",
+    "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+    "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE713292025.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE713292025.zip",
+    "accessed_at": "2026-10-20T11:38:53.073243+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p18/werktitel.zip",
+    "sha256": "ff6d2b0e2411358ef4ec219fa7def692418cace197b38f1f4f2fa58643959a98",
+    "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310722023.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310722023.zip",
+    "accessed_at": "2026-10-20T11:38:53.485800+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p1-p18/dachser.zip",
+    "sha256": "671a2b2b5371b182edd97f71e2e9fca88dd32c20186c0aba2d42c7dc499a6d50",
+    "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+    "captured_body_sha256_verified": true
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T11:35:56.262262+00:00",
+  "created_at": "2026-10-20T11:46:31.092788+00:00",
   "primary_statute": "markeng.xml",
   "canonical_statute": "canonical.md",
   "files": [
@@ -239,6 +239,91 @@
       "sha256": "c4711f153bc3c779b36dea8e8cc7339a47ebb29ec95c324f3444dce97d62ade9"
     },
     {
+      "path": "sources/review-p1-p18/amendment-2026-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/review-p1-p18/amendment-2026-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/review-p1-p18/amendment-2026-9.pdf",
+      "bytes": 748171,
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c"
+    },
+    {
+      "path": "sources/review-p1-p18/amendment-2026-9.txt",
+      "bytes": 166215,
+      "sha256": "968e2d7c8c7f171fe5912cdcf4926703f6e8abd3c2824d5d4acf0fa80a71cbfe"
+    },
+    {
+      "path": "sources/review-p1-p18/commentary-baseline.json",
+      "bytes": 223426,
+      "sha256": "70ff55f3945a346817a511198ff6ebfe5dad0335d298c0bb4c6d4c02b9f32ed0"
+    },
+    {
+      "path": "sources/review-p1-p18/dachser.xml",
+      "bytes": 59309,
+      "sha256": "999503dbec19f10cb9682fde8e6d7a60dd3c110b16b9669f2132913c33403bad"
+    },
+    {
+      "path": "sources/review-p1-p18/dachser.zip",
+      "bytes": 48697,
+      "sha256": "671a2b2b5371b182edd97f71e2e9fca88dd32c20186c0aba2d42c7dc499a6d50"
+    },
+    {
+      "path": "sources/review-p1-p18/fetches.json",
+      "bytes": 3579,
+      "sha256": "21dabd9ed32048e19bc3c005709ee650f7710a943e4e084bd950863ea1352e1a"
+    },
+    {
+      "path": "sources/review-p1-p18/index.html",
+      "bytes": 44679,
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae"
+    },
+    {
+      "path": "sources/review-p1-p18/markeng.xml",
+      "bytes": 343720,
+      "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484"
+    },
+    {
+      "path": "sources/review-p1-p18/markeng.zip",
+      "bytes": 60854,
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa"
+    },
+    {
+      "path": "sources/review-p1-p18/parser-run.json",
+      "bytes": 8618,
+      "sha256": "9bc0ddf3a71fb3beb36baf4166ec6f8e33c2a22bfba7e81695be90a5047688d5"
+    },
+    {
+      "path": "sources/review-p1-p18/version-excerpts.json",
+      "bytes": 44529,
+      "sha256": "bb16c2c9ed71c0cb616ed5293b2871fd0cd1044f7858ac3d64e27bbef1917c50"
+    },
+    {
+      "path": "sources/review-p1-p18/werktitel.xml",
+      "bytes": 34290,
+      "sha256": "8ee77ba5a800c4f29ca76a6990376b31aeba01d5e3662af15b065b4ead6335cd"
+    },
+    {
+      "path": "sources/review-p1-p18/werktitel.zip",
+      "bytes": 8704,
+      "sha256": "ff6d2b0e2411358ef4ec219fa7def692418cace197b38f1f4f2fa58643959a98"
+    },
+    {
+      "path": "sources/review-p1-p18-index-firecrawl.md",
+      "bytes": 32097,
+      "sha256": "0c0501324fb70a2809ab9667aa57dfcd5f77e16ed87882e93ebd0fd7244b2f90"
+    },
+    {
+      "path": "sources/review-p1-p18-search.json",
+      "bytes": 14529,
+      "sha256": "1189ae56cd1635784aa356c57c9573f92dcaa89250c7b0b7bbc6ee66f9d0eef9"
+    },
+    {
       "path": "sources/search-amendments.json",
       "bytes": 961,
       "sha256": "8e9837a58564d895845c3bd7eb1d850461745cd956c0a5a33b641c391f1d2d72"
@@ -250,13 +335,13 @@
     },
     {
       "path": "sources/search-log.json",
-      "bytes": 4851,
-      "sha256": "cfe01a6faf34ab10a87f9d5c2ea21819f5b4fa45a3a423c48b310c2b42ab35c6"
+      "bytes": 6854,
+      "sha256": "a6261305361543393371656e683207e7b64e9e64865e49402eccf0d771cdd3c3"
     },
     {
       "path": "sources/verification.json",
-      "bytes": 13096,
-      "sha256": "e76b594f6c0198109296d25b69e0f631add0ba70270dda797ce88e62e5eba6db"
+      "bytes": 17359,
+      "sha256": "94ce0ea34019242736afe3ae749e60ab15efc99ebc103c756b5a8b5702a348bd"
     },
     {
       "path": "sources/werktitel-local.md",
