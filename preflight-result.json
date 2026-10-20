@@ -415,6 +415,15 @@
       "p160",
       "p161-163",
       "p164"
-    ]
+    ],
+    "technical_validation": {
+      "repo": "Komentar-DE-MARKENG-1994",
+      "units": 191,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 314995,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }

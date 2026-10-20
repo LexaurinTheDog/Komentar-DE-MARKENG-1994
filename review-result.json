@@ -1,5 +1,5 @@
 {
-  "complete": false,
+  "complete": true,
   "task": "bounded_independent_second_pass",
   "units_reviewed": 11,
   "reviewed_ids": [
@@ -16,7 +16,7 @@
     "p164"
   ],
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-20T13:33:12.366939+00:00",
+  "reviewed_at": "2026-10-20T13:34:04.536049+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
@@ -423,8 +423,16 @@
   ],
   "source_preflight": "preflight-result.json",
   "source_verification": "sources/verification.json",
-  "technical_validation": null,
-  "technical_validation_pending": true,
+  "technical_validation": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 314995,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "technical_validation_pending": false,
   "completeness": {
     "expected": 191,
     "parsed": 191,
