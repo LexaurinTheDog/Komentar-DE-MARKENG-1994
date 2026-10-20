@@ -4,7 +4,7 @@
   "decisive_date": "2026-10-19",
   "verification_date": "2026-10-20",
   "official_url": "https://www.gesetze-im-internet.de/markeng/",
-  "verified_at": "2026-10-20T12:40:12.138240+00:00",
+  "verified_at": "2026-10-20T12:40:55.523475+00:00",
   "version_evidence": {
     "consolidated_version": "Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152",
     "xml_path": "sources/markeng.xml",
@@ -252,6 +252,15 @@
       "extra": [],
       "xml_character_mismatch": []
     },
-    "unresolved_blockers": []
+    "unresolved_blockers": [],
+    "technical_validation": {
+      "repo": "Komentar-DE-MARKENG-1994",
+      "units": 191,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 277352,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    }
   }
 }
