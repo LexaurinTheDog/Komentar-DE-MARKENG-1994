@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2005-7-21&Gericht=bgh&anz=31&nr=34261&pos=22",
+    "accessed_at": "2026-10-20T13:25:06.839823+00:00",
+    "http_status": 200,
+    "http_status_evidence": "The successful status assertion preceded the PDF signature assertion in the captured fetch script.",
+    "path": "sources/review-p152-p164/boss-rejected.html",
+    "sha256": "00db8b4adff9609be1496cdd20a6c1829e46c8499e3c03a235eb7c2fd5fb65aa",
+    "content_type": null,
+    "final_url": null,
+    "format_validation": "REJECTED: HTML signature and BGH webpage redirect content instead of PDF. Not cited or counted as a verified decision.",
+    "limitations": "Content-Type and final URL were not retained by the first failed-request handler; not reconstructed."
+  }
+]

@@ -1831,6 +1831,100 @@
       "path": "sources/review-p134a-p151/uwg-14.html",
       "sha256": "34ca58c18c69aeddc827094be6095b8a53c77b4051d33efb953588be28731032",
       "format_validation": "HTML signature checked; text extracted for targeted reference reading"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T13:23:26.293206+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p152-p164/index.html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "format_validation": "HTML signature and expected title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T13:23:26.464450+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p152-p164/markeng.zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:23:26.605747+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "path": "sources/review-p152-p164/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:23:27.303970+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "path": "sources/review-p152-p164/amendment-2026-9.pdf",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__2.html",
+      "final_url": "https://www.gesetze-im-internet.de/stgb/__2.html",
+      "accessed_at": "2026-10-20T13:25:07.666918+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p152-p164/stgb-2.html",
+      "sha256": "1d79a8e76e7eb41810e8a5ae674750afdfc46b323694ef9c7f86dab3aaf28596",
+      "format_validation": "HTML signature checked; text extracted for targeted reference reading"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__4.html",
+      "final_url": "https://www.gesetze-im-internet.de/owig_1968/__4.html",
+      "accessed_at": "2026-10-20T13:25:07.854193+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p152-p164/owig-4.html",
+      "sha256": "b292d9a0586602092a6a34ea4ddc224b93337de72af912a2dc41f4c8084447c7",
+      "format_validation": "HTML signature checked; text extracted for targeted reference reading"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgbeg/art_229__6.html",
+      "final_url": "https://www.gesetze-im-internet.de/bgbeg/art_229__6.html",
+      "accessed_at": "2026-10-20T13:25:07.997547+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p152-p164/egbgb-229-6.html",
+      "sha256": "2d96f04ad8fb925893fa533bc823f79be97a48cffcb06347327a25b3100c2848",
+      "format_validation": "HTML signature checked; text extracted for targeted reference reading"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE239030841.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE239030841.zip",
+      "accessed_at": "2026-10-20T13:25:42.773114+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p152-p164/kragenweite.zip",
+      "sha256": "da8bd8274b5b336bf0d803f2eafec96d0f2764ce0e27715e172127f47afadd13",
+      "format_validation": "ZIP CRC validated; unique XML parsed; expected docket 29 W (pat) 514/20"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE239030940.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE239030940.zip",
+      "accessed_at": "2026-10-20T13:25:43.032366+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p152-p164/goeler.zip",
+      "sha256": "f7a40e58e38cf7248796caa3943aeb834c768e52b66aac721afb6fb560a30f9b",
+      "format_validation": "ZIP CRC validated; unique XML parsed; expected docket 26 W (pat) 27/18"
     }
   ],
   "decisive_date": "2026-10-19",
@@ -1882,7 +1976,7 @@
       ]
     }
   ],
-  "last_verified_at": "2026-10-20T13:21:28.931865+00:00",
+  "last_verified_at": "2026-10-20T13:25:43.032366+00:00",
   "preflight_decisive_date": "2026-10-19",
   "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
   "official_xml": {
@@ -2254,5 +2348,24 @@
       "StGB §15",
       "OWiG §10"
     ]
+  },
+  "bounded_review_p152_p164": {
+    "verified_at": "2026-10-20T13:25:43.032366+00:00",
+    "evidence": "sources/review-p152-p164/fetches.json",
+    "version_excerpts": "sources/review-p152-p164/version-excerpts.json",
+    "decisive_date": "2026-10-19",
+    "official_xml_unchanged": true,
+    "search_log": "sources/review-p152-p164/web-search.json",
+    "firecrawl_extraction": null,
+    "firecrawl_failure": "Insufficient credits; direct official HTTP fetch used",
+    "limit": "Current consolidation plus selective later-amendment search; no exhaustive BGBl pipeline audit.",
+    "case_comparison": "sources/review-p152-p164/case-comparison.json",
+    "case_full_text_read": true,
+    "external_references": [
+      "Art.229 §6 EGBGB",
+      "StGB §2",
+      "OWiG §4"
+    ],
+    "rejected_responses": "sources/review-p152-p164/rejected-fetches.json"
   }
 }

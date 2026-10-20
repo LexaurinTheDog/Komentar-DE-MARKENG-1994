@@ -1,0 +1,21 @@
+§ 2 StGB - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Strafgesetzbuch (StGB)
+§ 2
+Zeitliche Geltung
+(1) Die Strafe und ihre Nebenfolgen bestimmen sich nach dem Gesetz, das zur Zeit der Tat gilt.
+(2) Wird die Strafdrohung während der Begehung der Tat geändert, so ist das Gesetz anzuwenden, das bei Beendigung der Tat gilt.
+(3) Wird das Gesetz, das bei Beendigung der Tat gilt, vor der Entscheidung geändert, so ist das mildeste Gesetz anzuwenden.
+(4) Ein Gesetz, das nur für eine bestimmte Zeit gelten soll, ist auf Taten, die während seiner Geltung begangen sind, auch dann anzuwenden, wenn es außer Kraft getreten ist. Dies gilt nicht, soweit ein Gesetz etwas anderes bestimmt.
+(5) Für Einziehung und Unbrauchbarmachung gelten die Absätze 1 bis 4 entsprechend.
+(6) Über Maßregeln der Besserung und Sicherung ist, wenn gesetzlich nichts anderes bestimmt ist, nach dem Gesetz zu entscheiden, das zur Zeit der Entscheidung gilt.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

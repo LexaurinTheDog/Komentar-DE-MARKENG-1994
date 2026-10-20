@@ -1,0 +1,71 @@
+{
+  "searched_at": "2026-10-20T13:31:02.693722+00:00",
+  "scope": "Selective authorities research for bounded review p152–p164; no exhaustive jurisprudence or legislative pipeline audit.",
+  "online_queries": [
+    "site.bundesgerichtshof.de MarkenG \"153\" \"Weiterbenutzung\"",
+    "site.rechtsprechung-im-internet.de \"MarkenG\" \"158\" \"Übergang\"",
+    "Markengesetz Änderung 2026 Art. 14 20.5.2026 Oktober 2026"
+  ],
+  "online_results": "web-search.json",
+  "local_search": {
+    "root": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "pattern": "§ 158.{0,25}MarkenG",
+    "results": "local-search.json",
+    "method": "rg identifies files; metadata and matching passages recorded without modifying corpus; two concise directly relevant BPatG cases selected and read fully."
+  },
+  "selected": [
+    {
+      "doknr": "JURE239030841",
+      "docket": "29 W (pat) 514/20",
+      "supported_ids": [
+        "p158"
+      ],
+      "read": "Tenor and all reasons Rn.1–35",
+      "precise_support": "Rn.26–32: §158(5), old evidence rule and absent second-period evidence; first period left open; no judicial ruling on likelihood of confusion."
+    },
+    {
+      "doknr": "JURE239030940",
+      "docket": "26 W (pat) 27/18",
+      "supported_ids": [
+        "p158"
+      ],
+      "read": "Tenor and all reasons Rn.1–26",
+      "precise_support": "Rn.15,19–25: §158(3) selects old §42(1)/(2), mere name-right opposition inadmissible; no award of claimed substantive name right."
+    }
+  ],
+  "not_selected": [
+    {
+      "docket": "I ZR 312/02",
+      "reason": "Official PDF URL yielded HTML; body captured and rejected. Search snippet not used as authority."
+    },
+    {
+      "docket": "I ZB 58/25",
+      "reason": "Partially inspected local extract, no full reading or fresh official fetch completed; not cited, counted or made a case card."
+    },
+    {
+      "docket": "I ZB 21/19",
+      "reason": "Search metadata/size only; not fully read or cited."
+    }
+  ],
+  "units_without_new_selected_case": [
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p159",
+    "p160",
+    "p161-163",
+    "p164"
+  ],
+  "prior_case_cards": "17 retained unchanged, not substantively rereviewed in current task.",
+  "negative_result_limit": "No newly selected sufficiently specific fully verified authority for the other ten units; no assertion that relevant decisions do not exist.",
+  "firecrawl": "Authenticated but no credits; actual failed scrape captured in firecrawl-attempt.json. Direct validated official HTTP evidence used.",
+  "external_references": [
+    "Art.229 §6 EGBGB",
+    "§2 StGB",
+    "§4 OWiG"
+  ],
+  "external_reference_limit": "Targeted complete individual texts checked; no complete historical reconstruction of all external statutes, EU regulations or implementing ordinances."
+}

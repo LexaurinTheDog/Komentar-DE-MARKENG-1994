@@ -1,0 +1,113 @@
+{
+  "decisive_date": "2026-10-19",
+  "verification_date": "2026-10-20",
+  "official_xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+  "identical_to_canonical_xml": true,
+  "historical_parallel_records": false,
+  "reviewed_ids": [
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161-163",
+    "p164"
+  ],
+  "assigned_amendment_excerpt": "36. § 158 Absatz 11 wird durch den folgenden Absatz 11 ersetzt:\n     „(11) Wurden die Europäische Kommission und das Amt der Europäischen Union für geistiges Eigentum\n   nach Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 über eine geografische Angabe unterrichtet, so ist\n   § 127 Absatz 6 mit der Maßgabe anzuwenden, dass die Unterrichtung der Einreichung eines Antrags auf\n   Eintragung gleichsteht.“\n37. § 160 wird wie folgt geändert:\n   a) Absatz 1 wird durch den folgenden Absatz 1 ersetzt:\n         „(1) Wird eine in einer Vorschrift dieses Gesetzes oder in einer aufgrund dieses Gesetzes erlassenen\n      Rechtsverordnung (innerstaatliche Vorschrift) genannte Vorschrift eines unmittelbar geltenden Rechtsakts\n      der Europäischen Union aufgehoben oder für nicht mehr anwendbar erklärt, so werden Straftaten nach\n      § 144 und Ordnungswidrigkeiten nach § 145 Absatz 2, 3 und 4, die bis zum Zeitpunkt der Aufhebung oder\n      der Nichtanwendung begangen worden sind, abweichend von § 2 Absatz 3 des Strafgesetzbuches und von\n      § 4 Absatz 3 des Gesetzes über Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden\n      Bestimmungen geahndet.“\n   b) Absatz 2 Satz 2 wird gestrichen.\n\n\n                                                  Artikel 6\n",
+  "changes": [
+    {
+      "id": "p158",
+      "paragraph": 11,
+      "article": "Art.5 Nr.36 G 11.1.2026, BGBl.2026 I Nr.9",
+      "effective_from": "2026-01-16",
+      "meaning": "Notification to Commission and EUIPO under Art.70(2) Regulation 2023/2411 equivalent to application for §127(6)."
+    },
+    {
+      "id": "p160",
+      "paragraph": 1,
+      "article": "Art.5 Nr.37a",
+      "effective_from": "2026-01-16",
+      "meaning": "Updated continuation of offence references to §144 and §145(2)–(4)."
+    },
+    {
+      "id": "p160",
+      "paragraph": 2,
+      "article": "Art.5 Nr.37b",
+      "effective_from": "2026-01-16",
+      "meaning": "Former second sentence deleted; no continued current delegation sentence invented."
+    }
+  ],
+  "latest_amendment": {
+    "citation": "BGBl.2026 I Nr.152",
+    "article": 14,
+    "amended_units": [
+      "p81",
+      "p82"
+    ],
+    "assigned_units_affected": [],
+    "effective_from": "2026-10-01",
+    "commencement_evidence": "Art.18(1); relevant exception clauses do not postpone Art.14"
+  },
+  "historical_detail_limit": "Current operative transition directions and targeted EGBGB cross-reference checked; all historical WZG, MarkenG, PatKostG and EU versions not reconstructed. No historical substantive gap filled from memory.",
+  "assigned_units": [
+    {
+      "id": "p152",
+      "label": "§ 152",
+      "xml_doknr": "BJNR308210994BJNE017200000"
+    },
+    {
+      "id": "p153",
+      "label": "§ 153",
+      "xml_doknr": "BJNR308210994BJNE017300000"
+    },
+    {
+      "id": "p154",
+      "label": "§ 154",
+      "xml_doknr": "BJNR308210994BJNE017400000"
+    },
+    {
+      "id": "p155",
+      "label": "§ 155",
+      "xml_doknr": "BJNR308210994BJNE017500000"
+    },
+    {
+      "id": "p156",
+      "label": "§ 156",
+      "xml_doknr": "BJNR308210994BJNE017601123"
+    },
+    {
+      "id": "p157",
+      "label": "§ 157",
+      "xml_doknr": "BJNR308210994BJNE017702360"
+    },
+    {
+      "id": "p158",
+      "label": "§ 158",
+      "xml_doknr": "BJNR308210994BJNE017805129"
+    },
+    {
+      "id": "p159",
+      "label": "§ 159",
+      "xml_doknr": "BJNR308210994BJNE017803360"
+    },
+    {
+      "id": "p160",
+      "label": "§ 160",
+      "xml_doknr": "BJNR308210994BJNE022001129"
+    },
+    {
+      "id": "p161-163",
+      "label": "(XXXX) §§ 161 bis 163",
+      "xml_doknr": "BJNR308210994BJNE017903360"
+    },
+    {
+      "id": "p164",
+      "label": "§ 164",
+      "xml_doknr": "BJNR308210994BJNE018401140"
+    }
+  ]
+}

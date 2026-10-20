@@ -1,5 +1,5 @@
 {
-  "stage": "bounded_second_pass_complete",
+  "stage": "bounded_second_pass_validation_pending",
   "country": "de",
   "identifier": "MarkenG",
   "repo": "Komentar-DE-MARKENG-1994",
@@ -8,7 +8,7 @@
   "total_units": 191,
   "completed_units": 191,
   "chapters": 13,
-  "commentary_characters": 306211,
+  "commentary_characters": 314995,
   "source_checks": {
     "official_source": "https://www.gesetze-im-internet.de/markeng/",
     "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
@@ -26,7 +26,7 @@
       "p161-163",
       "p164"
     ],
-    "latest_verification": "2026-10-20T13:21:28.931865+00:00",
+    "latest_verification": "2026-10-20T13:25:43.032366+00:00",
     "grouped_repeal": "(XXXX) §§ 161 bis 163 preserved as one official unit p161-163",
     "eingangsformel": "No separate operative record; header introductory footnotes preserved."
   },
@@ -149,6 +149,20 @@
       "docket": "3 StR 225/20",
       "card": "cases/bgh-gemeinschaftsmarke-strafbarkeit.md",
       "read_full_text": true
+    },
+    {
+      "court": "BPatG",
+      "date": "20230206",
+      "docket": "29 W (pat) 514/20",
+      "card": "cases/bpatg-kragenweite-uebergang.md",
+      "read_full_text": true
+    },
+    {
+      "court": "BPatG",
+      "date": "20230417",
+      "docket": "26 W (pat) 27/18",
+      "card": "cases/bpatg-goeler-uebergang.md",
+      "read_full_text": true
     }
   ],
   "validation_result": {
@@ -172,59 +186,50 @@
     "covered_paragraph_numbers": 193
   },
   "quality_checks": {
-    "output_local_links": 452,
+    "output_local_links": 499,
     "broken_links": [],
     "repeated_paragraphs": [],
     "repeated_long_sentences": [],
-    "other_commentary_blocks": "All 171 unassigned blocks unchanged against baseline e9b18d4fdfc70bf53e8546960ccbcf8a05ba4286",
-    "unchanged_commentary_units": 179,
-    "retained_reviewed_units": 8,
-    "corrected_reviewed_units": 12
+    "other_commentary_blocks": "All 180 unassigned blocks unchanged against baseline 7b6d270719be65a1a1ad0981fd4be337c9b87918",
+    "unchanged_commentary_units": 185,
+    "retained_reviewed_units": 5,
+    "corrected_reviewed_units": 6
   },
   "remaining_limitations": [
-    "Exactly the assigned 20 units reviewed; 11 whole-book units remain outside this task. No whole-book completion or external professional approval.",
-    "Case law selective: BGH I ZB 59/19 reread and BGH 3 StR 225/20 added after full-text review; 15 other cards retained without substantive rereview. No exhaustive later-case audit.",
-    "No independent full-text revalidation of every EU regulation, international agreement, historical version or implementing ordinance. National current statute, all operative references and both 2026 amendment/commencement acts checked.",
-    "UWG §14, StGB §15 and OWiG §10 freshly read as targeted official provisions; not a complete amendment-history audit of those laws.",
-    "Firecrawl extraction unavailable for lack of credits; validated direct official HTTP bodies used. Later-amendment search selective, not exhaustive BGBl pipeline audit."
+    "Exactly the assigned eleven official units reviewed; 180 unassigned commentary blocks unchanged. Earlier review records retained, not independently rereviewed here. No whole-book completion, final assembly or external professional approval claimed.",
+    "Case research selective: two new BPatG decisions fully read and freshly official-verified for §158. Seventeen prior case cards retained unchanged without substantive rereview; no exhaustive later-case audit.",
+    "Current transition directions and targeted individual external references checked; no full reconstruction of every historical WZG, MarkenG, PatKostG, EU or implementing provision. Commentary explicitly requires historical texts for a concrete historical double test and does not fill statutory gaps from memory.",
+    "Firecrawl lacked credits; direct validated official HTTP captures used. A purported BGH PDF returned HTML and was rejected; its Content-Type/final URL were not recorded in first handler and are not reconstructed.",
+    "Current official consolidation and both relevant 2026 amendment/commencement sources checked; later-amendment search selective, not exhaustive BGBl pipeline audit."
   ],
   "unresolved_blockers": [],
-  "independent_second_pass": "Current 20 reviewed; 180 cumulatively reviewed, 11 pending",
+  "independent_second_pass": "Current eleven reviewed; inherited records account for other 180; no new whole-book review or final assembly.",
   "publication": "local only; no push or external submission",
   "prior_stage": "drafted_technical_validation",
-  "task_scope": "Exactly p134a–p151 including p134b and p145a; no whole-book completion.",
-  "updated_at": "2026-10-20T13:21:28.931865+00:00",
+  "task_scope": "Exactly p152–p160, p161-163 and p164; eleven official units; no whole-book completion.",
+  "updated_at": "2026-10-20T13:33:12.366939+00:00",
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
   "covered_paragraph_numbers": 193,
-  "case_law_provenance": "One new and one existing BGH decision fully read and freshly verified in this batch; 15 other cards retained without renewed substantive review.",
+  "case_law_provenance": "Two new BPatG decisions read fully and freshly official-verified in this batch; all 17 prior cards unchanged without substantive rereview.",
   "preflight_completed_at": "2026-10-20T11:36:29.881722+00:00",
   "validation_scope": "Strict build validator plus separate complete raw-XML identifier and character audit; not legal approval of the book.",
   "reviewed_ids": [
-    "p134a",
-    "p134b",
-    "p135",
-    "p136",
-    "p137",
-    "p138",
-    "p139",
-    "p140",
-    "p141",
-    "p142",
-    "p143",
-    "p144",
-    "p145",
-    "p145a",
-    "p146",
-    "p147",
-    "p148",
-    "p149",
-    "p150",
-    "p151"
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161-163",
+    "p164"
   ],
-  "units_reviewed": 20,
+  "units_reviewed": 11,
   "review_result": "review-result.json",
-  "review_completed_at": "2026-10-20T13:21:28.931865+00:00",
+  "review_completed_at": null,
   "whole_book_review_complete": false,
   "cumulative_reviewed_ids": [
     "p1",
@@ -406,8 +411,19 @@
     "p148",
     "p149",
     "p150",
-    "p151"
+    "p151",
+    "p152",
+    "p153",
+    "p154",
+    "p155",
+    "p156",
+    "p157",
+    "p158",
+    "p159",
+    "p160",
+    "p161-163",
+    "p164"
   ],
-  "cumulative_reviewed_units": 180,
-  "remaining_second_pass_units": 11
+  "cumulative_reviewed_units": 191,
+  "remaining_second_pass_units": 0
 }

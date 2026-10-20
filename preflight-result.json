@@ -83,9 +83,9 @@
   "unresolved_blockers": [],
   "limitations": [
     "This task did not review the legal meaning of all existing commentary or re-research existing case cards.",
-    "Independent second pass remains pending.",
     "Historical laws continued by transitional references were not reconstructed in full.",
-    "Later-law search is selective; no exhaustive legislative pipeline audit claimed."
+    "Later-law search is selective; no exhaustive legislative pipeline audit claimed.",
+    "This process completes only the eleven-unit bounded second pass; earlier review records preserved, no whole-book completion claimed."
   ],
   "technical_validation": {
     "repo": "Komentar-DE-MARKENG-1994",
@@ -371,5 +371,50 @@
       "warnings": [],
       "ok": true
     }
+  },
+  "bounded_review_p152_p164_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/markeng/",
+    "verified_at": "2026-10-20T13:25:43.032366+00:00",
+    "version_evidence": "sources/review-p152-p164/version-excerpts.json",
+    "fetches": "sources/review-p152-p164/fetches.json",
+    "historical_versions_checked": {
+      "duplicate_labels": [],
+      "duplicate_doknr": [],
+      "method": "Single current consolidation; fresh identical XML; both 2026 amendment articles and commencement clauses checked; no historical text concatenation."
+    },
+    "annexes_checked": {
+      "raw_records": 224,
+      "operative_annexes": [],
+      "disposition": "No operative annex in raw XML or contents; no separate Eingangsformel; introductory official notes preserved."
+    },
+    "coverage": {
+      "expected": 191,
+      "parsed": 191,
+      "missing": [],
+      "extra": [],
+      "xml_character_mismatch": []
+    },
+    "unresolved_blockers": [],
+    "assigned_version_analysis": "sources/review-p152-p164/assigned-version-review.json",
+    "supplementary_source_limitations": [
+      "Current transition directions and targeted individual external references checked; no full reconstruction of every historical WZG, MarkenG, PatKostG, EU or implementing provision. Commentary explicitly requires historical texts for a concrete historical double test and does not fill statutory gaps from memory.",
+      "Firecrawl lacked credits; direct validated official HTTP captures used. A purported BGH PDF returned HTML and was rejected; its Content-Type/final URL were not recorded in first handler and are not reconstructed.",
+      "Current official consolidation and both relevant 2026 amendment/commencement sources checked; later-amendment search selective, not exhaustive BGBl pipeline audit."
+    ],
+    "reviewed_ids": [
+      "p152",
+      "p153",
+      "p154",
+      "p155",
+      "p156",
+      "p157",
+      "p158",
+      "p159",
+      "p160",
+      "p161-163",
+      "p164"
+    ]
   }
 }

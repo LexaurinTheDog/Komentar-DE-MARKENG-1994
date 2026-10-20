@@ -1,0 +1,21 @@
+Art 229 § 6 EGBGB - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Einführungsgesetz zum Bürgerlichen Gesetzbuche
+§ 6
+Überleitungsvorschrift zum Verjährungsrecht nach dem Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001
+(1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der seit dem 1. Januar 2002 geltenden Fassung finden auf die an diesem Tag bestehenden und noch nicht verjährten Ansprüche Anwendung. Der Beginn, die Hemmung, die Ablaufhemmung und der Neubeginn der Verjährung bestimmen sich jedoch für den Zeitraum vor dem 1. Januar 2002 nach dem Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung. Wenn nach Ablauf des 31. Dezember 2001 ein Umstand eintritt, bei dessen Vorliegen nach dem Bürgerlichen Gesetzbuch in der vor dem 1. Januar 2002 geltenden Fassung eine vor dem 1. Januar 2002 eintretende Unterbrechung der Verjährung als nicht erfolgt oder als erfolgt gilt, so ist auch insoweit das Bürgerliche Gesetzbuch in der vor dem 1. Januar 2002 geltenden Fassung anzuwenden.
+(2) Soweit die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 1. Januar 2002 geltenden Fassung anstelle der Unterbrechung der Verjährung deren Hemmung vorsehen, so gilt eine Unterbrechung der Verjährung, die nach den anzuwendenden Vorschriften des Bürgerlichen Gesetzbuchs in der vor dem 1. Januar 2002 geltenden Fassung vor dem 1. Januar 2002 eintritt und mit Ablauf des 31. Dezember 2001 noch nicht beendigt ist, als mit dem Ablauf des 31. Dezember 2001 beendigt, und die neue Verjährung ist mit Beginn des 1. Januar 2002 gehemmt.
+(3) Ist die Verjährungsfrist nach dem Bürgerlichen Gesetzbuch in der seit dem 1. Januar 2002 geltenden Fassung länger als nach dem Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung, so ist die Verjährung mit dem Ablauf der im Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung bestimmten Frist vollendet.
+(4) Ist die Verjährungsfrist nach dem Bürgerlichen Gesetzbuch in der seit dem 1. Januar 2002 geltenden Fassung kürzer als nach dem Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung, so wird die kürzere Frist von dem 1. Januar 2002 an berechnet. Läuft jedoch die im Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung bestimmte längere Frist früher als die im Bürgerlichen Gesetzbuch in der seit diesem Tag geltenden Fassung bestimmten Frist ab, so ist die Verjährung mit dem Ablauf der im Bürgerlichen Gesetzbuch in der bis zu diesem Tag geltenden Fassung bestimmten Frist vollendet.
+(5) Die vorstehenden Absätze sind entsprechend auf Fristen anzuwenden, die für die Geltendmachung, den Erwerb oder den Verlust eines Rechts maßgebend sind.
+(6) Die vorstehenden Absätze gelten für die Fristen nach dem Handelsgesetzbuch und dem Umwandlungsgesetz entsprechend.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

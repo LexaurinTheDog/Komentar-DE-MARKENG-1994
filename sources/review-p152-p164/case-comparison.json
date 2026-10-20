@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "kragenweite",
+    "official_nonempty_paragraphs_compared": 44,
+    "all_in_read_local_text": true,
+    "court": "BPatG",
+    "date": "20230206",
+    "docket": "29 W (pat) 514/20",
+    "ecli": "ECLI:DE:BPatG:2023:060223B29Wpat514.20.0",
+    "official_xml_sha256": "7d59621c8c6f6d7fabeccab76ed82e25c305092a88bb2c3e5ad5ec3386cc18e5",
+    "local_read_text_sha256": "ee5d2d30d02fc064d3964591269b63f82b0d065737fe08014fc851bfea7a9c16",
+    "read_full_text": true,
+    "supported_reviewed_ids": [
+      "p158"
+    ]
+  },
+  {
+    "slug": "goeler",
+    "official_nonempty_paragraphs_compared": 36,
+    "all_in_read_local_text": true,
+    "court": "BPatG",
+    "date": "20230417",
+    "docket": "26 W (pat) 27/18",
+    "ecli": "ECLI:DE:BPatG:2023:170423B26Wpat27.18.0",
+    "official_xml_sha256": "75f21c164311936e94687416b089be33f16fca7eee318c1a135097dcfcb253ce",
+    "local_read_text_sha256": "3f2c5fb4bb58725588096c6f945404e251dfc5e699fdd73010153d645a908d3a",
+    "read_full_text": true,
+    "supported_reviewed_ids": [
+      "p158"
+    ]
+  }
+]

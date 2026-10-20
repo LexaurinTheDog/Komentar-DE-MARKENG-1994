@@ -1,0 +1,20 @@
+§ 4 OWiG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gesetz über Ordnungswidrigkeiten (OWiG)
+§ 4
+Zeitliche Geltung
+(1) Die Geldbuße bestimmt sich nach dem Gesetz, das zur Zeit der Handlung gilt.
+(2) Wird die Bußgelddrohung während der Begehung der Handlung geändert, so ist das Gesetz anzuwenden, das bei Beendigung der Handlung gilt.
+(3) Wird das Gesetz, das bei Beendigung der Handlung gilt, vor der Entscheidung geändert, so ist das mildeste Gesetz anzuwenden.
+(4) Ein Gesetz, das nur für eine bestimmte Zeit gelten soll, ist auf Handlungen, die während seiner Geltung begangen sind, auch dann anzuwenden, wenn es außer Kraft getreten ist. Dies gilt nicht, soweit ein Gesetz etwas anderes bestimmt.
+(5) Für Nebenfolgen einer Ordnungswidrigkeit gelten die Absätze 1 bis 4 entsprechend.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

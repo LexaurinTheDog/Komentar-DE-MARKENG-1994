@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T13:21:29.182418+00:00",
+  "created_at": "2026-10-20T13:33:12.522534+00:00",
   "primary_statute": "markeng.xml",
   "canonical_statute": "canonical.md",
   "files": [
@@ -892,6 +892,181 @@
       "path": "sources/review-p134a-p151/web-search.json",
       "bytes": 27579,
       "sha256": "e23f6b6b719994910a104b40d161931aff0e83ffb252e4d740dbbb45f0411e22"
+    },
+    {
+      "path": "sources/review-p152-p164/amendment-2026-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/review-p152-p164/amendment-2026-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/review-p152-p164/amendment-2026-9.pdf",
+      "bytes": 748171,
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c"
+    },
+    {
+      "path": "sources/review-p152-p164/amendment-2026-9.txt",
+      "bytes": 166215,
+      "sha256": "968e2d7c8c7f171fe5912cdcf4926703f6e8abd3c2824d5d4acf0fa80a71cbfe"
+    },
+    {
+      "path": "sources/review-p152-p164/assigned-version-review.json",
+      "bytes": 4261,
+      "sha256": "c94326bcf7b481d1fc4be1cfa6128be55abd33e34c0ca559da9bf3726690d638"
+    },
+    {
+      "path": "sources/review-p152-p164/baseline-commit.txt",
+      "bytes": 41,
+      "sha256": "1c355d4b0225be99ff6b52eb8b550a9e3064dbece33440ad765e60637cce2ebe"
+    },
+    {
+      "path": "sources/review-p152-p164/before-commentary.json",
+      "bytes": 315250,
+      "sha256": "d0106f6ac8b9e39f411c2821b42409c50e81304a5e40fc072b5aabb9d2b091e6"
+    },
+    {
+      "path": "sources/review-p152-p164/boss-rejected.html",
+      "bytes": 51650,
+      "sha256": "00db8b4adff9609be1496cdd20a6c1829e46c8499e3c03a235eb7c2fd5fb65aa"
+    },
+    {
+      "path": "sources/review-p152-p164/case-comparison.json",
+      "bytes": 1056,
+      "sha256": "40914370e984a486888c9aa03161aa3f12a01ec57aa8faa053a8385cb4adfa7c"
+    },
+    {
+      "path": "sources/review-p152-p164/egbgb-229-6.html",
+      "bytes": 6409,
+      "sha256": "2d96f04ad8fb925893fa533bc823f79be97a48cffcb06347327a25b3100c2848"
+    },
+    {
+      "path": "sources/review-p152-p164/egbgb-229-6.txt",
+      "bytes": 3127,
+      "sha256": "1915f081703295729564d98a0f89cf8d12db6bc6a109461e1ff72765ef586ee4"
+    },
+    {
+      "path": "sources/review-p152-p164/fetch-errors.jsonl",
+      "bytes": 215,
+      "sha256": "2d981da77d34ab8ec9b3e4daf3c0a82ee871a8bb1797826b4f8ed6e4613f67f7"
+    },
+    {
+      "path": "sources/review-p152-p164/fetches.json",
+      "bytes": 4954,
+      "sha256": "0ee421ce4809245c1d926759f6b6279bc5b3ea46a1ddb9870785bf09d7dae199"
+    },
+    {
+      "path": "sources/review-p152-p164/firecrawl-attempt.json",
+      "bytes": 313,
+      "sha256": "2ada06153ff2e3ace62fc13a4e359377d63771624fdfb053babebc48cecdbd78"
+    },
+    {
+      "path": "sources/review-p152-p164/goeler-local.md",
+      "bytes": 11609,
+      "sha256": "3f2c5fb4bb58725588096c6f945404e251dfc5e699fdd73010153d645a908d3a"
+    },
+    {
+      "path": "sources/review-p152-p164/goeler.txt",
+      "bytes": 13839,
+      "sha256": "58869c3343b312dd73ff930012bf72e86cf84b799ba37f6b921e06f55e3d81eb"
+    },
+    {
+      "path": "sources/review-p152-p164/goeler.xml",
+      "bytes": 19767,
+      "sha256": "75f21c164311936e94687416b089be33f16fca7eee318c1a135097dcfcb253ce"
+    },
+    {
+      "path": "sources/review-p152-p164/goeler.zip",
+      "bytes": 203141,
+      "sha256": "f7a40e58e38cf7248796caa3943aeb834c768e52b66aac721afb6fb560a30f9b"
+    },
+    {
+      "path": "sources/review-p152-p164/index.html",
+      "bytes": 44679,
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae"
+    },
+    {
+      "path": "sources/review-p152-p164/kragenweite-local.md",
+      "bytes": 9975,
+      "sha256": "ee5d2d30d02fc064d3964591269b63f82b0d065737fe08014fc851bfea7a9c16"
+    },
+    {
+      "path": "sources/review-p152-p164/kragenweite.txt",
+      "bytes": 13173,
+      "sha256": "3f9487383e7e418a73ff043b6e61591667727a990faee12ae9806007ed79b80b"
+    },
+    {
+      "path": "sources/review-p152-p164/kragenweite.xml",
+      "bytes": 19283,
+      "sha256": "7d59621c8c6f6d7fabeccab76ed82e25c305092a88bb2c3e5ad5ec3386cc18e5"
+    },
+    {
+      "path": "sources/review-p152-p164/kragenweite.zip",
+      "bytes": 33126,
+      "sha256": "da8bd8274b5b336bf0d803f2eafec96d0f2764ce0e27715e172127f47afadd13"
+    },
+    {
+      "path": "sources/review-p152-p164/local-search.json",
+      "bytes": 158991,
+      "sha256": "12288d5d5f74b66075f82a4ce7bb63d9ad2b8025eef0ea986f6abaec93955cac"
+    },
+    {
+      "path": "sources/review-p152-p164/markeng.xml",
+      "bytes": 343720,
+      "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484"
+    },
+    {
+      "path": "sources/review-p152-p164/markeng.zip",
+      "bytes": 60854,
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa"
+    },
+    {
+      "path": "sources/review-p152-p164/owig-4.html",
+      "bytes": 4193,
+      "sha256": "b292d9a0586602092a6a34ea4ddc224b93337de72af912a2dc41f4c8084447c7"
+    },
+    {
+      "path": "sources/review-p152-p164/owig-4.txt",
+      "bytes": 1076,
+      "sha256": "c1e46ce4f9c8426ac77494c574a83c81d771aae50e58166810ba7c86a91ae044"
+    },
+    {
+      "path": "sources/review-p152-p164/prior-review-result.json",
+      "bytes": 27064,
+      "sha256": "5c8060a448c8ed7a91b0b7cc76930d9fd0e6d404933ca0488a8f09f24face8e8"
+    },
+    {
+      "path": "sources/review-p152-p164/rejected-fetches.json",
+      "bytes": 834,
+      "sha256": "bae42be70cac2983c210c333d41d45031e8bf05b2dd3b1caa8514bd422a59922"
+    },
+    {
+      "path": "sources/review-p152-p164/search-log.json",
+      "bytes": 2840,
+      "sha256": "476ff9ba6a5de3d584ea5ee241b28d726c1aabc9f953c1c23b900576528a1c0a"
+    },
+    {
+      "path": "sources/review-p152-p164/stgb-2.html",
+      "bytes": 4359,
+      "sha256": "1d79a8e76e7eb41810e8a5ae674750afdfc46b323694ef9c7f86dab3aaf28596"
+    },
+    {
+      "path": "sources/review-p152-p164/stgb-2.txt",
+      "bytes": 1213,
+      "sha256": "6febd8d7e0eaab6cfe36a17a777677ef60bef31f400978f8cb826121a143e832"
+    },
+    {
+      "path": "sources/review-p152-p164/version-excerpts.json",
+      "bytes": 44419,
+      "sha256": "65e695a470b6e2eaf7af9b0f371e811e881e53b20739f7f107219e1c43b58634"
+    },
+    {
+      "path": "sources/review-p152-p164/web-search.json",
+      "bytes": 29623,
+      "sha256": "ec79f571a87633eab2fed09019a51aad307dcfbb9d6ba6c5450b9649c5c2587c"
     },
     {
       "path": "sources/review-p19-p34/amendment-2026-152.pdf",
@@ -2285,8 +2460,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 117591,
-      "sha256": "5297fc6a6354615c27e67462a69cecb85b23371516ba369d0449e90d3b72bf43"
+      "bytes": 123592,
+      "sha256": "e109ccaeaaf23a22b5b9d4d9ca21b7e5b0c379fae6095620a3a2cf3e973e6550"
     },
     {
       "path": "sources/werktitel-local.md",
