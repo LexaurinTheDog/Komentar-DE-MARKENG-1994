@@ -1,0 +1,29 @@
+§ 3 PatKostG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (Patentkostengesetz - PatKostG)
+§ 3
+Fälligkeit der Gebühren
+(1) Die Gebühren werden mit der Einreichung einer Anmeldung, eines Antrags oder durch die Vornahme einer sonstigen Handlung oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig, soweit gesetzlich nichts anderes bestimmt ist. Eine sonstige Handlung im Sinn dieses Gesetzes ist insbesondere
+1.
+die Einlegung von Rechtsbehelfen und Rechtsmitteln;
+2.
+der Antrag auf gerichtliche Entscheidung nach § 61 Abs. 2 des Patentgesetzes;
+3.
+die Erklärung eines Beitritts zum Einspruchsverfahren;
+4.
+die Einreichung einer Klage;
+5.
+die Änderung einer Anmeldung oder eines Antrags, wenn sich dadurch eine höhere Gebühr für das Verfahren oder die Entscheidung ergibt.
+Die Gebühr für die erfolglose Rüge wegen Verletzung des Anspruchs auf rechtliches Gehör wird mit der Bekanntgabe der Entscheidung fällig. Ein hilfsweise gestellter Antrag wird zur Bemessung der Gebührenhöhe dem Hauptantrag hinzugerechnet, soweit eine Entscheidung über ihn ergeht; soweit Haupt- und Hilfsantrag denselben Gegenstand betreffen, wird die Höhe der Gebühr nur nach dem Antrag bemessen, der zur höheren Gebühr führt. Legt der Erinnerungsführer gemäß § 64 Abs. 6 Satz 2 des Markengesetzes Beschwerde ein, hat er eine Beschwerdegebühr nicht zu entrichten.
+(2) Die Jahresgebühren für Patente und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs sind jeweils für die folgende Schutzfrist am letzten Tag des Monats fällig, der durch seine Benennung dem Monat entspricht, in den der Anmeldetag fällt. Wird ein Gebrauchsmuster oder ein Design erst nach Beendigung der ersten oder einer folgenden Schutzfrist eingetragen, so ist die Aufrechterhaltungsgebühr am letzten Tag des Monats fällig, in dem die Eintragung in das Register erfolgt ist. Die Jahresgebühren für Schutzzertifikate werden am letzten Tag des Monats fällig, der durch seine Benennung dem Monat entspricht, in den der Laufzeitbeginn fällt. Wird das Schutzzertifikat erst nach Ablauf des Grundpatents erteilt, wird die Jahresgebühr für die bis dahin abgelaufenen Schutzfristen am letzten Tag des Monats fällig, in den der Tag der Erteilung fällt; die Fälligkeit der Jahresgebühren für nachfolgende Schutzfristen richtet sich nach Satz 3.
+(3) Die Verlängerungsgebühren für Marken sind jeweils für die folgende Schutzfrist sechs Monate vor dem Ablauf der Schutzdauer gemäß § 47 Absatz 1 des Markengesetzes fällig. Wird eine Marke erst nach Beendigung der ersten oder einer folgenden Schutzfrist eingetragen, so ist die Verlängerungsgebühr am letzten Tag des Monats fällig, in dem die Eintragung in das Register erfolgt ist.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,1726 @@
+Legal Texts Relevant to Trademarks
+{"imports": {"@liferay/language/": "https://cdn.webcms.wipo.int/o/js/language/","@liferay/oauth2-provider-web/client": "https://cdn.webcms.wipo.int/o/oauth2-provider-web/__liferay__/client.js","@liferay/fragment-impl/api": "https://cdn.webcms.wipo.int/o/fragment-impl/__liferay__/api.js","@clayui/alert": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$alert.js", "@clayui/autocomplete": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$autocomplete.js", "@clayui/badge": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$badge.js", "@clayui/breadcrumb": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$breadcrumb.js", "@clayui/button": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$button.js", "@clayui/card": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$card.js", "@clayui/color-picker": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$color-picker.js", "@clayui/core": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$core.js", "@clayui/data-provider": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$data-provider.js", "@clayui/date-picker": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$date-picker.js", "@clayui/drop-down": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$drop-down.js", "@clayui/empty-state": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$empty-state.js", "@clayui/form": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$form.js", "@clayui/icon": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$icon.js", "@clayui/label": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$label.js", "@clayui/layout": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$layout.js", "@clayui/link": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$link.js", "@clayui/list": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$list.js", "@clayui/loading-indicator": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$loading-indicator.js", "@clayui/localized-input": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$localized-input.js", "@clayui/management-toolbar": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$management-toolbar.js", "@clayui/modal": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$modal.js", "@clayui/multi-select": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$multi-select.js", "@clayui/multi-step-nav": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$multi-step-nav.js", "@clayui/nav": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$nav.js", "@clayui/navigation-bar": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$navigation-bar.js", "@clayui/pagination": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$pagination.js", "@clayui/pagination-bar": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$pagination-bar.js", "@clayui/panel": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$panel.js", "@clayui/popover": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$popover.js", "@clayui/progress-bar": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$progress-bar.js", "@clayui/provider": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$provider.js", "@clayui/shared": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$shared.js", "@clayui/slider": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$slider.js", "@clayui/sticker": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$sticker.js", "@clayui/table": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$table.js", "@clayui/tabs": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$tabs.js", "@clayui/time-picker": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$time-picker.js", "@clayui/toolbar": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$toolbar.js", "@clayui/tooltip": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$tooltip.js", "@clayui/upper-toolbar": "https://cdn.webcms.wipo.int/o/frontend-js-clay-web/__liferay__/exports/@clayui$upper-toolbar.js","@ckeditor/ckeditor5-adapter-ckfinder/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-adapter-ckfinder$dist$index.js.js", "@ckeditor/ckeditor5-alignment/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-alignment$dist$index.js.js", "@ckeditor/ckeditor5-autoformat/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-autoformat$dist$index.js.js", "@ckeditor/ckeditor5-autosave/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-autosave$dist$index.js.js", "@ckeditor/ckeditor5-basic-styles/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-basic-styles$dist$index.js.js", "@ckeditor/ckeditor5-block-quote/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-block-quote$dist$index.js.js", "@ckeditor/ckeditor5-bookmark/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-bookmark$dist$index.js.js", "@ckeditor/ckeditor5-ckbox/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-ckbox$dist$index.js.js", "@ckeditor/ckeditor5-ckfinder/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-ckfinder$dist$index.js.js", "@ckeditor/ckeditor5-clipboard/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-clipboard$dist$index.js.js", "@ckeditor/ckeditor5-cloud-services/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-cloud-services$dist$index.js.js", "@ckeditor/ckeditor5-code-block/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-code-block$dist$index.js.js", "@ckeditor/ckeditor5-core/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-core$dist$index.js.js", "@ckeditor/ckeditor5-easy-image/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-easy-image$dist$index.js.js", "@ckeditor/ckeditor5-editor-balloon/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-editor-balloon$dist$index.js.js", "@ckeditor/ckeditor5-editor-classic/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-editor-classic$dist$index.js.js", "@ckeditor/ckeditor5-editor-decoupled/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-editor-decoupled$dist$index.js.js", "@ckeditor/ckeditor5-editor-inline/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-editor-inline$dist$index.js.js", "@ckeditor/ckeditor5-editor-multi-root/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-editor-multi-root$dist$index.js.js", "@ckeditor/ckeditor5-emoji/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-emoji$dist$index.js.js", "@ckeditor/ckeditor5-engine/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-engine$dist$index.js.js", "@ckeditor/ckeditor5-enter/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-enter$dist$index.js.js", "@ckeditor/ckeditor5-essentials/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-essentials$dist$index.js.js", "@ckeditor/ckeditor5-find-and-replace/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-find-and-replace$dist$index.js.js", "@ckeditor/ckeditor5-font/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-font$dist$index.js.js", "@ckeditor/ckeditor5-fullscreen/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-fullscreen$dist$index.js.js", "@ckeditor/ckeditor5-heading/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-heading$dist$index.js.js", "@ckeditor/ckeditor5-highlight/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-highlight$dist$index.js.js", "@ckeditor/ckeditor5-horizontal-line/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-horizontal-line$dist$index.js.js", "@ckeditor/ckeditor5-html-embed/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-html-embed$dist$index.js.js", "@ckeditor/ckeditor5-html-support/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-html-support$dist$index.js.js", "@ckeditor/ckeditor5-icons/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-icons$dist$index.js.js", "@ckeditor/ckeditor5-image/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-image$dist$index.js.js", "@ckeditor/ckeditor5-indent/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-indent$dist$index.js.js", "@ckeditor/ckeditor5-language/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-language$dist$index.js.js", "@ckeditor/ckeditor5-link/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-link$dist$index.js.js", "@ckeditor/ckeditor5-list/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-list$dist$index.js.js", "@ckeditor/ckeditor5-markdown-gfm/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-markdown-gfm$dist$index.js.js", "@ckeditor/ckeditor5-media-embed/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-media-embed$dist$index.js.js", "@ckeditor/ckeditor5-mention/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-mention$dist$index.js.js", "@ckeditor/ckeditor5-minimap/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-minimap$dist$index.js.js", "@ckeditor/ckeditor5-page-break/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-page-break$dist$index.js.js", "@ckeditor/ckeditor5-paragraph/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-paragraph$dist$index.js.js", "@ckeditor/ckeditor5-paste-from-office/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-paste-from-office$dist$index.js.js", "@ckeditor/ckeditor5-react": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-react.js", "@ckeditor/ckeditor5-remove-format/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-remove-format$dist$index.js.js", "@ckeditor/ckeditor5-restricted-editing/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-restricted-editing$dist$index.js.js", "@ckeditor/ckeditor5-select-all/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-select-all$dist$index.js.js", "@ckeditor/ckeditor5-show-blocks/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-show-blocks$dist$index.js.js", "@ckeditor/ckeditor5-source-editing/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-source-editing$dist$index.js.js", "@ckeditor/ckeditor5-special-characters/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-special-characters$dist$index.js.js", "@ckeditor/ckeditor5-style/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-style$dist$index.js.js", "@ckeditor/ckeditor5-table/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-table$dist$index.js.js", "@ckeditor/ckeditor5-typing/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-typing$dist$index.js.js", "@ckeditor/ckeditor5-ui/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-ui$dist$index.js.js", "@ckeditor/ckeditor5-undo/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-undo$dist$index.js.js", "@ckeditor/ckeditor5-upload/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-upload$dist$index.js.js", "@ckeditor/ckeditor5-utils/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-utils$dist$index.js.js", "@ckeditor/ckeditor5-watchdog/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-watchdog$dist$index.js.js", "@ckeditor/ckeditor5-widget/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-widget$dist$index.js.js", "@ckeditor/ckeditor5-word-count/dist/index.js": "https://cdn.webcms.wipo.int/o/frontend-editor-ckeditor-web/__liferay__/exports/@ckeditor$ckeditor5-word-count$dist$index.js.js","react": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react.js", "react-16": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-16.js", "react-18": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-18.js", "react-dom": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-dom.js", "react-dom/client": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-dom$client.js", "react-dom-16": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-dom-16.js", "react-dom-18": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-dom-18.js", "react-dom-18/client": "https://cdn.webcms.wipo.int/o/frontend-js-react-web/__liferay__/exports/react-dom-18$client.js","@liferay/dynamic-data-mapping-form-field-type/api": "https://cdn.webcms.wipo.int/o/dynamic-data-mapping-form-field-type/__liferay__/api.js","@liferay/frontend-js-api": "https://cdn.webcms.wipo.int/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api.js", "@liferay/frontend-js-api/data-set": "https://cdn.webcms.wipo.int/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api$data-set.js"}, "scopes": {}}
+(function() {
+	function buildESMStub(contextPath, symbol) {
+		return (
+			(...args) => {
+				import(
+					Liferay.ThemeDisplay.getCDNHost() +
+					Liferay.ThemeDisplay.getPathContext() +
+						'/o/' +
+						contextPath +
+						'/__liferay__/index.js'
+				).then(
+					(exports) => exports[symbol](...args)
+				);
+			}
+		);
+	}
+
+	function defineReadOnlyGlobal(name, getValue) {
+		Object.defineProperty(
+			window,
+			name,
+			{
+				get: getValue,
+				set: (x) => {
+					if (x !== getValue()) {
+						console.error(`Global variable '${name}' is read-only`);
+					}
+				}
+			}
+		);
+	}
+
+	function isObject(item) {
+		return (item && typeof item === 'object' && !Array.isArray(item));
+	}
+
+	function merge(target, source) {
+		for (const key in source) {
+			if (isObject(source[key])) {
+				if (!target[key]) {
+					Object.assign(target, { [key]: {} });
+				}
+
+				merge(target[key], source[key]);
+			}
+			else {
+				Object.assign(target, { [key]: source[key] });
+			}
+		}
+	}
+
+	let __liferay = {
+AUI: {
+getCombine: () => true,
+getComboPath: () => '/combo/?browserId=other&minifierType=&languageId=en_US&t=1792261457571&',
+getDateFormat: () => '%m/%d/%Y',
+getEditorCKEditorPath: () => '/o/frontend-editor-ckeditor-web',
+getFilter: () => 'min',
+getFilterConfig: () => null,
+getJavaScriptRootPath: () => '/o/frontend-js-web',
+getPortletRootPath: () => '/html/portlet',
+getStaticResourceURLParams: () => '?browserId=other&minifierType=&languageId=en_US&t=1792261457571',
+},
+Browser: {
+acceptsGzip: () => false,
+getMajorVersion: () => '0',
+getRevision: () => '',
+getVersion: () => '',
+isAir: () => false,
+isChrome: () => false,
+isEdge: () => false,
+isFirefox: () => false,
+isGecko: () => false,
+isIe: () => false,
+isIphone: () => false,
+isLinux: () => false,
+isMac: () => false,
+isMobile: () => false,
+isMozilla: () => false,
+isOpera: () => false,
+isRtf: () => false,
+isSafari: () => false,
+isSun: () => false,
+isWebKit: () => false,
+isWindows: () => false,
+},
+Data: {
+ICONS_INLINE_SVG: true,
+NAV_SELECTOR: '#navigation',
+NAV_SELECTOR_MOBILE: '#navigationCollapse',
+isCustomizationView: () => false,
+notices: [
+],
+},
+FeatureFlags: {
+'LPD-11342': false,
+'LPD-23840': false,
+'LPD-36010': true,
+'LPD-36719': true,
+'LPD-39203': false,
+'LPD-40529': true,
+'LPD-48372': true,
+'LPD-48975': true,
+'LPD-78863': true,
+'LPS-157670': false,
+'LPS-172416': false,
+'LPS-183672': false,
+'LPS-186360': false,
+'LRAC-14771': false,
+'COMMERCE-13024': false,
+'COMMERCE-8087': false,
+'COMMERCE-8949': false,
+'LPD-10562': false,
+'LPD-10964': false,
+'LPD-11003': false,
+'LPD-11131': true,
+'LPD-11228': false,
+'LPD-11235': false,
+'LPD-11313': false,
+'LPD-11848': false,
+'LPD-13311': true,
+'LPD-13778': true,
+'LPD-17564': false,
+'LPD-19870': false,
+'LPD-19955': false,
+'LPD-20183': false,
+'LPD-20379': false,
+'LPD-20640': false,
+'LPD-21414': false,
+'LPD-29516': false,
+'LPD-31212': false,
+'LPD-31228': false,
+'LPD-31789': false,
+'LPD-32867': false,
+'LPD-34594': false,
+'LPD-35013': true,
+'LPD-35128': false,
+'LPD-35443': false,
+'LPD-36105': false,
+'LPD-38564': false,
+'LPD-38869': true,
+'LPD-39304': true,
+'LPD-39437': false,
+'LPD-40530': true,
+'LPD-40533': true,
+'LPD-40534': true,
+'LPD-40535': true,
+'LPD-42553': false,
+'LPD-43996': false,
+'LPD-44091': true,
+'LPD-44307': true,
+'LPD-44771': true,
+'LPD-45276': false,
+'LPD-47713': true,
+'LPD-48862': true,
+'LPD-51356': false,
+'LPD-56718': false,
+'LPD-57655': false,
+'LPD-58677': false,
+'LPD-60546': true,
+'LPD-62272': false,
+'LPD-63311': false,
+'LPD-63415': false,
+'LPD-63416': false,
+'LPD-6368': false,
+'LPD-65299': false,
+'LPD-65399': false,
+'LPD-66359': false,
+'LPD-66611': true,
+'LPD-74328': false,
+'LPD-74739': true,
+'LPD-75032': false,
+'LPD-75525': false,
+'LPD-7822': false,
+'LPS-122920': false,
+'LPS-135430': false,
+'LPS-153332': false,
+'LPS-153714': false,
+'LPS-153813': false,
+'LPS-155284': false,
+'LPS-159643': false,
+'LPS-164563': false,
+'LPS-165482': false,
+'LPS-169837': false,
+'LPS-170670': false,
+'LPS-174417': false,
+'LPS-174816': false,
+'LPS-176691': false,
+'LPS-177027': false,
+'LPS-178052': false,
+'LPS-178642': false,
+'LPS-180090': false,
+'LPS-185892': false,
+'LPS-186620': false,
+'LPS-193884': false,
+'LPS-196935': true,
+'LPS-197477': false,
+'LPS-197909': false,
+'LPS-198183': false,
+'LPS-200108': false,
+'LPS-202104': false,
+'LRAC-10757': false,
+'LRAC-15017': false,
+},
+Language: {
+	_cache:
+		window?.Liferay?.Language?._cache
+			? Liferay.Language._cache
+			: {},
+	available: {
+'en_US': 'English\x20\x28United\x20States\x29',
+'es_ES': 'español\x20\x28España\x29',
+'fr_FR': 'français\x20\x28France\x29',
+'ru_RU': 'русский\x20\x28Россия\x29',
+'ar_SA': 'العربية\x20\x28المملكة\x20العربية\x20السعودية\x29',
+'de_DE': 'Deutsch\x20\x28Deutschland\x29',
+'pt_PT': 'português\x20\x28Portugal\x29',
+'ja_JP': '日本語\x20\x28日本\x29',
+'ko_KR': '한국어\x20\x28대한민국\x29',
+'tr_TR': 'Türkçe\x20\x28Türkiye\x29',
+'vi_VN': 'Tiếng\x20Việt\x20\x28Việt\x20Nam\x29',
+'zh_CN': '中文\x20\x28中国\x29',
+'it_IT': 'italiano\x20\x28Italia\x29',
+'pl_PL': 'polski\x20\x28Polska\x29',
+'bg_BG': 'български\x20\x28България\x29',
+'hr_HR': 'hrvatski\x20\x28Hrvatska\x29',
+'nl_NL': 'Nederlands\x20\x28Nederland\x29',
+'et_EE': 'eesti\x20\x28Eesti\x29',
+'hi_IN': 'हिन्दी\x20\x28भारत\x29',
+'lt_LT': 'lietuvių\x20\x28Lietuva\x29',
+'ro_RO': 'română\x20\x28România\x29',
+'th_TH': 'ไทย\x20\x28ไทย\x29',
+'uk_UA': 'українська\x20\x28Україна\x29',
+
+	},
+	direction: {
+'en_US': 'ltr',
+'es_ES': 'ltr',
+'fr_FR': 'ltr',
+'ru_RU': 'ltr',
+'ar_SA': 'rtl',
+'de_DE': 'ltr',
+'pt_PT': 'ltr',
+'ja_JP': 'ltr',
+'ko_KR': 'ltr',
+'tr_TR': 'ltr',
+'vi_VN': 'ltr',
+'zh_CN': 'ltr',
+'it_IT': 'ltr',
+'pl_PL': 'ltr',
+'bg_BG': 'ltr',
+'hr_HR': 'ltr',
+'nl_NL': 'ltr',
+'et_EE': 'ltr',
+'hi_IN': 'ltr',
+'lt_LT': 'ltr',
+'ro_RO': 'ltr',
+'th_TH': 'ltr',
+'uk_UA': 'ltr',
+
+	},
+	get:
+		(key) => {
+			let value = Liferay.Language._cache[key];
+
+			if (value === undefined) {
+				value = key;
+			}
+
+			return value;
+		},
+},
+Portlet: {
+openModal: buildESMStub('frontend-js-components-web', 'openPortletModal'),
+openWindow: buildESMStub('frontend-js-components-web', 'openPortletWindow'),
+},
+PortletKeys: {
+DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+INSTANCE_SETTINGS: 'com_liferay_configuration_admin_web_portlet_InstanceSettingsPortlet',
+ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet',
+},
+PropsValues: {
+JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 104857600,
+},
+ThemeDisplay: {
+getLayoutId: () => '127',
+getLayoutRelativeControlPanelURL: () => '/en/group/madrid-system/~/control_panel/manage',
+getLayoutRelativeURL: () => '/en/web/madrid-system/legal_texts/texts',
+getLayoutURL: () => 'https://www.wipo.int/en/web/madrid-system/legal_texts/texts',
+getParentLayoutId: () => '124',
+getPathFriendlyURLPublic: () => '/web',
+isControlPanel: () => false,
+isPrivateLayout: () => false,
+isVirtualLayout: () => false,
+getBCP47LanguageId: () => 'en-US',
+getCanonicalURL: () => 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fen\x2fweb\x2fmadrid-system\x2flegal_texts\x2ftexts',
+getCDNBaseURL: () => 'https://cdn.webcms.wipo.int',
+getCDNDynamicResourcesHost: () => '',
+getCDNHost: () => 'https://cdn.webcms.wipo.int',
+getCompanyGroupId: () => '20123',
+getCompanyId: () => '20097',
+getDefaultLanguageId: () => 'en_US',
+getDoAsUserIdEncoded: () => '',
+getLanguageId: () => 'en_US',
+getParentGroupId: () => '497990',
+getParentSiteGroupId: () => '102028',
+getPathContext: () => '',
+getPathImage: () => '/image',
+getPathJavaScript: () => '/o/frontend-js-web',
+getPathMain: () => '/en/c',
+getPathThemeImages: () => 'https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/images',
+getPathThemeRoot: () => '/o/wipo-universal-legacy-theme',
+getPlid: () => '1604',
+getPortalURL: () => 'https://www.wipo.int',
+getRealUserId: () => '20102',
+getRemoteAddr: () => '10.44.247.14',
+getRemoteHost: () => '10.44.247.14',
+getScopeGroupId: () => '497990',
+getScopeGroupIdOrLiveGroupId: () => '497990',
+getSessionId: () => '',
+getSiteAdminURL: () => 'https://www.wipo.int/group/madrid-system/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view',
+getSiteGroupId: () => '497990',
+getTimeZone: () => 'Europe/Paris',
+getURLControlPanel: () => '/en/group/control_panel?refererPlid=1604',
+getURLHome: () => 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fguest',
+getUserEmailAddress: () => '',
+getUserId: () => '20102',
+getUserName: () => '',
+isAddSessionIdToURL: () => false,
+isImpersonated: () => false,
+isSignedIn: () => false,
+isStagedPortlet: () => false,
+isStateExclusive: () => false,
+isStateMaximized: () => false,
+isStatePopUp: () => false,
+},
+Util: {
+Window: {
+	_map: {},
+	getById: (id) => Liferay.Util.Window._map[id],
+},
+openAlertModal: buildESMStub('frontend-js-components-web', 'openAlertModal'),
+openConfirmModal: buildESMStub('frontend-js-components-web', 'openConfirmModal'),
+openModal: buildESMStub('frontend-js-components-web', 'openModal'),
+openSelectionModal: buildESMStub('frontend-js-components-web', 'openSelectionModal'),
+openSimpleInputModal: buildESMStub('frontend-js-components-web', 'openSimpleInputModal'),
+openToast: buildESMStub('frontend-js-components-web', 'openToast'),
+},
+authToken: 'PApwRSyo',
+currentURL: '\x2fen\x2fweb\x2fmadrid-system\x2flegal_texts\x2ftexts',
+currentURLEncoded: '\x252Fen\x252Fweb\x252Fmadrid-system\x252Flegal_texts\x252Ftexts',
+
+	};
+
+	if (window.Liferay) {
+		merge(window.Liferay, __liferay);
+	}
+	else {
+		defineReadOnlyGlobal('Liferay', () => __liferay);
+		defineReadOnlyGlobal('themeDisplay', () => window.Liferay.ThemeDisplay);
+	}
+})();
+await import(`@liferay/language/${Liferay.ThemeDisplay.getLanguageId()}/frontend-js-web/all.js`);
+window.__CONFIG__= {basePath: '', combine: true, defaultURLParams: null, explainResolutions: false, exposeGlobal: false, logLevel: 'warn', moduleType: 'module', namespace:'Liferay', nonce: '', reportMismatchedAnonymousModules: 'warn', resolvePath: '/o/js_resolve_modules', url: '/combo/?browserId=other&minifierType=js&languageId=en_US&t=1792261457571&', waitTimeout: 60000};
+Liferay.Icons = Liferay.Icons || {};Liferay.Icons.controlPanelSpritemap = 'https://cdn.webcms.wipo.int/o/admin-theme/images/clay/icons.svg'; Liferay.Icons.spritemap = 'https://cdn.webcms.wipo.int/o/wipo-universal-legacy-theme/images/clay/icons.svg';
+window.Liferay.CSP = {nonce: ''};
+window.Liferay = Liferay || {}; window.Liferay.OAuth2 = {getAuthorizeURL: function() {return 'https://www.wipo.int/o/oauth2/authorize';}, getBuiltInRedirectURL: function() {return 'https://www.wipo.int/o/oauth2/redirect';}, getIntrospectURL: function() { return 'https://www.wipo.int/o/oauth2/introspect';}, getTokenURL: function() {return 'https://www.wipo.int/o/oauth2/token';}, getUserAgentApplication: function(externalReferenceCode) {return Liferay.OAuth2._userAgentApplications[externalReferenceCode];}, _userAgentApplications: {}}
+try {var MODULE_MAIN='site-navigation-menu-web@6.0.82/index';var MODULE_PATH='/o/site-navigation-menu-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			navigationmenuweb: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-navigation-interaction': {
+						path: 'navigation_interaction.js',
+						plugins: {
+							'liferay-navigation-interaction-touch': {
+								condition: {
+									name: 'liferay-navigation-interaction-touch',
+									test(A) {
+										return A.UA.touchEnabled;
+									},
+									trigger: 'liferay-navigation-interaction',
+								},
+							},
+						},
+						requires: [
+							'aui-base',
+							'aui-component',
+							'event-mouseenter',
+							'node-focusmanager',
+							'plugin',
+						],
+					},
+					'liferay-navigation-interaction-touch': {
+						path: 'navigation_interaction_touch.js',
+						requires: [
+							'event-tap',
+							'event-touch',
+							'liferay-navigation-interaction',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-workflow-kaleo-designer-web@5.0.165/index';var MODULE_PATH='/o/portal-workflow-kaleo-designer-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			'kaleo-designer': {
+				base: MODULE_PATH + '/designer/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-kaleo-designer-autocomplete-util': {
+						path: 'autocomplete_util.js',
+						requires: ['autocomplete', 'autocomplete-highlighters'],
+					},
+					'liferay-kaleo-designer-definition-diagram-controller': {
+						path: 'definition_diagram_controller.js',
+						requires: [
+							'liferay-kaleo-designer-field-normalizer',
+							'liferay-kaleo-designer-utils',
+						],
+					},
+					'liferay-kaleo-designer-dialogs': {
+						path: 'dialogs.js',
+						requires: ['liferay-util-window'],
+					},
+					'liferay-kaleo-designer-editors': {
+						path: 'editors.js',
+						requires: [
+							'aui-ace-editor',
+							'aui-ace-editor-mode-xml',
+							'aui-base',
+							'aui-datatype',
+							'aui-node',
+							'liferay-kaleo-designer-autocomplete-util',
+							'liferay-kaleo-designer-utils',
+						],
+					},
+					'liferay-kaleo-designer-field-normalizer': {
+						path: 'field_normalizer.js',
+						requires: ['liferay-kaleo-designer-remote-services'],
+					},
+					'liferay-kaleo-designer-nodes': {
+						path: 'nodes.js',
+						requires: [
+							'aui-datatable',
+							'aui-datatype',
+							'aui-diagram-builder',
+							'liferay-kaleo-designer-editors',
+							'liferay-kaleo-designer-utils',
+						],
+					},
+					'liferay-kaleo-designer-remote-services': {
+						path: 'remote_services.js',
+						requires: ['aui-io'],
+					},
+					'liferay-kaleo-designer-templates': {
+						path: 'templates.js',
+						requires: ['aui-tpl-snippets-deprecated'],
+					},
+					'liferay-kaleo-designer-utils': {
+						path: 'utils.js',
+						requires: [],
+					},
+					'liferay-kaleo-designer-xml-definition': {
+						path: 'xml_definition.js',
+						requires: [
+							'aui-base',
+							'aui-component',
+							'dataschema-xml',
+							'datatype-xml',
+						],
+					},
+					'liferay-kaleo-designer-xml-definition-serializer': {
+						path: 'xml_definition_serializer.js',
+						requires: ['escape', 'liferay-kaleo-designer-xml-util'],
+					},
+					'liferay-kaleo-designer-xml-util': {
+						path: 'xml_util.js',
+						requires: ['aui-base'],
+					},
+					'liferay-portlet-kaleo-designer': {
+						path: 'main.js',
+						requires: [
+							'aui-ace-editor',
+							'aui-ace-editor-mode-xml',
+							'aui-tpl-snippets-deprecated',
+							'dataschema-xml',
+							'datasource',
+							'datatype-xml',
+							'event-valuechange',
+							'io-form',
+							'liferay-kaleo-designer-autocomplete-util',
+							'liferay-kaleo-designer-editors',
+							'liferay-kaleo-designer-nodes',
+							'liferay-kaleo-designer-remote-services',
+							'liferay-kaleo-designer-utils',
+							'liferay-kaleo-designer-xml-util',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/designer/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-search-web@6.0.169/index';var MODULE_PATH='/o/portal-search-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			search: {
+				base: MODULE_PATH + '/js/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-search-custom-range-facet': {
+						path: 'custom_range_facet.js',
+						requires: ['aui-form-validator'],
+					},
+				},
+				root: MODULE_PATH + '/js/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='contacts-web@5.0.71/index';var MODULE_PATH='/o/contacts-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			contactscenter: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-contacts-center': {
+						path: 'main.js',
+						requires: [
+							'aui-io-plugin-deprecated',
+							'aui-toolbar',
+							'autocomplete-base',
+							'datasource-io',
+							'json-parse',
+							'liferay-portlet-base',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/layout-js-components-web@1.0.53/index';var MODULE_PATH='/o/layout-js-components-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			layout: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-layout': {
+						path: 'layout.js',
+					},
+					'liferay-layout-column': {
+						path: 'layout_column.js',
+						requires: ['aui-sortable-layout', 'dd'],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-ckeditor-web@5.0.129/index';var MODULE_PATH='/o/frontend-editor-ckeditor-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			editor: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'inline-editor-ckeditor': {
+						path: 'main.js',
+						requires: [
+							'array-invoke',
+							'liferay-inline-editor-base',
+							'node-event-simulate',
+							'overlay',
+							'yui-later',
+						],
+					},
+					'liferay-inline-editor-base': {
+						path: 'inline_editor_base.js',
+						requires: ['aui-base', 'aui-overlay-base-deprecated'],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-react-web@5.0.73/index';var MODULE_PATH='/o/frontend-js-react-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			react: {
+
+				// eslint-disable-next-line
+				mainModule: MODULE_MAIN,
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-alloyeditor-web@5.0.66/index';var MODULE_PATH='/o/frontend-editor-alloyeditor-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			alloyeditor: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-alloy-editor': {
+						path: 'alloyeditor.js',
+						requires: [
+							'aui-component',
+							'liferay-portlet-base',
+							'timers',
+						],
+					},
+					'liferay-alloy-editor-source': {
+						path: 'alloyeditor_source.js',
+						requires: [
+							'aui-debounce',
+							'liferay-fullscreen-source-editor',
+							'liferay-source-editor',
+							'plugin',
+						],
+					},
+					'liferay-fullscreen-source-editor': {
+						path: 'fullscreen_source_editor.js',
+						requires: ['liferay-source-editor'],
+					},
+					'liferay-source-editor': {
+						path: 'source_editor.js',
+						requires: ['aui-ace-editor'],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-state-web@1.0.35/index';var MODULE_PATH='/o/frontend-js-state-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			state: {
+
+				// eslint-disable-next-line
+				mainModule: MODULE_MAIN,
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/image-uploader-web@5.0.60/index';var MODULE_PATH='/o/image-uploader-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			imageuploaderweb: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-logo-editor': {
+						path: 'logo_editor.js',
+						requires: ['aui-image-cropper', 'liferay-portlet-base'],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-js-components-web@2.0.100/index';var MODULE_PATH='/o/frontend-js-components-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			components: {
+
+				// eslint-disable-next-line
+				mainModule: MODULE_MAIN,
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='dynamic-data-mapping-web@5.0.126/index';var MODULE_PATH='/o/dynamic-data-mapping-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	const LiferayAUI = Liferay.AUI;
+
+	AUI().applyConfig({
+		groups: {
+			ddm: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: LiferayAUI.getFilterConfig(),
+				modules: {
+					'liferay-ddm-form': {
+						path: 'ddm_form.js',
+						requires: [
+							'aui-base',
+							'aui-datatable',
+							'aui-datatype',
+							'aui-image-viewer',
+							'aui-parse-content',
+							'aui-set',
+							'aui-sortable-list',
+							'json',
+							'liferay-form',
+							'liferay-map-base',
+							'liferay-translation-manager',
+							'liferay-util-window',
+						],
+					},
+					'liferay-portlet-dynamic-data-mapping': {
+						condition: {
+							trigger: 'liferay-document-library',
+						},
+						path: 'main.js',
+						requires: [
+							'arraysort',
+							'aui-form-builder-deprecated',
+							'aui-form-validator',
+							'aui-map',
+							'aui-text-unicode',
+							'json',
+							'liferay-menu',
+							'liferay-translation-manager',
+							'liferay-util-window',
+							'text',
+						],
+					},
+					'liferay-portlet-dynamic-data-mapping-custom-fields': {
+						condition: {
+							trigger: 'liferay-document-library',
+						},
+						path: 'custom_fields.js',
+						requires: ['liferay-portlet-dynamic-data-mapping'],
+					},
+					'liferay-translation-manager': {
+						path: 'translation_manager.js',
+						requires: ['aui-base'],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-processes-web@5.0.72/index';var MODULE_PATH='/o/staging-processes-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			stagingprocessesweb: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-staging-processes-export-import': {
+						path: 'main.js',
+						requires: [
+							'aui-datatype',
+							'aui-dialog-iframe-deprecated',
+							'aui-modal',
+							'aui-parse-content',
+							'aui-toggler',
+							'liferay-portlet-base',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='calendar-web@5.0.120/index';var MODULE_PATH='/o/calendar-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			calendar: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-calendar-a11y': {
+						path: 'calendar_a11y.js',
+						requires: ['calendar'],
+					},
+					'liferay-calendar-container': {
+						path: 'calendar_container.js',
+						requires: [
+							'aui-alert',
+							'aui-base',
+							'aui-component',
+							'liferay-portlet-base',
+						],
+					},
+					'liferay-calendar-date-picker-sanitizer': {
+						path: 'date_picker_sanitizer.js',
+						requires: ['aui-base'],
+					},
+					'liferay-calendar-interval-selector': {
+						path: 'interval_selector.js',
+						requires: ['aui-base', 'liferay-portlet-base'],
+					},
+					'liferay-calendar-interval-selector-scheduler-event-link': {
+						path: 'interval_selector_scheduler_event_link.js',
+						requires: ['aui-base', 'liferay-portlet-base'],
+					},
+					'liferay-calendar-list': {
+						path: 'calendar_list.js',
+						requires: [
+							'aui-template-deprecated',
+							'liferay-scheduler',
+						],
+					},
+					'liferay-calendar-message-util': {
+						path: 'message_util.js',
+						requires: ['liferay-util-window'],
+					},
+					'liferay-calendar-recurrence-converter': {
+						path: 'recurrence_converter.js',
+						requires: [],
+					},
+					'liferay-calendar-recurrence-dialog': {
+						path: 'recurrence.js',
+						requires: [
+							'aui-base',
+							'liferay-calendar-recurrence-util',
+						],
+					},
+					'liferay-calendar-recurrence-util': {
+						path: 'recurrence_util.js',
+						requires: ['aui-base', 'liferay-util-window'],
+					},
+					'liferay-calendar-reminders': {
+						path: 'calendar_reminders.js',
+						requires: ['aui-base'],
+					},
+					'liferay-calendar-remote-services': {
+						path: 'remote_services.js',
+						requires: [
+							'aui-base',
+							'aui-component',
+							'liferay-calendar-util',
+							'liferay-portlet-base',
+						],
+					},
+					'liferay-calendar-session-listener': {
+						path: 'session_listener.js',
+						requires: ['aui-base', 'liferay-scheduler'],
+					},
+					'liferay-calendar-simple-color-picker': {
+						path: 'simple_color_picker.js',
+						requires: ['aui-base', 'aui-template-deprecated'],
+					},
+					'liferay-calendar-simple-menu': {
+						path: 'simple_menu.js',
+						requires: [
+							'aui-base',
+							'aui-template-deprecated',
+							'event-outside',
+							'event-touch',
+							'widget-modality',
+							'widget-position',
+							'widget-position-align',
+							'widget-position-constrain',
+							'widget-stack',
+							'widget-stdmod',
+						],
+					},
+					'liferay-calendar-util': {
+						path: 'calendar_util.js',
+						requires: [
+							'aui-datatype',
+							'aui-io',
+							'aui-scheduler',
+							'aui-toolbar',
+							'autocomplete',
+							'autocomplete-highlighters',
+						],
+					},
+					'liferay-scheduler': {
+						path: 'scheduler.js',
+						requires: [
+							'async-queue',
+							'aui-datatype',
+							'aui-scheduler',
+							'dd-plugin',
+							'liferay-calendar-a11y',
+							'liferay-calendar-message-util',
+							'liferay-calendar-recurrence-converter',
+							'liferay-calendar-recurrence-util',
+							'liferay-calendar-util',
+							'liferay-scheduler-event-recorder',
+							'liferay-scheduler-models',
+							'promise',
+							'resize-plugin',
+						],
+					},
+					'liferay-scheduler-event-recorder': {
+						path: 'scheduler_event_recorder.js',
+						requires: [
+							'dd-plugin',
+							'liferay-calendar-util',
+							'resize-plugin',
+						],
+					},
+					'liferay-scheduler-models': {
+						path: 'scheduler_models.js',
+						requires: [
+							'aui-datatype',
+							'dd-plugin',
+							'liferay-calendar-util',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/document-library-web@6.0.220/index';var MODULE_PATH='/o/document-library-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			dl: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'document-library-upload-component': {
+						path: 'DocumentLibraryUpload.js',
+						requires: [
+							'aui-component',
+							'aui-data-set-deprecated',
+							'aui-overlay-manager-deprecated',
+							'aui-overlay-mask-deprecated',
+							'aui-parse-content',
+							'aui-progressbar',
+							'aui-template-deprecated',
+							'liferay-search-container',
+							'querystring-parse-simple',
+							'uploader',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='exportimport-web@5.0.118/index';var MODULE_PATH='/o/exportimport-web';/**
+ * SPDX-FileCopyrightText: (c) 2000 Liferay, Inc. https://liferay.com
+ * SPDX-License-Identifier: LGPL-2.1-or-later OR LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
+ */
+
+(function () {
+	AUI().applyConfig({
+		groups: {
+			exportimportweb: {
+				base: MODULE_PATH + '/js/legacy/',
+				combine: Liferay.AUI.getCombine(),
+				filter: Liferay.AUI.getFilterConfig(),
+				modules: {
+					'liferay-export-import-export-import': {
+						path: 'main.js',
+						requires: [
+							'aui-datatype',
+							'aui-dialog-iframe-deprecated',
+							'aui-modal',
+							'aui-parse-content',
+							'aui-toggler',
+							'liferay-portlet-base',
+							'liferay-util-window',
+						],
+					},
+				},
+				root: MODULE_PATH + '/js/legacy/',
+			},
+		},
+	});
+})();
+} catch(error) {console.error(error);}
+// <![CDATA[
+		
+			
+				
+				
+			
+		
+
+		
+	// ]]>
+/* Japanese Font */
+.ulf-wipo p:lang(ja-JP), .ulf-wipo .component-paragraph:lang(ja-JP), .ulf-wipo .lead:lang(ja-JP), .ulf-wipo li:lang(ja-JP), .ulf-wipo h1:lang(ja-JP), .ulf-wipo h2:lang(ja-JP), .ulf-wipo h3:lang(ja-JP), .ulf-wipo h4:lang(ja-JP), .ulf-wipo h5:lang(ja-JP), .ulf-wipo h6:lang(ja-JP)  {
+  font-family: "Noto Sans JP", "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+
+/* Image caption fix card-image-top-u */
+figure.figure {
+  position: relative;
+}
+ .ulf-wipo figure .credit {
+  top: auto;
+  bottom: 0;
+  left: 0;
+  margin-top: 0;
+}
+import {init} from 'https://cdn.webcms.wipo.int/o/frontend-js-spa-web/__liferay__/index.js';
+{
+init({"navigationExceptionSelectors":":not([data-cke-saved-href]):not([data-cke-saved-href]):not([target=\"_blank\"]):not([data-senna-off]):not([data-resource-href])","cacheExpirationTime":-1,"clearScreensCache":false,"portletsBlacklist":["com_liferay_login_web_portlet_CreateAccountPortlet","com_liferay_nested_portlets_web_portlet_NestedPortletsPortlet","com_liferay_site_navigation_directory_web_portlet_SitesDirectoryPortlet","com_liferay_questions_web_internal_portlet_QuestionsPortlet","com_liferay_account_admin_web_internal_portlet_AccountUsersRegistrationPortlet","com_liferay_login_web_portlet_ForgotPasswordPortlet","com_liferay_portal_language_override_web_internal_portlet_PLOPortlet","com_liferay_digital_sales_room_web_internal_portlet_DigitalSalesRoomInviteMemberPortlet","com_liferay_login_web_portlet_LoginPortlet","com_liferay_login_web_portlet_UpdatePasswordPortlet","org_wipo_contact_us_form_WipoContactUsFormAdminPortlet","com_liferay_login_web_portlet_FastLoginPortlet"],"excludedTargetPortlets":["com_liferay_users_admin_web_portlet_UsersAdminPortlet","com_liferay_server_admin_web_portlet_ServerAdminPortlet"],"validStatusCodes":[221,490,494,499,491,496,492,493,495,220],"debugEnabled":false,"loginRedirect":"","excludedPaths":["/c/document_library","/documents","/image","/o/cms/download-folder","/o/cms/translations"],"preloadCSS":false,"userNotification":{"message":"It looks like this is taking longer than expected.","title":"Oops","timeout":30000},"requestTimeout":0});
+}
+if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title:event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+@font-face {
+          font-family: 'simplon';
+          font-weight: 400;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Regular-WebXL.woff2")
+        }
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 500;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Medium-WebXL.woff2")
+        }
+        @font-face {
+          font-family: 'simplon';
+          font-weight: 700;
+          src: url("https://webcomponents.wipo.int/fonts/SimplonNorm-Bold-WebXL.woff2")
+        }
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+'ad_storage': 'granted',
+'ad_user_data': 'denied',
+'ad_personalization': 'denied',
+'analytics_storage': 'granted'
+});
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.wipo.int/metrics/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-P7RLS2');
+Skip to Main Content
+About Intellectual Property
+IP Training
+Respect for IP
+IP Outreach
+IP for…
+IP and...
+IP in...
+Patent & Technology Information
+Trademark Information
+Design Information
+Geographical Indication Information
+Plant Variety Information (UPOV)
+IP Laws, Treaties & Judgments
+IP Resources
+IP Reports
+Patent Protection
+Trademark Protection
+Design Protection
+Geographical Indication Protection
+Plant Variety Protection (UPOV)
+IP Dispute Resolution
+IP Office Business Solutions
+Paying for IP Services
+Negotiation & Decision-Making
+IP Cooperation
+Innovation Support
+Public-Private Partnerships
+The Organization
+WIPO and Artificial Intelligence
+Working at WIPO
+Accountability
+Patents
+Trademarks
+Designs
+Geographical Indications
+Copyright
+Trade Secrets
+Future of IP
+WIPO Academy
+Workshops & Seminars
+IP Enforcement
+WIPO ALERT
+Raising Awareness
+World IP Day
+WIPO Magazine
+Case Studies & Success Stories
+IP News
+WIPO Awards
+Business
+Women
+Universities
+Indigenous Peoples
+Judiciaries
+Youth
+Examiners
+Innovation Ecosystems
+Economics
+Finance
+Intangible Assets
+Global Health
+Climate Change
+Competition Policy
+Sustainable Development Goals
+Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions
+Frontier Technologies
+Mobile Applications
+Sports
+Tourism
+Music
+Fashion
+PATENTSCOPE
+Patent Analytics
+International Patent Classification
+ARDI – Research for Innovation
+ASPI – Specialized Patent Information
+Global Brand Database
+Madrid Monitor
+Article 6ter Express Database
+Nice Classification
+Vienna Classification
+Global Design Database
+International Designs Bulletin
+Hague Express Database
+Locarno Classification
+Lisbon Express Database
+Global Brand Database for GIs
+PLUTO Plant Variety Database
+GENIE Database
+WIPO-Administered Treaties
+WIPO Lex - IP Laws, Treaties & Judgments
+WIPO Standards
+IP Statistics
+WIPO Pearl (Terminology)
+WIPO Publications
+Country IP Profiles
+WIPO Knowledge Center
+World Intangible Investment Highlights
+WIPO Technology Trends
+Global Innovation Index
+World Intellectual Property Report
+PCT – The International Patent System
+ePCT
+Budapest – The International Microorganism Deposit System
+Madrid – The International Trademark System
+eMadrid
+Article 6ter (armorial bearings, flags, state emblems)
+Hague – The International Design System
+eHague
+Lisbon – The International System of Appellations of Origin and Geographical Indications
+eLisbon
+UPOV PRISMA
+Mediation
+Arbitration
+Expert Determination
+Domain Name Disputes
+Centralized Access to Search and Examination (CASE)
+Digital Access Service (DAS)
+WIPO Pay
+WIPO Wallet
+WIPO Assemblies
+Standing Committees
+Calendar of Meetings
+WIPO Webcast
+WIPO Official Documents
+Development Agenda
+Tailored Initiatives & Projects
+Collaborative Forums & Dialogues
+Innovation, Creativity and Development Acceleration Program
+IP for Impact
+National IP & Innovation Strategies
+Cooperation Hub
+Technology and Innovation Support Centers (TISC)
+Technology Transfer
+Inventor Assistance Program
+IP Commercialization
+WIPO GREEN
+WIPO's Pat-INFORMED
+Accessible Books Consortium
+WIPO for Creators
+Member States
+Observers
+Director General
+Activities by Unit
+External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
+Staff Positions
+Affiliated Personnel Positions
+Procurement
+Results & Budget
+Financial Reporting
+Oversight
+Legal Texts Relevant to Trademarks
+Agreement & Protocol
+Madrid Agreement
+Concerning the International Registration of Marks
+Protocol Relating to the Madrid Agreement
+Concerning the International Registration of Marks
+Regulations
+Regulations under the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks
+(in force on February 1, 2020)
+Previous editions:  February 1, 2019
+| November 1, 2017
+| July 1, 2017
+| 2016
+| 2015
+| 2013
+| 2012
+| 2009
+| Sep 2008
+| Jan 2008
+| 2007
+| 2004
+| 2002
+| 2000
+| 1998
+| 1996
+Administrative Instructions
+Administrative Instructions
+for the Application of the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks (as in force on February 1, 2020)
+Previous editions: February 1, 2019
+| 2018
+| 2017
+| 2008
+| 2005
+| 2004
+| 2002
+Fees
+Schedule of Fees
+(as in force on February 1, 2020)
+Previous editions: February 1, 2019
+Members
+About Members of the Madrid Union
+Information Notices
+Important information
+regarding accessions, declarations, changes of fees, changes to regulations etc.
+Publications
+Free
+publications on trademarks
+Links
+Paris Convention for the Protection of Industrial Property
+Nice Agreement
+,
+Nice Classification
+Vienna Agreement
+Trademark Law Treaty (TLT)
+WIPO Lex
+.component-html img {
+	max-width: 100%;
+}
+Hidden
+https://www.wipo.int/contact/en/area.jsp?area=madrid
+https://www.wipo.int/pressroom/en/
+https://www.wipo.int/en/web/terms-of-use
+https://www.wipo.int/en/web/privacy-policy
+https://www.wipo.int/en/web/accessibility
+https://www.wipo.int/en/web/sitemap
+https://www.wipo.int/en/web/newsletters
+https://www.wipo.int/en/web/podcasts
+https://www.wipo.int/en/web/news/rss
+import {Session} from 'https://cdn.webcms.wipo.int/o/frontend-js-web/__liferay__/legacy.js';
+
+		if (Liferay.Session && Liferay.Session.destructor) {
+			Liferay.Session.destructor();
+		}
+
+		Liferay.Session = new Session(
+			{
+				autoExtend: true,
+				redirectOnExpire: false,
+				redirectUrl: 'https\x3a\x2f\x2fwww\x2ewipo\x2eint\x2fweb\x2fguest',
+				rememberMe: false,
+				sessionLength: 600,
+				sessionTimeoutOffset: 130,
+				warningLength: 60
+			})
+function getValueByAttribute(node, attr) {
+		return (
+			node.dataset[attr] ||
+			(node.parentElement && node.parentElement.dataset[attr])
+		);
+	}
+
+	function sendDocumentDownloadedAnalyticsEvent(anchor) {
+		var fileEntryId = getValueByAttribute(
+			anchor,
+			'analyticsFileEntryId'
+		);
+		var title = getValueByAttribute(
+			anchor,
+			'analyticsFileEntryTitle'
+		);
+		var version = getValueByAttribute(
+			anchor,
+			'analyticsFileEntryVersion'
+		);
+		var externalReferenceCode = getValueByAttribute(
+			anchor,
+			'analyticsExternalReferenceCode'
+		);
+
+		if (fileEntryId) {
+			Analytics.send('documentDownloaded', 'Document', {
+				externalReferenceCode,
+				fileEntryId,
+				groupId: themeDisplay.getScopeGroupId(),
+				preview:
+					!!window._com_liferay_document_library_analytics_isViewFileEntry,
+				title,
+				version,
+			});
+		}
+	}
+
+	function handleDownloadClick(event) {
+		if (window.Analytics) {
+			if (event.target.nodeName.toLowerCase() === 'a') {
+				sendDocumentDownloadedAnalyticsEvent(
+					event.target
+				);
+			}
+			else if (
+				event.target.parentNode &&
+				event.target.parentNode.nodeName.toLowerCase() === 'a'
+			) {
+				sendDocumentDownloadedAnalyticsEvent(
+					event.target.parentNode
+				);
+			}
+			else {
+				var target = event.target;
+				var matchTextContent =
+					target.textContent &&
+					target.textContent.toLowerCase() ===
+						'download';
+				var matchTitle =
+					target.title && target.title.toLowerCase() === 'download';
+				var matchAction = target.action === 'download';
+				var matchLexiconIcon = !!target.querySelector(
+					'.lexicon-icon-download'
+				);
+				var matchLexiconClassName = target.classList.contains(
+					'lexicon-icon-download'
+				);
+				var matchParentTitle =
+					target.parentNode &&
+					target.parentNode.title &&
+					target.parentNode.title.toLowerCase() === 'download';
+				var matchParentLexiconClassName =
+					target.parentNode &&
+					target.parentNode.classList.contains('lexicon-icon-download');
+
+				if (
+					matchTextContent ||
+					matchTitle ||
+					matchParentTitle ||
+					matchAction ||
+					matchLexiconIcon ||
+					matchLexiconClassName ||
+					matchParentLexiconClassName
+				) {
+					var selectedFiles = document.querySelectorAll(
+						'.form .custom-control-input:checked'
+					);
+
+					selectedFiles.forEach(({value}) => {
+						var selectedFile = document.querySelector(
+							'[data-analytics-file-entry-id="' + value + '"]'
+						);
+
+						sendDocumentDownloadedAnalyticsEvent(
+							selectedFile
+						);
+					});
+				}
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', () => {
+		document.body.removeEventListener(
+			'click',
+			handleDownloadClick
+		);
+	});
+
+	Liferay.once('portletReady', () => {
+		document.body.addEventListener(
+			'click',
+			handleDownloadClick
+		);
+	});
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			const eventProperties = {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				externalReferenceCode: event.externalReferenceCode,
+				text: event.text,
+			};
+
+			const blogNode = document.querySelector(
+				'[data-analytics-asset-id="' + event.classPK + '"]'
+			);
+
+			const dmNode = document.querySelector(
+				'[data-analytics-file-entry-id="' + event.classPK + '"]'
+			);
+
+			if (blogNode) {
+				eventProperties.title = blogNode.dataset.analyticsAssetTitle;
+			}
+			else if (dmNode) {
+				eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
+			}
+
+			Analytics.send('posted', 'Comment', eventProperties);
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			let title = event.contentTitle;
+
+			if (!title) {
+				const dmNode = document.querySelector(
+					'[data-analytics-file-entry-id="' + event.classPK + '"]'
+				);
+
+				if (dmNode) {
+					title = dmNode.dataset.analyticsFileEntryTitle;
+				}
+			}
+
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				externalReferenceCode: event.externalReferenceCode,
+				ratingType: event.ratingType,
+				score: event.score,
+				title,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	Liferay.Util.delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.add('open');
+		}
+	);
+
+	Liferay.Util.delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.remove('open');
+		}
+	);
+})();
+
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fen\x2fweb\x2fmadrid-system\x2flegal_texts\x2ftexts';
+		Liferay.currentURLEncoded = '\x252Fen\x252Fweb\x252Fmadrid-system\x252Flegal_texts\x252Ftexts';
+
+	// ]]>
+import {InfoItemActionHandler as ComponentModule} from 'https://cdn.webcms.wipo.int/o/layout-taglib/__liferay__/render.js';
+AUI().use(
+  'liferay-menu',
+function(A) {
+{
+Liferay.component('infoItemActionComponent', new ComponentModule({"executeInfoItemActionURL":"https:\/\/www.wipo.int\/en\/c\/portal\/execute_info_item_action?p_l_mode=view&plid=1604","namespace":"","spritemap":"https:\/\/cdn.webcms.wipo.int\/o\/wipo-universal-legacy-theme\/images\/clay\/icons.svg"}), { destroyOnNavigate: true, portletId: ''});
+}
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();
+});
+Liferay.CustomDialogs = {enabled: false};
+import {main} from 'https://cdn.webcms.wipo.int/o/frontend-js-tooltip-support-web/__liferay__/index.js';
+{
+main();
+}
+import {main} from 'https://cdn.webcms.wipo.int/o/frontend-js-bootstrap-support-web/__liferay__/index.js';
+{
+main();
+}

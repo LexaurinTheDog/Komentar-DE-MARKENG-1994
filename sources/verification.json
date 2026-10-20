@@ -1508,6 +1508,141 @@
       "xml_sha256": "682098cfc08a0b05a09d80bbc0f04c837e9f25b093655b08f14aca944db7251d",
       "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
       "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T12:42:15.374338+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p106-p117/index.html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "format_validation": "HTML signature and expected title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T12:42:15.599288+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p106-p117/markeng.zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:42:15.779684+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "path": "sources/review-p106-p117/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:42:16.633408+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf;charset=UTF-8",
+      "path": "sources/review-p106-p117/amendment-2026-9.pdf",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE259031865.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE259031865.zip",
+      "accessed_at": "2026-10-20T12:44:00.466932+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p106-p117/bio-mineralwasser.zip",
+      "sha256": "dd60f064d811a0df59654784ff00cf0e7b95a2c6295b64f91654215f879bc07d",
+      "xml_path": "sources/review-p106-p117/bio-mineralwasser.xml",
+      "xml_sha256": "bf9211ad8da916e458eb3f8321b9479e2883918d013ebec215a9529b929808af",
+      "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE269032413.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE269032413.zip",
+      "accessed_at": "2026-10-20T12:44:00.900221+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p106-p117/ggn.zip",
+      "sha256": "6cf6ae823a59ad98b84359077caee950d091845e1aa33ba04da4f69fedba71a5",
+      "xml_path": "sources/review-p106-p117/ggn.xml",
+      "xml_sha256": "7402881a42e5cb5e24dba096482e1cba7c6ca68b3f354b4cb77d7402a5b77f6d",
+      "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patkostg/__3.html",
+      "final_url": "https://www.gesetze-im-internet.de/patkostg/__3.html",
+      "accessed_at": "2026-10-20T12:44:24.554020+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p106-p117/patkostg-3.html",
+      "sha256": "44623b7f89f5a6066b2e101266a02be2dd961a55b68250065bbda0101444ad27",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patkostg/__6.html",
+      "final_url": "https://www.gesetze-im-internet.de/patkostg/__6.html",
+      "accessed_at": "2026-10-20T12:44:24.666825+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p106-p117/patkostg-6.html",
+      "sha256": "3fb1c81c8baa3a13208d7c06f950d4974b22843d30c3a62e812157b1e44c7f71",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE209029314.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE209029314.zip",
+      "accessed_at": "2026-10-20T12:44:40.245118+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p106-p117/fritz-frize.zip",
+      "sha256": "1820242f6ceadfe37d25945d88b69758f5e7bddc7ec79a8c0974be0cbaacb312",
+      "xml_path": "sources/review-p106-p117/fritz-frize.xml",
+      "xml_sha256": "231db289ca44352208e0c0f4da1c04789547b45e3246db6155fda1abe5425c10",
+      "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patkostg/xml.zip",
+      "accessed_at": "2026-10-20T12:49:19.389099+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p106-p117/patkostg.zip",
+      "sha256": "b94506b5c3a70c8eb05b76273ebd2745c2a1f8ff4e7c91f3243e33e32464d660",
+      "xml_path": "sources/review-p106-p117/patkostg.xml",
+      "xml_sha256": "abb8b120ec96f121c45603d8e93c68bfd06fb1921e30bea3ff7661a028261a9f",
+      "format_validation": "ZIP CRC checked; unique XML parsed; PatKostG identity checked"
+    },
+    {
+      "url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+      "accessed_at": "2026-10-20T12:53:30.788712+00:00",
+      "http_status": 200,
+      "path": "sources/review-p106-p117/wipo-current.html",
+      "sha256": "4d5aefa7ecebe7b99de6a5e5368578aafee54f875b98f7bbf0284662d88ec427",
+      "format_validation": "HTML signature and Madrid legal text index verified",
+      "timestamp_note": "Timestamp recorded immediately after initial retrieval; prior successful retrieval in same review"
+    },
+    {
+      "url": "https://www.wipo.int/wipolex/en/text/283484",
+      "final_url": "https://www.wipo.int/wipolex/en/text/283484",
+      "accessed_at": "2026-10-20T12:53:45.325357+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
+      "sha256": "ab02bdcaaed2f18f769710c3df6ac8561dad76ac9cf96a570b267b7d8d1c3d4e",
+      "format_validation": "HTML signature checked; wrapper rather than treaty body"
     }
   ],
   "decisive_date": "2026-10-19",
@@ -1559,7 +1694,7 @@
       ]
     }
   ],
-  "last_verified_at": "2026-10-20T12:40:55.523475+00:00",
+  "last_verified_at": "2026-10-20T12:55:03.553648+00:00",
   "preflight_decisive_date": "2026-10-19",
   "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
   "official_xml": {
@@ -1771,6 +1906,80 @@
         "missing_from_read_corpus": 0,
         "card": "cases/bgh-hohenloher-landschwein.md",
         "superseded_law_check": "Former § 100(1) became § 99(2) on 16 January 2026; current anständige Gepflogenheiten expressly noted, prior express § 127 condition removed. Used only for bounded totality test/quality-function propositions, not continued application of former EU Regulation 1151/2012."
+      }
+    ]
+  },
+  "bounded_review_p106_p117": {
+    "verified_at": "2026-10-20T12:43:03.194843+00:00",
+    "evidence": "sources/review-p106-p117/fetches.json",
+    "version_excerpts": "sources/review-p106-p117/version-excerpts.json",
+    "decisive_date": "2026-10-19",
+    "official_xml_unchanged": true,
+    "search_log": "sources/review-p106-p117/web-search.json",
+    "firecrawl_extraction": null,
+    "firecrawl_failure": "Insufficient credits; direct official HTTP fetch used",
+    "limit": "Current consolidation plus selective later-amendment search; no exhaustive BGBl pipeline audit.",
+    "case_checks": [
+      {
+        "court": "BPatG",
+        "date": "2024-12-16",
+        "docket": "26 W (pat) 31/20",
+        "ecli": "ECLI:DE:BPatG:2024:161224B26Wpat31.20.0",
+        "read_full_text": true,
+        "read_scope": "Tenor und Gründe Rn. 1–67 vollständig; drei Abbildungen betrachtet",
+        "supported_reviewed_ids": [
+          "p106a",
+          "p106d",
+          "p106e"
+        ],
+        "official_xml": "sources/review-p106-p117/bio-mineralwasser.xml",
+        "official_xml_sha256": "bf9211ad8da916e458eb3f8321b9479e2883918d013ebec215a9529b929808af",
+        "corpus_path": "sources/review-p106-p117/bio-mineralwasser-local.md",
+        "corpus_sha256": "25de23e8f036e31b0223263a37738b2c04fa54327535203668f646e8aa63ff85",
+        "nonempty_official_paragraphs_compared": 77,
+        "missing_from_read_corpus": 0,
+        "card": "cases/bpatg-bio-mineralwasser.md",
+        "superseded_law_check": "General recognition requirement left open in Rn. 53; actual refusal on specific distinctiveness/description/deception grounds. No universal graphical label requirement. Actual § 106e(3) cure limited to curable defects."
+      },
+      {
+        "court": "BPatG",
+        "date": "2026-05-06",
+        "docket": "26 W (pat) 579/20",
+        "ecli": "ECLI:DE:BPatG:2026:060526B26Wpat579.20.0",
+        "read_full_text": true,
+        "read_scope": "Tenor und Gründe Rn. 1–54 vollständig; Abbildung betrachtet",
+        "supported_reviewed_ids": [
+          "p106a",
+          "p106e"
+        ],
+        "official_xml": "sources/review-p106-p117/ggn.xml",
+        "official_xml_sha256": "7402881a42e5cb5e24dba096482e1cba7c6ca68b3f354b4cb77d7402a5b77f6d",
+        "corpus_path": "sources/review-p106-p117/ggn-local.md",
+        "corpus_sha256": "816d049bce89f14bbb15d368584e97670069c9cf9d7c963cef2c0c6b849d15a4",
+        "nonempty_official_paragraphs_compared": 65,
+        "missing_from_read_corpus": 0,
+        "card": "cases/bpatg-ggn.md",
+        "superseded_law_check": "Position of BPatG Senate on disputed recognition requirement; appeal allowed, no finality or BGH approval asserted. Independent § 106e(2) ground, specific statutory-completeness defect and parallel-registration prohibition not held."
+      },
+      {
+        "court": "BPatG",
+        "date": "2020-05-08",
+        "docket": "26 W (pat) 549/17",
+        "ecli": null,
+        "read_full_text": true,
+        "read_scope": "Tenor und Gründe Rn. 1–49 vollständig",
+        "supported_reviewed_ids": [
+          "p115",
+          "p116"
+        ],
+        "official_xml": "sources/review-p106-p117/fritz-frize.xml",
+        "official_xml_sha256": "231db289ca44352208e0c0f4da1c04789547b45e3246db6155fda1abe5425c10",
+        "corpus_path": "sources/review-p106-p117/fritz-frize-local.md",
+        "corpus_sha256": "74dc68e649d993de3ed5c9381b416e5bfe4f386179d27482fbd2948ca9343e05",
+        "nonempty_official_paragraphs_compared": 58,
+        "missing_from_read_corpus": 0,
+        "card": "cases/bpatg-fritz-frize.md",
+        "superseded_law_check": "Express older law under § 158; former two § 43 periods, former § 115 wording and §§119/124 chain not adopted as current law. Only distinct IR/German data and historical pitfall supported."
       }
     ]
   }

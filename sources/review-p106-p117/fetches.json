@@ -1,0 +1,138 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/",
+    "accessed_at": "2026-10-20T12:42:15.374338+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p106-p117/index.html",
+    "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+    "format_validation": "HTML signature and expected title checked",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "accessed_at": "2026-10-20T12:42:15.599288+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p106-p117/markeng.zip",
+    "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+    "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T12:42:15.779684+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "path": "sources/review-p106-p117/amendment-2026-152.pdf",
+    "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+    "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T12:42:16.633408+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf;charset=UTF-8",
+    "path": "sources/review-p106-p117/amendment-2026-9.pdf",
+    "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+    "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE259031865.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE259031865.zip",
+    "accessed_at": "2026-10-20T12:44:00.466932+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p106-p117/bio-mineralwasser.zip",
+    "sha256": "dd60f064d811a0df59654784ff00cf0e7b95a2c6295b64f91654215f879bc07d",
+    "xml_path": "sources/review-p106-p117/bio-mineralwasser.xml",
+    "xml_sha256": "bf9211ad8da916e458eb3f8321b9479e2883918d013ebec215a9529b929808af",
+    "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE269032413.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE269032413.zip",
+    "accessed_at": "2026-10-20T12:44:00.900221+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p106-p117/ggn.zip",
+    "sha256": "6cf6ae823a59ad98b84359077caee950d091845e1aa33ba04da4f69fedba71a5",
+    "xml_path": "sources/review-p106-p117/ggn.xml",
+    "xml_sha256": "7402881a42e5cb5e24dba096482e1cba7c6ca68b3f354b4cb77d7402a5b77f6d",
+    "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/patkostg/__3.html",
+    "final_url": "https://www.gesetze-im-internet.de/patkostg/__3.html",
+    "accessed_at": "2026-10-20T12:44:24.554020+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p106-p117/patkostg-3.html",
+    "sha256": "44623b7f89f5a6066b2e101266a02be2dd961a55b68250065bbda0101444ad27",
+    "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/patkostg/__6.html",
+    "final_url": "https://www.gesetze-im-internet.de/patkostg/__6.html",
+    "accessed_at": "2026-10-20T12:44:24.666825+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "path": "sources/review-p106-p117/patkostg-6.html",
+    "sha256": "3fb1c81c8baa3a13208d7c06f950d4974b22843d30c3a62e812157b1e44c7f71",
+    "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE209029314.zip",
+    "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE209029314.zip",
+    "accessed_at": "2026-10-20T12:44:40.245118+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p106-p117/fritz-frize.zip",
+    "sha256": "1820242f6ceadfe37d25945d88b69758f5e7bddc7ec79a8c0974be0cbaacb312",
+    "xml_path": "sources/review-p106-p117/fritz-frize.xml",
+    "xml_sha256": "231db289ca44352208e0c0f4da1c04789547b45e3246db6155fda1abe5425c10",
+    "format_validation": "ZIP CRC checked; unique XML parsed; docket verified",
+    "captured_body_sha256_verified": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/patkostg/xml.zip",
+    "accessed_at": "2026-10-20T12:49:19.389099+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "path": "sources/review-p106-p117/patkostg.zip",
+    "sha256": "b94506b5c3a70c8eb05b76273ebd2745c2a1f8ff4e7c91f3243e33e32464d660",
+    "xml_path": "sources/review-p106-p117/patkostg.xml",
+    "xml_sha256": "abb8b120ec96f121c45603d8e93c68bfd06fb1921e30bea3ff7661a028261a9f",
+    "format_validation": "ZIP CRC checked; unique XML parsed; PatKostG identity checked"
+  },
+  {
+    "url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+    "final_url": "https://www.wipo.int/en/web/madrid-system/legal_texts/texts",
+    "accessed_at": "2026-10-20T12:54:41.315382+00:00",
+    "http_status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "path": "sources/review-p106-p117/wipo-current.html",
+    "sha256": "26f4e08db95ffd567834ed3c854cb3c7faabdeb71eecbe1abf221e666adfc5d4",
+    "format_validation": "HTML signature; current Madrid legal texts index links to treaty 283484"
+  },
+  {
+    "url": "https://www.wipo.int/wipolex/en/text/283484",
+    "final_url": "https://www.wipo.int/wipolex/en/text/283484",
+    "accessed_at": "2026-10-20T12:54:41.527817+00:00",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "path": "sources/review-p106-p117/wipo-protocol-wrapper.html",
+    "sha256": "ab02bdcaaed2f18f769710c3df6ac8561dad76ac9cf96a570b267b7d8d1c3d4e",
+    "format_validation": "HTML signature and actual treaty content verified; readable extraction preserved"
+  }
+]

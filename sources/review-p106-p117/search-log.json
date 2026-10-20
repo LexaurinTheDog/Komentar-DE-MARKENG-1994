@@ -1,0 +1,100 @@
+{
+  "checked_at": "2026-10-20T12:55:03.553648+00:00",
+  "web_search_evidence": "sources/review-p106-p117/web-search.json",
+  "queries": [
+    "site:recht.bund.de 2026 Markengesetz Änderung Oktober",
+    "site:rechtsprechung-im-internet.de Gewährleistungsmarke",
+    "site:rechtsprechung-im-internet.de 115 Schutzerstreckungsverfahren",
+    "site:bundesgerichtshof.de GGN Gewährleistungsmarke",
+    "site:rechtsprechung-im-internet.de international Benutzungsschonfrist MarkenG"
+  ],
+  "result": "Official consolidation and current amendment source found; relevant BPatG reference led to actual corpus/XML; later BGH GGN outcome not verified. Third-party hits not used as authority.",
+  "local_corpus_queries": [
+    "rg -l Gewährleistungsmarke /Volumes/LaCie/law-intake/eu/de/rii",
+    "rg -l Schutzerstreckungsverfahren /Volumes/LaCie/law-intake/eu/de/rii",
+    "rg -l -g *.md ^case_number: 26 W (pat) 549/17 /Volumes/LaCie/law-intake/eu/de/rii"
+  ],
+  "selected_cases": [
+    {
+      "court": "BPatG",
+      "date": "2024-12-16",
+      "docket": "26 W (pat) 31/20",
+      "ecli": "ECLI:DE:BPatG:2024:161224B26Wpat31.20.0",
+      "read_full_text": true,
+      "read_scope": "Tenor und Gründe Rn. 1–67 vollständig; drei Abbildungen betrachtet",
+      "supported_reviewed_ids": [
+        "p106a",
+        "p106d",
+        "p106e"
+      ],
+      "official_xml": "sources/review-p106-p117/bio-mineralwasser.xml",
+      "official_xml_sha256": "bf9211ad8da916e458eb3f8321b9479e2883918d013ebec215a9529b929808af",
+      "corpus_path": "sources/review-p106-p117/bio-mineralwasser-local.md",
+      "corpus_sha256": "25de23e8f036e31b0223263a37738b2c04fa54327535203668f646e8aa63ff85",
+      "nonempty_official_paragraphs_compared": 77,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bpatg-bio-mineralwasser.md",
+      "superseded_law_check": "General recognition requirement left open in Rn. 53; actual refusal on specific distinctiveness/description/deception grounds. No universal graphical label requirement. Actual § 106e(3) cure limited to curable defects."
+    },
+    {
+      "court": "BPatG",
+      "date": "2026-05-06",
+      "docket": "26 W (pat) 579/20",
+      "ecli": "ECLI:DE:BPatG:2026:060526B26Wpat579.20.0",
+      "read_full_text": true,
+      "read_scope": "Tenor und Gründe Rn. 1–54 vollständig; Abbildung betrachtet",
+      "supported_reviewed_ids": [
+        "p106a",
+        "p106e"
+      ],
+      "official_xml": "sources/review-p106-p117/ggn.xml",
+      "official_xml_sha256": "7402881a42e5cb5e24dba096482e1cba7c6ca68b3f354b4cb77d7402a5b77f6d",
+      "corpus_path": "sources/review-p106-p117/ggn-local.md",
+      "corpus_sha256": "816d049bce89f14bbb15d368584e97670069c9cf9d7c963cef2c0c6b849d15a4",
+      "nonempty_official_paragraphs_compared": 65,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bpatg-ggn.md",
+      "superseded_law_check": "Position of BPatG Senate on disputed recognition requirement; appeal allowed, no finality or BGH approval asserted. Independent § 106e(2) ground, specific statutory-completeness defect and parallel-registration prohibition not held."
+    },
+    {
+      "court": "BPatG",
+      "date": "2020-05-08",
+      "docket": "26 W (pat) 549/17",
+      "ecli": null,
+      "read_full_text": true,
+      "read_scope": "Tenor und Gründe Rn. 1–49 vollständig",
+      "supported_reviewed_ids": [
+        "p115",
+        "p116"
+      ],
+      "official_xml": "sources/review-p106-p117/fritz-frize.xml",
+      "official_xml_sha256": "231db289ca44352208e0c0f4da1c04789547b45e3246db6155fda1abe5425c10",
+      "corpus_path": "sources/review-p106-p117/fritz-frize-local.md",
+      "corpus_sha256": "74dc68e649d993de3ed5c9381b416e5bfe4f386179d27482fbd2948ca9343e05",
+      "nonempty_official_paragraphs_compared": 58,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bpatg-fritz-frize.md",
+      "superseded_law_check": "Express older law under § 158; former two § 43 periods, former § 115 wording and §§119/124 chain not adopted as current law. Only distinct IR/German data and historical pitfall supported."
+    }
+  ],
+  "units_without_new_specific_verified_case": [
+    "p106",
+    "p106b",
+    "p106c",
+    "p106f",
+    "p106g",
+    "p106h",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p117"
+  ],
+  "case_selection_limit": "Selective, not exhaustive; corpus snippets were only discovery aids, selected decisions read in full. No finding of absence of all other case law.",
+  "failed_wipo_url": "https://www.wipo.int/export/sites/www/madrid/en/legal_texts/pdf/madrid_protocol.pdf returned HTTP 404; not used as source",
+  "wipo_fallback": "Direct PDF URLs returned HTTP 404; actual official treaty HTML 283484 obtained with HTTP 200 via current Madrid legal texts index, with response bodies and hashes preserved."
+}
