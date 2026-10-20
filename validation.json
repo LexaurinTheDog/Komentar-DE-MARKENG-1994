@@ -1,1 +1,9 @@
-{"repo": "Komentar-DE-MARKENG-1994", "units": 191, "verbatim_ratio": 1.0, "commentary_chars": 232237, "errors": [], "warnings": [], "ok": true}
+{
+  "repo": "Komentar-DE-MARKENG-1994",
+  "units": 191,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 244128,
+  "errors": [],
+  "warnings": [],
+  "ok": true
+}
