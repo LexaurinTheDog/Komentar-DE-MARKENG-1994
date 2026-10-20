@@ -1,0 +1,16 @@
+§ 173 GVG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gerichtsverfassungsgesetz (GVG)
+§ 173
+(1) Die Verkündung des Urteils sowie der Endentscheidung in Ehesachen und Familienstreitsachen erfolgt in jedem Falle öffentlich.
+(2) Durch einen besonderen Beschluß des Gerichts kann unter den Voraussetzungen der §§ 171b und 172 auch für die Verkündung der Entscheidungsgründe oder eines Teiles davon die Öffentlichkeit ausgeschlossen werden.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

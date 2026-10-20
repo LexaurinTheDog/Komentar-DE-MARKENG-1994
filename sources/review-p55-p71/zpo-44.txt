@@ -1,0 +1,19 @@
+§ 44 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 44
+Ablehnungsgesuch
+(1) Das Ablehnungsgesuch ist bei dem Gericht, dem der Richter angehört, anzubringen; es kann vor der Geschäftsstelle zu Protokoll erklärt werden.
+(2) Der Ablehnungsgrund ist glaubhaft zu machen; zur Versicherung an Eides statt darf die Partei nicht zugelassen werden. Zur Glaubhaftmachung kann auf das Zeugnis des abgelehnten Richters Bezug genommen werden.
+(3) Der abgelehnte Richter hat sich über den Ablehnungsgrund dienstlich zu äußern.
+(4) Wird ein Richter, bei dem die Partei sich in eine Verhandlung eingelassen oder Anträge gestellt hat, wegen Besorgnis der Befangenheit abgelehnt, so ist glaubhaft zu machen, dass der Ablehnungsgrund erst später entstanden oder der Partei bekannt geworden sei. Das Ablehnungsgesuch ist unverzüglich anzubringen.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,18 @@
+§ 45 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 45
+Entscheidung über das Ablehnungsgesuch
+(1) Über das Ablehnungsgesuch entscheidet das Gericht, dem der Abgelehnte angehört, ohne dessen Mitwirkung.
+(2) Wird ein Richter beim Amtsgericht abgelehnt, so entscheidet ein anderer Richter des Amtsgerichts über das Gesuch. Einer Entscheidung bedarf es nicht, wenn der abgelehnte Richter das Ablehnungsgesuch für begründet hält.
+(3) Wird das zur Entscheidung berufene Gericht durch Ausscheiden des abgelehnten Mitglieds beschlussunfähig, so entscheidet das im Rechtszug zunächst höhere Gericht.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

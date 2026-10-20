@@ -1,6 +1,6 @@
 {
   "units": 191,
-  "commentary_chars": 244128,
+  "commentary_chars": 255616,
   "minimum_commentary_chars": 699,
   "below_700": [
     {
@@ -10,7 +10,7 @@
   ],
   "exact_repeated_paragraphs": [],
   "repeated_long_sentences": [],
-  "checked_output_links": 177,
+  "checked_output_links": 229,
   "broken_local_links": [],
   "placeholder_matches": []
 }

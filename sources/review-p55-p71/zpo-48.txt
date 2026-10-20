@@ -1,0 +1,16 @@
+§ 48 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 48
+Selbstablehnung; Ablehnung von Amts wegen
+Das für die Erledigung eines Ablehnungsgesuchs zuständige Gericht hat auch dann zu entscheiden, wenn ein solches Gesuch nicht angebracht ist, ein Richter aber von einem Verhältnis Anzeige macht, das seine Ablehnung rechtfertigen könnte, oder wenn aus anderer Veranlassung Zweifel darüber entstehen, ob ein Richter kraft Gesetzes ausgeschlossen sei.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

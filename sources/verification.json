@@ -532,6 +532,303 @@
       "sha256": "20e1358d6e1e20bc728035e58813de9960dab99f43ab346981074a9a1a04b941",
       "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
       "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T12:08:54.714642+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/index.html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "format_validation": "HTML signature and expected title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T12:08:54.860960+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p55-p71/markeng.zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:08:55.043113+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p55-p71/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T12:08:55.851399+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p55-p71/amendment-2026-9.pdf",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-MPRE177840964.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-MPRE177840964.zip",
+      "accessed_at": "2026-10-20T12:10:01.046948+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p55-p71/kostenruecknahme.zip",
+      "sha256": "b5d2084c70e7b87d1b5327c0b26e8800954147d2a071ae19a021df3b73422407",
+      "format_validation": "ZIP CRC validated; unique XML parsed and docket checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-MPRE176770964.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-MPRE176770964.zip",
+      "accessed_at": "2026-10-20T12:10:01.163996+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p55-p71/gebuehrenruecknahme.zip",
+      "sha256": "6df240af6f4c6973b5038b2a732c1d3630b402f2cbff0a6e52901dd50140e1d2",
+      "format_validation": "ZIP CRC validated; unique XML parsed and docket checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__41.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__41.html",
+      "accessed_at": "2026-10-20T12:10:01.271662+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-41.html",
+      "sha256": "1198a48e3fc04ec925c87b077070eba080f6377cd41686c6a238119ba85543de",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__42.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__42.html",
+      "accessed_at": "2026-10-20T12:10:01.378316+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-42.html",
+      "sha256": "dad121bb7d25575cda161b7857160be9ff212a6accb0bca59c4bd741727f68ac",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__43.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__43.html",
+      "accessed_at": "2026-10-20T12:10:01.488488+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-43.html",
+      "sha256": "f868971ffe62d0e6403777553ee6956676f22be99e5f85aa3c72a2bde769714c",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__44.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__44.html",
+      "accessed_at": "2026-10-20T12:10:01.594267+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-44.html",
+      "sha256": "cda1e2c47494da2758d2eca8f8a6348ead8dcc4af1593b7e840690212589b008",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__45.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__45.html",
+      "accessed_at": "2026-10-20T12:10:01.703563+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-45.html",
+      "sha256": "7feaa9d224756599ba1c6503c09375854158b75bda73f03840342811f373a829",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__47.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__47.html",
+      "accessed_at": "2026-10-20T12:10:01.814175+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-47.html",
+      "sha256": "af37e56abe92abe596846217e457b0bc8ee022df300a302946de8bfa8901449f",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__48.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__48.html",
+      "accessed_at": "2026-10-20T12:10:01.918694+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-48.html",
+      "sha256": "6e43f2111525e5cbaf92d4d75b849b48973c0febf9741ff27fa3ca07b0c5065f",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__49.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__49.html",
+      "accessed_at": "2026-10-20T12:10:02.021002+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-49.html",
+      "sha256": "54a5c172ac496a8240f8b48c20e0c84c30cdaa1ec6135898320f6852ff43f42c",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__128.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__128.html",
+      "accessed_at": "2026-10-20T12:10:02.121453+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-128.html",
+      "sha256": "3b95adba3e988bbeaec055ac135f2d573e8ecb567d40d26b7d162a9c9d0131df",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__128a.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__128a.html",
+      "accessed_at": "2026-10-20T12:10:02.223406+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-128a.html",
+      "sha256": "a2d0b8ae89b7ceb2c0c00bdfe18172567bb598e4ced2e8dfc7324d397411c5b3",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__160a.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__160a.html",
+      "accessed_at": "2026-10-20T12:10:02.319896+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-160a.html",
+      "sha256": "b0ab57774f70db89729df9a5c531f31e14d190a2b58c807eb583051794d433b0",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__162.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__162.html",
+      "accessed_at": "2026-10-20T12:10:02.422322+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-162.html",
+      "sha256": "9a27776f0a2ab279d512cf4cad9ff3068c9e3f92feba199af657138e5168c745",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__163.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__163.html",
+      "accessed_at": "2026-10-20T12:10:02.518105+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-163.html",
+      "sha256": "6ad7a0f5fbf1d3ac61043b426bd0f703c2adc257e344d24c63ba87bea450adf6",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__325.html",
+      "final_url": "https://www.gesetze-im-internet.de/zpo/__325.html",
+      "accessed_at": "2026-10-20T12:10:02.620229+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/zpo-325.html",
+      "sha256": "fb5b8aa5494ddc33fd162243ca6719d9300ab54d22b824c658c46d2f5657a03a",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__23.html",
+      "final_url": "https://www.gesetze-im-internet.de/rvg/__23.html",
+      "accessed_at": "2026-10-20T12:10:02.728440+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/rvg-23.html",
+      "sha256": "5c2b1ffb4477788312169bb0d15ef4126bbb0c84f5c04dce74d0191986eee2cb",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__33.html",
+      "final_url": "https://www.gesetze-im-internet.de/rvg/__33.html",
+      "accessed_at": "2026-10-20T12:10:02.826002+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/rvg-33.html",
+      "sha256": "25da95242d3dd506d6cdbe5f8c4e6e2936f840e8ba21825a98cf3eb343624684",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__172.html",
+      "final_url": "https://www.gesetze-im-internet.de/gvg/__172.html",
+      "accessed_at": "2026-10-20T12:10:02.929908+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/gvg-172.html",
+      "sha256": "756b5e206b90525b77f2099a73a1728308ce8be299770031c53bd33baba070ce",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__173.html",
+      "final_url": "https://www.gesetze-im-internet.de/gvg/__173.html",
+      "accessed_at": "2026-10-20T12:10:03.032854+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/gvg-173.html",
+      "sha256": "06d754576737f894098f82389b676da4bb8258bb7e7ff5a03bdde5b7e0b7fe0b",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__174.html",
+      "final_url": "https://www.gesetze-im-internet.de/gvg/__174.html",
+      "accessed_at": "2026-10-20T12:10:03.139985+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/gvg-174.html",
+      "sha256": "13d089e05b8f74f496911dc0c13a0b2d3db26cc2f09da36dcb17d139cbe4b38f",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__175.html",
+      "final_url": "https://www.gesetze-im-internet.de/gvg/__175.html",
+      "accessed_at": "2026-10-20T12:10:03.242672+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/gvg-175.html",
+      "sha256": "dfb44cc397502493c464ff53bf2f1455c0d94bb63887d86b526e3dff6f1a19ba",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/patkostg/__6.html",
+      "final_url": "https://www.gesetze-im-internet.de/patkostg/__6.html",
+      "accessed_at": "2026-10-20T12:10:03.346342+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p55-p71/patkostg-6.html",
+      "sha256": "3fb1c81c8baa3a13208d7c06f950d4974b22843d30c3a62e812157b1e44c7f71",
+      "format_validation": "Official HTML signature and jurAbsatz statutory text checked; readable extract preserved",
+      "captured_body_sha256_verified": true
     }
   ],
   "decisive_date": "2026-10-19",
@@ -583,7 +880,7 @@
       ]
     }
   ],
-  "last_verified_at": "2026-10-20T12:03:33.074217+00:00",
+  "last_verified_at": "2026-10-20T12:14:30.950594+00:00",
   "preflight_decisive_date": "2026-10-19",
   "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
   "official_xml": {
@@ -674,6 +971,16 @@
     "official_xml_unchanged": true,
     "search_log": "sources/review-p35-p54-amendments-search.json",
     "firecrawl_extraction": "sources/review-p35-p54-index-firecrawl.md",
+    "limit": "Current consolidation plus selective later-amendment search; no exhaustive BGBl pipeline audit."
+  },
+  "bounded_review_p55_p71": {
+    "verified_at": "2026-10-20T12:14:30.950594+00:00",
+    "evidence": "sources/review-p55-p71/fetches.json",
+    "version_excerpts": "sources/review-p55-p71/version-excerpts.json",
+    "decisive_date": "2026-10-19",
+    "official_xml_unchanged": true,
+    "search_log": "sources/review-p55-p71-amendments-search.json",
+    "firecrawl_extraction": "sources/review-p55-p71-index-firecrawl.md",
     "limit": "Current consolidation plus selective later-amendment search; no exhaustive BGBl pipeline audit."
   }
 }

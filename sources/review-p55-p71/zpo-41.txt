@@ -1,0 +1,34 @@
+§ 41 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 41
+Ausschluss von der Ausübung des Richteramtes
+Ein Richter ist von der Ausübung des Richteramtes kraft Gesetzes ausgeschlossen:
+1.
+in Sachen, in denen er selbst Partei ist oder bei denen er zu einer Partei in dem Verhältnis eines Mitberechtigten, Mitverpflichteten oder Regresspflichtigen steht;
+2.
+in Sachen seines Ehegatten, auch wenn die Ehe nicht mehr besteht;
+2a.
+in Sachen seines Lebenspartners, auch wenn die Lebenspartnerschaft nicht mehr besteht;
+3.
+in Sachen einer Person, mit der er in gerader Linie verwandt oder verschwägert, in der Seitenlinie bis zum dritten Grad verwandt oder bis zum zweiten Grad verschwägert ist oder war;
+4.
+in Sachen, in denen er als Prozessbevollmächtigter oder Beistand einer Partei bestellt oder als gesetzlicher Vertreter einer Partei aufzutreten berechtigt ist oder gewesen ist;
+5.
+in Sachen, in denen er als Zeuge oder Sachverständiger vernommen ist;
+6.
+in Sachen, in denen er in einem früheren Rechtszug oder im schiedsrichterlichen Verfahren bei dem Erlass der angefochtenen Entscheidung mitgewirkt hat, sofern es sich nicht um die Tätigkeit eines beauftragten oder ersuchten Richters handelt;
+7.
+in Sachen wegen überlanger Gerichtsverfahren, wenn er in dem beanstandeten Verfahren in einem Rechtszug mitgewirkt hat, auf dessen Dauer der Entschädigungsanspruch gestützt wird;
+8.
+in Sachen, in denen er an einem Mediationsverfahren oder einem anderen Verfahren der außergerichtlichen Konfliktbeilegung mitgewirkt hat.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

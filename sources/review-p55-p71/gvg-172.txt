@@ -1,0 +1,25 @@
+§ 172 GVG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gerichtsverfassungsgesetz (GVG)
+§ 172
+Das Gericht kann für die Verhandlung oder für einen Teil davon die Öffentlichkeit ausschließen, wenn
+1.
+eine Gefährdung der Staatssicherheit, der öffentlichen Ordnung oder der Sittlichkeit zu besorgen ist,
+1a.
+eine Gefährdung des Lebens, des Leibes oder der Freiheit eines Zeugen oder einer anderen Person zu besorgen ist,
+2.
+ein wichtiges Geschäfts-, Betriebs-, Erfindungs- oder Steuergeheimnis zur Sprache kommt, durch dessen öffentliche Erörterung überwiegende schutzwürdige Interessen verletzt würden,
+3.
+ein privates Geheimnis erörtert wird, dessen unbefugte Offenbarung mit Strafe bedroht ist,
+4.
+eine Person unter 18 Jahren vernommen wird.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,86 @@
+{
+  "checked_at": "2026-10-20T12:17:48.567681+00:00",
+  "queries": [
+    {
+      "query": "site:rechtsprechung-im-internet.de \"24 W (pat) 46/09\"",
+      "result": "Firecrawl CLI: No results found; exit 0, no result file generated. Decisions located using local national corpus and verified directly at official download URL."
+    },
+    {
+      "query": "Markengesetz Änderung 2026 Oktober BGBl",
+      "evidence": "sources/review-p55-p71-amendments-search.json",
+      "result": "Official current MarkenG among results; third-party descriptions not used as substantive proof. No evidenced later amendment; absence not exhaustive proof."
+    }
+  ],
+  "local_corpus_query": "rg § 71.*MarkenG|MarkenG.*§ 71 in /Volumes/LaCie/law-intake/eu/de/rii; read MPRE177840964, MPRE176770964 and MPRE177010964; selected first two for direct relevance to separate cost issues",
+  "not_selected": [
+    {
+      "doknr": "MPRE177010964",
+      "reason": "Read in local corpus only; no fresh official verification, not cited or used as authority"
+    }
+  ],
+  "fresh_fetches": "sources/review-p55-p71/fetches.json",
+  "case_checks": [
+    {
+      "court": "BPatG",
+      "date": "2011-01-11",
+      "docket": "24 W (pat) 46/09",
+      "ecli": null,
+      "ecli_note": "Official XML field empty; no ECLI invented",
+      "read_full_text": true,
+      "read_scope": "Tenor und Gründe Rn. 1–4 (Rn. 4 Mitwirkendennamen)",
+      "supported_reviewed_ids": [
+        "p71"
+      ],
+      "official_xml": "sources/review-p55-p71/kostenruecknahme.xml",
+      "official_xml_sha256": "e6acec02c21fb63c1dc779b461e0944935e264446b9bfe289344a05e75e7601f",
+      "corpus_path": "sources/review-p55-p71/kostenruecknahme-local.md",
+      "corpus_sha256": "534a97c79ebb41cbdd7190eab8765818829b0ee6b40c1565043b0f217cdca8ec",
+      "nonempty_official_paragraphs_compared": 13,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bpatg-kostenruecknahme.md",
+      "superseded_law_check": "Current § 71(1) and withdrawal alternative of (4) remain; decision only covers its own circumstances, not all subsequently added grounds. Actual reasoning rather than misleading XML norm metadata used."
+    },
+    {
+      "court": "BPatG",
+      "date": "2010-11-23",
+      "docket": "24 W (pat) 111/10",
+      "ecli": null,
+      "ecli_note": "Official XML field empty; no ECLI invented",
+      "read_full_text": true,
+      "read_scope": "Tenor und Gründe Rn. 1–6",
+      "supported_reviewed_ids": [
+        "p71"
+      ],
+      "official_xml": "sources/review-p55-p71/gebuehrenruecknahme.xml",
+      "official_xml_sha256": "d8b440b047205fe7bc4a7d72d025875b9953cd96169215a016c24660644f25b4",
+      "corpus_path": "sources/review-p55-p71/gebuehrenruecknahme-local.md",
+      "corpus_sha256": "2c126566c8c10d099a7639f8ca4a0693a963b9f40f67480d7dfef22033de3fa3",
+      "nonempty_official_paragraphs_compared": 13,
+      "missing_from_read_corpus": 0,
+      "card": "cases/bpatg-gebuehrenruecknahme.md",
+      "superseded_law_check": "Current § 71(3) retains repayment power; only narrow point that early withdrawal alone did not justify repayment used; no historical fee amounts or complete old fee regime imported."
+    }
+  ],
+  "no_new_case_selected_ids": [
+    "p55",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p62a",
+    "p63",
+    "p64",
+    "p64a",
+    "p65",
+    "p65a",
+    "p66",
+    "p67",
+    "p68",
+    "p69",
+    "p70"
+  ],
+  "limit": "Selective case research: two BPatG decisions read in full in local corpus and fresh official XML; no sufficiently specific additional case selected for the other 19 assigned units. No claim that no such case exists. Five previous BGH case cards not re-reviewed."
+}

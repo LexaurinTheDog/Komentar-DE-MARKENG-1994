@@ -1,0 +1,17 @@
+§ 175 GVG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gerichtsverfassungsgesetz (GVG)
+§ 175
+(1) Der Zutritt zu öffentlichen Verhandlungen kann unerwachsenen und solchen Personen versagt werden, die in einer der Würde des Gerichts nicht entsprechenden Weise erscheinen.
+(2) Zu nicht öffentlichen Verhandlungen kann der Zutritt einzelnen Personen vom Gericht gestattet werden. In Strafsachen soll dem Verletzten der Zutritt gestattet werden. Einer Anhörung der Beteiligten bedarf es nicht.
+(3) Die Ausschließung der Öffentlichkeit steht der Anwesenheit der die Dienstaufsicht führenden Beamten der Justizverwaltung bei den Verhandlungen vor dem erkennenden Gericht nicht entgegen.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

@@ -1,0 +1,19 @@
+§ 128 ZPO - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Zivilprozessordnung
+§ 128
+Grundsatz der Mündlichkeit; schriftliches Verfahren
+(1) Die Parteien verhandeln über den Rechtsstreit vor dem erkennenden Gericht mündlich.
+(2) Mit Zustimmung der Parteien, die nur bei einer wesentlichen Änderung der Prozesslage widerruflich ist, kann das Gericht eine Entscheidung ohne mündliche Verhandlung treffen. Es bestimmt alsbald den Zeitpunkt, bis zu dem Schriftsätze eingereicht werden können, und den Termin zur Verkündung der Entscheidung. Eine Entscheidung ohne mündliche Verhandlung ist unzulässig, wenn seit der Zustimmung der Parteien mehr als drei Monate verstrichen sind.
+(3) Ist nur noch über die Kosten oder Nebenforderungen zu entscheiden, kann die Entscheidung ohne mündliche Verhandlung ergehen.
+(4) Entscheidungen des Gerichts, die nicht Urteile sind, können ohne mündliche Verhandlung ergehen, soweit nichts anderes bestimmt ist.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

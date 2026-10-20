@@ -1,0 +1,11 @@
+# BPatG – Frühe Beschwerderücknahme und Gebührenrückzahlung
+
+Gericht: Bundespatentgericht, 24. Senat. Beschluss vom **23. November 2010**, **24 W (pat) 111/10**, amtliche Dokumentkennung MPRE176770964. Amtliches ECLI-Feld leer. Tenor und Gründe Rn. 1–6 vollständig gelesen; Prüfung und erneuter amtlicher Abruf am 20. Oktober 2026.
+
+Amtlicher [Entscheidungsnachweis](https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=MPRE176770964), gesicherte [XML](../sources/review-p55-p71/gebuehrenruecknahme.xml), [ZIP](../sources/review-p55-p71/gebuehrenruecknahme.zip), gelesene [Korpusfassung](../sources/review-p55-p71/gebuehrenruecknahme-local.md). HTTP- und Hashnachweise: [fetches.json](../sources/review-p55-p71/fetches.json). Nichtleere amtliche Tenor- und Gründeabsätze sind vollständig im gelesenen Korpustext nachgewiesen.
+
+Rn. 1–4 schildern die Zurückweisung der Anmeldung „UNFALLGUTACHTEN24“, eine wirksam eingelegte und bezahlte Beschwerde sowie deren spätere Rücknahme mit Erstattungsbitte. Der Tenor lehnt die Gebührenrückzahlung ab. Rn. 5 verneint in dieser Situation einen Rückzahlungsanspruch; Rn. 6 prüft gesondert die Billigkeit nach § 71 Absatz 3. Die frühe Rücknahme allein war kein Rückzahlungsgrund. Weitere für eine Erstattung sprechende Umstände waren nach der eigenen Feststellung des Gerichts weder vorgetragen noch ersichtlich.
+
+Unterstützte Einheit: **p71**, Absatz 3 und dessen Anwendung bei Rücknahme. Das Ergebnis betrifft die staatliche Beschwerdegebühr, nicht die Erstattung von Anwaltskosten zwischen mehreren Beteiligten. Es behauptet weder, jede Rückzahlung nach Rücknahme sei ausgeschlossen, noch, besondere andere Billigkeitsgründe seien unbeachtlich. Über die materielle Schutzfähigkeit wurde mit diesem Kostenbeschluss nicht erneut in der Hauptsache entschieden.
+
+Fassungsgrenze: § 71 Absatz 3 der zum 19. Oktober 2026 geprüften amtlichen Konsolidierung enthält weiterhin die Befugnis zur Gebührenrückzahlung. Verwendet wird nur die enge Aussage zur Rücknahme als alleinigem Billigkeitsgrund. Historische Gebührenbeträge, sämtliche späteren Kostentatbestände und das gesamte damalige Verfahrensrecht werden nicht als gegenwärtig geltend übernommen. Die in Rn. 6 zitierte weitere Entscheidung wurde nicht als selbständig geprüfte Autorität aufgenommen.
