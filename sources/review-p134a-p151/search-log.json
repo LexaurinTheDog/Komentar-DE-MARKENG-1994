@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-10-20T13:20:03.254630+00:00",
+  "scope": "Selective official-primary-source and local national judicial-corpus research for exactly 20 assigned provisions",
+  "queries": [
+    "site.recht.bund.de 2026 Markengesetz Änderung Oktober 2026",
+    "site.rechtsprechung-im-internet.de MarkenG 143 144 Strafbarkeit",
+    "site.rechtsprechung-im-internet.de MarkenG 147 149 Beschlagnahme",
+    "site.rechtsprechung-im-internet.de \"3 StR 225/20\"",
+    "site.rechtsprechung-im-internet.de \"MarkenG\" \"Beschlagnahme\" \"149\"",
+    "site.recht.bund.de \"Markengesetz\" \"2026\" \"Oktober\""
+  ],
+  "online_snapshot": "sources/review-p134a-p151/web-search.json",
+  "local_search": "rg over *.md corpus for §§143/144/147/149 MarkenG with constrained adjacency; metadata then full texts of BGH 3StR225/20 and 2StR627/25 read; existing cost decision reread.",
+  "selected": [
+    {
+      "case": "BGH I ZB59/19, 2022-10-13",
+      "units": [
+        "p140"
+      ],
+      "result": "Existing relevant full-text authority confirmed."
+    },
+    {
+      "case": "BGH 3StR225/20, 2021-04-21",
+      "units": [
+        "p144"
+      ],
+      "result": "Full text read, fresh ZIP/XML validated, card added with historical limits."
+    }
+  ],
+  "not_selected": [
+    {
+      "case": "BGH 2StR627/25, 2025-11-27",
+      "result": "Full local text read, chiefly assistance/concurrence/sentencing and GmbHG issues; no additional authority needed for the specific commentary; not cited as independently fresh verified decision."
+    }
+  ],
+  "no_additional_relevant_verified_case_for": [
+    "p134a",
+    "p134b",
+    "p135",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p141",
+    "p142",
+    "p143",
+    "p145",
+    "p145a",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151"
+  ],
+  "later_law": "Search found current official consolidated version and legislative materials, not verified later effective amendments to assigned provisions; no exhaustive BGBl audit claimed.",
+  "external_reference_scope": "Fresh targeted official §14UWG/§15StGB/§10OWiG; other internal references checked against current MarkenG. No new unverified EU time limits or implementing-form requirements introduced.",
+  "limitations": [
+    "Search snippets and third-party results not used as authority; full official bodies are the evidentiary source.",
+    "New craft/industrial GI regime not assigned fabricated precedent.",
+    "Historical discussion from case limited to its actual holding and 2018 events."
+  ]
+}

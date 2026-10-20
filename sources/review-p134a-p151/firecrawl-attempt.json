@@ -1,0 +1,7 @@
+{
+  "at": "2026-10-20T13:20:03.254630+00:00",
+  "command": "firecrawl scrape 'https://www.gesetze-im-internet.de/markeng/' -o sources/firecrawl-review-p134a-p151.md",
+  "exit_code": 1,
+  "error": "Insufficient credits to perform this request",
+  "result": "No extracted content produced; direct official HTTP used. No credentials or service settings read or changed."
+}

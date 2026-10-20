@@ -1,0 +1,30 @@
+[
+  {
+    "slug": "patentanwaltskosten",
+    "court": "BGH",
+    "date": "20221013",
+    "docket": "I ZB 59/19",
+    "xml_sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d",
+    "local_sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81",
+    "official_nonempty_paragraphs_compared": 37,
+    "read_full_text": true,
+    "supported_reviewed_ids": [
+      "p140"
+    ],
+    "card": "cases/bgh-patentanwaltskosten.md"
+  },
+  {
+    "slug": "gemeinschaftsmarke",
+    "court": "BGH",
+    "date": "20210421",
+    "docket": "3 StR 225/20",
+    "xml_sha256": "a0349482622b33f1cedcedde2b94a7b07d3c33e607ce4f8f026b4b2c248668d0",
+    "local_sha256": "2bf11ea01361fcdad9b5b898a5c04464c8fc7bcf3e89d572a08d38a3ce8cd656",
+    "official_nonempty_paragraphs_compared": 26,
+    "read_full_text": true,
+    "supported_reviewed_ids": [
+      "p144"
+    ],
+    "card": "cases/bgh-gemeinschaftsmarke-strafbarkeit.md"
+  }
+]

@@ -330,5 +330,37 @@
       "warnings": [],
       "ok": true
     }
+  },
+  "bounded_review_p134a_p151_recheck": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/markeng/",
+    "verified_at": "2026-10-20T13:11:47.780246+00:00",
+    "version_evidence": "sources/review-p134a-p151/version-excerpts.json",
+    "fetches": "sources/review-p134a-p151/fetches.json",
+    "historical_versions_checked": {
+      "duplicate_labels": [],
+      "duplicate_doknr": [],
+      "method": "Single current consolidation; fresh identical XML; both 2026 amendment articles and commencement clauses checked; no historical text concatenation."
+    },
+    "annexes_checked": {
+      "raw_records": 224,
+      "operative_annexes": [],
+      "disposition": "No operative annex in raw XML or contents; no separate Eingangsformel; introductory official notes preserved."
+    },
+    "coverage": {
+      "expected": 191,
+      "parsed": 191,
+      "missing": [],
+      "extra": [],
+      "xml_character_mismatch": []
+    },
+    "unresolved_blockers": [],
+    "assigned_version_analysis": "sources/review-p134a-p151/assigned-version-review.json",
+    "supplementary_source_limitations": [
+      "No independent full-text revalidation of every EU regulation, international agreement, historical version or implementing ordinance. National current statute, all operative references and both 2026 amendment/commencement acts checked.",
+      "UWG §14, StGB §15 and OWiG §10 freshly read as targeted official provisions; not a complete amendment-history audit of those laws.",
+      "Firecrawl extraction unavailable for lack of credits; validated direct official HTTP bodies used. Later-amendment search selective, not exhaustive BGBl pipeline audit."
+    ]
   }
 }

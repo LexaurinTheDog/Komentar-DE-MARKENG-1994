@@ -1737,6 +1737,100 @@
       "path": "sources/review-p118-p134/zpo-383.html",
       "sha256": "38844599c36aeec0e8376a231c608ca77330cfe311cd94c48b4489ae36a5673c",
       "format_validation": "HTML parsed, extracted text retained; content checked before reliance"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T13:11:45.837160+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p134a-p151/index.html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "format_validation": "HTML signature and expected title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T13:11:46.096226+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p134a-p151/markeng.zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "format_validation": "ZIP CRC checked; unique XML member parsed; identity and bytes compared with preserved official XML",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:11:46.282130+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p134a-p151/amendment-2026-152.pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T13:11:47.185702+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/review-p134a-p151/amendment-2026-9.pdf",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "format_validation": "PDF magic/EOF checked; text extracted; byte-identical to earlier promulgation snapshot",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310532023.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE310532023.zip",
+      "accessed_at": "2026-10-20T13:12:58.114550+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p134a-p151/patentanwaltskosten.zip",
+      "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0",
+      "format_validation": "ZIP CRC validated, unique XML parsed, docket I ZB 59/19"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE601012021.zip",
+      "final_url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE601012021.zip",
+      "accessed_at": "2026-10-20T13:12:58.312476+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/review-p134a-p151/gemeinschaftsmarke.zip",
+      "sha256": "de28e872e3101f81a8f1700bd62a9c26a0a8a2abd3167728a4d3af05ea2ccf0d",
+      "format_validation": "ZIP CRC validated, unique XML parsed, docket 3 StR 225/20"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__10.html",
+      "final_url": "https://www.gesetze-im-internet.de/owig_1968/__10.html",
+      "accessed_at": "2026-10-20T13:12:58.412901+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p134a-p151/owig-10.html",
+      "sha256": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a",
+      "format_validation": "HTML signature checked; text extracted for targeted reference reading"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__15.html",
+      "final_url": "https://www.gesetze-im-internet.de/stgb/__15.html",
+      "accessed_at": "2026-10-20T13:12:58.551407+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p134a-p151/stgb-15.html",
+      "sha256": "9ec87c2bf0f83260a9ec0bfe7e7ea08b2dff14e71780617fe9ce17067185d10a",
+      "format_validation": "HTML signature checked; text extracted for targeted reference reading"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/uwg_2004/__14.html",
+      "final_url": "https://www.gesetze-im-internet.de/uwg_2004/__14.html",
+      "accessed_at": "2026-10-20T13:12:58.653280+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "path": "sources/review-p134a-p151/uwg-14.html",
+      "sha256": "34ca58c18c69aeddc827094be6095b8a53c77b4051d33efb953588be28731032",
+      "format_validation": "HTML signature checked; text extracted for targeted reference reading"
     }
   ],
   "decisive_date": "2026-10-19",
@@ -1788,7 +1882,7 @@
       ]
     }
   ],
-  "last_verified_at": "2026-10-20T13:10:27.229615+00:00",
+  "last_verified_at": "2026-10-20T13:20:28.983301+00:00",
   "preflight_decisive_date": "2026-10-19",
   "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
   "official_xml": {
@@ -2141,6 +2235,24 @@
       "Supplementary EUR-Lex full-text attempts returned invalid HTTP 202/empty responses and alternative URLs failed; not used as law/case evidence. C-148/17 is only reported as explained in the fully read BGH judgment, not independently full-text verified.",
       "UWG §8 and ZPO §383 read as targeted official individual provisions, without an additional full-system commentary or exhaustive amendment-history audit.",
       "Current official consolidation plus both 2026 amendment/commencement acts checked; later-law search selective, not an exhaustive BGBl pipeline audit."
+    ]
+  },
+  "bounded_review_p134a_p151": {
+    "verified_at": "2026-10-20T13:11:47.780246+00:00",
+    "evidence": "sources/review-p134a-p151/fetches.json",
+    "version_excerpts": "sources/review-p134a-p151/version-excerpts.json",
+    "decisive_date": "2026-10-19",
+    "official_xml_unchanged": true,
+    "search_log": "sources/review-p134a-p151/web-search.json",
+    "firecrawl_extraction": null,
+    "firecrawl_failure": "Insufficient credits; direct official HTTP fetch used",
+    "limit": "Current consolidation plus selective later-amendment search; no exhaustive BGBl pipeline audit.",
+    "case_comparison": "sources/review-p134a-p151/case-comparison.json",
+    "case_full_text_read": true,
+    "external_references": [
+      "UWG §14",
+      "StGB §15",
+      "OWiG §10"
     ]
   }
 }

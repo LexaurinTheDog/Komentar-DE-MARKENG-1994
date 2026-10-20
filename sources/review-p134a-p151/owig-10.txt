@@ -1,0 +1,16 @@
+§ 10 OWiG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gesetz über Ordnungswidrigkeiten (OWiG)
+§ 10
+Vorsatz und Fahrlässigkeit
+Als Ordnungswidrigkeit kann nur vorsätzliches Handeln geahndet werden, außer wenn das Gesetz fahrlässiges Handeln ausdrücklich mit Geldbuße bedroht.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->

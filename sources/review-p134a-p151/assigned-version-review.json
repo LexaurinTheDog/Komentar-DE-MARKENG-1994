@@ -1,0 +1,85 @@
+{
+  "decisive_date": "2026-10-19",
+  "checked_at": "2026-10-20T13:20:03.254630+00:00",
+  "changes": [
+    {
+      "units": [
+        "p134a",
+        "p134b",
+        "p135"
+      ],
+      "amending_part": "Art.5 Nr.25",
+      "description": "Inserted control-data/assistance rules and replaced private enforcement within rewritten §§130–135."
+    },
+    {
+      "units": [
+        "p137"
+      ],
+      "amending_part": "Art.5 Nr.27",
+      "description": "New international craft/industrial GI control, enforcement and subsidiary protection rule."
+    },
+    {
+      "units": [
+        "p138"
+      ],
+      "amending_part": "Art.5 Nr.29",
+      "description": "New caption and procedural power; paragraph2 retained."
+    },
+    {
+      "units": [
+        "p139"
+      ],
+      "amending_part": "Art.5 Nr.30",
+      "description": "Replaced implementing/delegation powers."
+    },
+    {
+      "units": [
+        "p144"
+      ],
+      "amending_part": "Art.5 Nr.31/32",
+      "description": "Old §143a becomes §144; EU reference fixed to stated 11 April 2024 version; previous geographic criminal §144 removed."
+    },
+    {
+      "units": [
+        "p145",
+        "p145a"
+      ],
+      "amending_part": "Art.5 Nr.33",
+      "description": "Replaced administrative-offence rules and inserted label-removal/destruction rule."
+    },
+    {
+      "units": [
+        "p146"
+      ],
+      "amending_part": "Art.5 Nr.34",
+      "description": "Removed extended EU citation without adding national transit language."
+    },
+    {
+      "units": [
+        "p151"
+      ],
+      "amending_part": "Art.5 Nr.35",
+      "description": "Added geographical indications protected on the basis of international agreements."
+    }
+  ],
+  "unchanged_assigned_units": [
+    "p136",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p147",
+    "p148",
+    "p149",
+    "p150"
+  ],
+  "latest_amendment": "Art.14 BGBl.2026 I Nr.152 modifies §§81/82 only, effective 2026-10-01 by Art.18(1).",
+  "preceding_commencement": "BGBl.2026 I Nr.9 published 2026-01-15; Art.16 effective following day, 2026-01-16.",
+  "original_intake_comparison": "No substantive change since intake of 2026-10-02; byte-identical current XML and exact whitespace-only character audit.",
+  "evidence": [
+    "sources/review-p134a-p151/version-excerpts.json",
+    "sources/review-p134a-p151/amendment-2026-9.pdf",
+    "sources/review-p134a-p151/amendment-2026-152.pdf"
+  ],
+  "historical_rule_limit": "Old §143a case concerns 2018 events; no historical text substituted for current §144. No full historical reconstruction of all external acts."
+}

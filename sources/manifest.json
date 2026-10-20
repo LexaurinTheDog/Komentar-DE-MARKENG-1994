@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-20T13:10:27.229615+00:00",
+  "created_at": "2026-10-20T13:20:57.653093+00:00",
   "primary_statute": "markeng.xml",
   "canonical_statute": "canonical.md",
   "files": [
@@ -737,6 +737,161 @@
       "path": "sources/review-p118-p134/zpo-383.txt",
       "bytes": 2038,
       "sha256": "f42e4c3c9b9d69ee7e6346c499c474775f81d8f1c7ae247916b75798a410647b"
+    },
+    {
+      "path": "sources/review-p134a-p151/amendment-2026-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/review-p134a-p151/amendment-2026-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/review-p134a-p151/amendment-2026-9.pdf",
+      "bytes": 748171,
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c"
+    },
+    {
+      "path": "sources/review-p134a-p151/amendment-2026-9.txt",
+      "bytes": 166215,
+      "sha256": "968e2d7c8c7f171fe5912cdcf4926703f6e8abd3c2824d5d4acf0fa80a71cbfe"
+    },
+    {
+      "path": "sources/review-p134a-p151/assigned-version-review.json",
+      "bytes": 2614,
+      "sha256": "a3422cd240f7d3c56cfe9895a3af17d9c81c5ea9477baeeefc6c47483af08790"
+    },
+    {
+      "path": "sources/review-p134a-p151/baseline-commit.txt",
+      "bytes": 41,
+      "sha256": "08f46f08fa1ab10abec176ea022c4259eb85ff3fb3b18ce4eb3d28899660320c"
+    },
+    {
+      "path": "sources/review-p134a-p151/before-commentary.json",
+      "bytes": 306578,
+      "sha256": "e893ba9e8564d22bc7ea05eabab22c0b3a86f2c90c663608303a380fb0e519a6"
+    },
+    {
+      "path": "sources/review-p134a-p151/case-comparison.json",
+      "bytes": 948,
+      "sha256": "72ad7c45c56331c99839e583536e8505d9dd5e9225bee5f7de7f45c372b0f5c6"
+    },
+    {
+      "path": "sources/review-p134a-p151/fetches.json",
+      "bytes": 4921,
+      "sha256": "9862f119830460b6e7955b11a4248d59d9d2d617405cebc2a30d0ff89fe3975d"
+    },
+    {
+      "path": "sources/review-p134a-p151/firecrawl-attempt.json",
+      "bytes": 370,
+      "sha256": "229efa5f76f74524cacfd3747b5ec79e73c4d934e269a39a8c9aa44da679f5b1"
+    },
+    {
+      "path": "sources/review-p134a-p151/gemeinschaftsmarke-local.md",
+      "bytes": 17111,
+      "sha256": "2bf11ea01361fcdad9b5b898a5c04464c8fc7bcf3e89d572a08d38a3ce8cd656"
+    },
+    {
+      "path": "sources/review-p134a-p151/gemeinschaftsmarke.txt",
+      "bytes": 15608,
+      "sha256": "d5ab8a914785d979b4622d2d685e33614aa22a7f6f573c8adaf697395567ca4c"
+    },
+    {
+      "path": "sources/review-p134a-p151/gemeinschaftsmarke.xml",
+      "bytes": 24983,
+      "sha256": "a0349482622b33f1cedcedde2b94a7b07d3c33e607ce4f8f026b4b2c248668d0"
+    },
+    {
+      "path": "sources/review-p134a-p151/gemeinschaftsmarke.zip",
+      "bytes": 7103,
+      "sha256": "de28e872e3101f81a8f1700bd62a9c26a0a8a2abd3167728a4d3af05ea2ccf0d"
+    },
+    {
+      "path": "sources/review-p134a-p151/index.html",
+      "bytes": 44679,
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae"
+    },
+    {
+      "path": "sources/review-p134a-p151/markeng.xml",
+      "bytes": 343720,
+      "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484"
+    },
+    {
+      "path": "sources/review-p134a-p151/markeng.zip",
+      "bytes": 60854,
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa"
+    },
+    {
+      "path": "sources/review-p134a-p151/owig-10.html",
+      "bytes": 3549,
+      "sha256": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a"
+    },
+    {
+      "path": "sources/review-p134a-p151/owig-10.txt",
+      "bytes": 559,
+      "sha256": "600342f7d84f401c12b29b94ef12f9f7caaf3d50fcd74eae9caea13d870f8f5a"
+    },
+    {
+      "path": "sources/review-p134a-p151/patentanwaltskosten-local.md",
+      "bytes": 22486,
+      "sha256": "a9cb85ad870860a0e5603fa65f36ce5d0ea66428627833a5ee763f23debb8a81"
+    },
+    {
+      "path": "sources/review-p134a-p151/patentanwaltskosten.txt",
+      "bytes": 20330,
+      "sha256": "8ca2cd6baf3a1e8d9eba4a7423adbd0499137e1409f8a6071124cbd11b5fbdf7"
+    },
+    {
+      "path": "sources/review-p134a-p151/patentanwaltskosten.xml",
+      "bytes": 33770,
+      "sha256": "78f49063f86106b3acaba3992316e6fe3f844eac6add59293377d92a8b172d8d"
+    },
+    {
+      "path": "sources/review-p134a-p151/patentanwaltskosten.zip",
+      "bytes": 8008,
+      "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0"
+    },
+    {
+      "path": "sources/review-p134a-p151/prior-review-result.json",
+      "bytes": 28610,
+      "sha256": "cbbab09763b22294295b1121b2664da574db2d1140a9b9c22b781e6354bbb3e9"
+    },
+    {
+      "path": "sources/review-p134a-p151/search-log.json",
+      "bytes": 2533,
+      "sha256": "fc0573cb70320cf3759001645e58bb0eb3df1063ffe64284e181bba9b7c7691b"
+    },
+    {
+      "path": "sources/review-p134a-p151/stgb-15.html",
+      "bytes": 3507,
+      "sha256": "9ec87c2bf0f83260a9ec0bfe7e7ea08b2dff14e71780617fe9ce17067185d10a"
+    },
+    {
+      "path": "sources/review-p134a-p151/stgb-15.txt",
+      "bytes": 519,
+      "sha256": "418b4adc94fc04c99dba73b22ab41ab3cdcd0220fd4336db67d12e4eaea9ff32"
+    },
+    {
+      "path": "sources/review-p134a-p151/uwg-14.html",
+      "bytes": 5706,
+      "sha256": "34ca58c18c69aeddc827094be6095b8a53c77b4051d33efb953588be28731032"
+    },
+    {
+      "path": "sources/review-p134a-p151/uwg-14.txt",
+      "bytes": 2249,
+      "sha256": "07725ef8d42bf7ed4d388d4014ec19ff97f9f2d08e9fbd503c4ff70396c42511"
+    },
+    {
+      "path": "sources/review-p134a-p151/version-excerpts.json",
+      "bytes": 44469,
+      "sha256": "70ecfbaed87dd9af5bee061385e211fefc2f62e835b55ebcbdf8f3d742c813fa"
+    },
+    {
+      "path": "sources/review-p134a-p151/web-search.json",
+      "bytes": 27579,
+      "sha256": "e23f6b6b719994910a104b40d161931aff0e83ffb252e4d740dbbb45f0411e22"
     },
     {
       "path": "sources/review-p19-p34/amendment-2026-152.pdf",
@@ -2130,8 +2285,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 111701,
-      "sha256": "f809c994e23e2013427dd2ceeb2b5e7e8eefbcc6ee2df7417402ecd5197ae931"
+      "bytes": 117591,
+      "sha256": "bf552a00c91a57f5bebffd99359fc18db04eea47c8cf16cb0e89129238785859"
     },
     {
       "path": "sources/werktitel-local.md",

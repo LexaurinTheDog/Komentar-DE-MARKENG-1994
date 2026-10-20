@@ -1,0 +1,24 @@
+§ 14 UWG - Einzelnorm
+zurück
+weiter
+Nichtamtliches Inhaltsverzeichnis
+Gesetz gegen den unlauteren Wettbewerb (UWG)
+§ 14
+Sachliche und örtliche Zuständigkeit; Verordnungsermächtigung
+(1) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, sind die Landgerichte ausschließlich zuständig.
+(2) Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, ist das Gericht zuständig, in dessen Bezirk der Beklagte seinen allgemeinen Gerichtsstand hat. Für alle bürgerlichen Rechtsstreitigkeiten, mit denen ein Anspruch auf Grund dieses Gesetzes geltend gemacht wird, ist außerdem das Gericht zuständig, in dessen Bezirk die Zuwiderhandlung begangen wurde. Satz 2 gilt nicht für
+1.
+Rechtsstreitigkeiten wegen Zuwiderhandlungen im elektronischen Geschäftsverkehr oder in digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes oder
+2.
+Rechtsstreitigkeiten, die von den nach § 8 Absatz 3 Nummer 2 bis 4 zur Geltendmachung eines Unterlassungsanspruchs Berechtigten geltend gemacht werden,
+es sei denn, der Beklagte hat im Inland keinen allgemeinen Gerichtsstand.
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung für die Bezirke mehrerer Landgerichte eines von ihnen als Gericht für Wettbewerbsstreitsachen zu bestimmen, wenn dies der Rechtspflege in Wettbewerbsstreitsachen dienlich ist. Die Landesregierungen können die Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die Länder können außerdem durch Vereinbarung die den Gerichten eines Landes obliegenden Klagen nach Absatz 1 insgesamt oder teilweise dem zuständigen Gericht eines anderen Landes übertragen.
+(4) Abweichend von den Absätzen 1 bis 3 richtet sich die Zuständigkeit für bürgerliche Rechtsstreitigkeiten, mit denen ein Anspruch nach § 9 Absatz 2 Satz 1 geltend gemacht wird, nach den allgemeinen Vorschriften.
+zum Seitenanfang
+Impressum
+Datenschutz
+Barrierefreiheitserklärung
+Feedback-Formular
+<!-- // /* <![CDATA[ */
+        document.write("<div id='relRechts'><a href='javascript:window.print()' class='navBlack'>Seite ausdrucken</a></div>");
+      /* ]]> */ //-->
