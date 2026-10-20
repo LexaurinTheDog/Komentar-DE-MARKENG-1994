@@ -1,7 +1,7 @@
 {
-  "complete": false,
+  "complete": true,
   "task": "bounded_finalize",
-  "assembled_at": "2026-10-20T13:40:26.079509+00:00",
+  "assembled_at": "2026-10-20T13:40:54.741370+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 191,
   "completed_commentary_units": 191,
@@ -16,7 +16,15 @@
   "source_checks": "sources/verification.json",
   "ledger": "batch-review-ledger.json",
   "ledger_sha256": "ae06fe9f4219a5ea1fd9b41d1ff6fe686179b4a38caa63b22b9529d4695de0e9",
-  "validation": null,
+  "validation": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 314995,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
   "completeness": {
     "ok": true,
     "expected": 191,
@@ -27,7 +35,7 @@
     "xml_character_mismatch": []
   },
   "quality": {
-    "checked_output_links": 555,
+    "checked_output_links": 535,
     "broken_links": [],
     "repeated_paragraphs": [],
     "repeated_long_sentences": [],

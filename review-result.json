@@ -1,8 +1,8 @@
 {
-  "complete": false,
+  "complete": true,
   "task": "finalize_from_batch_review_ledger",
   "decisive_date": "2026-10-19",
-  "assembled_at": "2026-10-20T13:40:26.079509+00:00",
+  "assembled_at": "2026-10-20T13:40:54.741370+00:00",
   "units_reviewed": 191,
   "reviewed_ids": [
     "p1",
@@ -3294,6 +3294,14 @@
   ],
   "whole_book_complete": false,
   "independent_whole_book_approval": false,
-  "technical_validation": null,
-  "technical_validation_pending": true
+  "technical_validation": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 314995,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "technical_validation_pending": false
 }

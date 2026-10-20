@@ -86,7 +86,15 @@
     "Current official consolidation and both relevant 2026 promulgation/commencement sources are preserved; later-amendment search is selective, not an exhaustive BGBl pipeline audit.",
     "No new substantive second pass during final assembly; existing completed bounded reviews are aggregated separately."
   ],
-  "technical_validation": null,
+  "technical_validation": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 314995,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
   "bounded_review_recheck": {
     "complete": true,
     "decisive_date": "2026-10-19",

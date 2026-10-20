@@ -1,10 +1,10 @@
 {
-  "stage": "final_assembly_validation_pending",
+  "stage": "drafted_technical_validation",
   "country": "de",
   "identifier": "MarkenG",
   "repo": "Komentar-DE-MARKENG-1994",
   "decisive_date": "2026-10-19",
-  "completed_at": null,
+  "completed_at": "2026-10-20T13:40:54.741370+00:00",
   "total_units": 191,
   "completed_units": 191,
   "chapters": 13,
@@ -165,7 +165,15 @@
       "read_full_text": true
     }
   ],
-  "validation_result": null,
+  "validation_result": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 314995,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
   "completeness_result": {
     "ok": true,
     "missing": [],
@@ -178,7 +186,7 @@
     "covered_paragraph_numbers": 193
   },
   "quality_checks": {
-    "checked_output_links": 555,
+    "checked_output_links": 535,
     "broken_links": [],
     "repeated_paragraphs": [],
     "repeated_long_sentences": [],
@@ -198,7 +206,7 @@
   "publication": "local only; no push or external submission",
   "prior_stage": "drafted_technical_validation",
   "task_scope": "Bounded final assembly from completed review ledger; no new substantive review",
-  "updated_at": "2026-10-20T13:40:26.079509+00:00",
+  "updated_at": "2026-10-20T13:40:54.741370+00:00",
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "All existing commentary blocks built; scope completeness is not whole-book legal approval",
   "covered_paragraph_numbers": 193,
@@ -406,5 +414,5 @@
   "cumulative_reviewed_units": 191,
   "remaining_second_pass_units": 0,
   "finalization_result": "finalization-result.json",
-  "finalization_complete": false
+  "finalization_complete": true
 }
