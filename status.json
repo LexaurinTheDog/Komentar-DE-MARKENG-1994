@@ -54,7 +54,13 @@
     }
   ],
   "validation_result": {
-    "status": "pending_post_build_commit_validation"
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 215941,
+    "errors": [],
+    "warnings": [],
+    "ok": true
   },
   "completeness_result": {
     "ok": true,
@@ -92,5 +98,7 @@
   "preflight_result": "preflight-result.json",
   "completed_units_basis": "Existing commentary blocks present after preserving the official grouped repeal; not a fresh content review.",
   "covered_paragraph_numbers": 193,
-  "case_law_provenance": "Existing case cards and source evidence preserved from prior authoring; not re-researched by this preflight."
+  "case_law_provenance": "Existing case cards and source evidence preserved from prior authoring; not re-researched by this preflight.",
+  "preflight_completed_at": "2026-10-20T11:36:29.881722+00:00",
+  "validation_scope": "Strict build validator plus separate complete raw-XML identifier and character audit; not legal approval of the book."
 }

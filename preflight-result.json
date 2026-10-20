@@ -86,5 +86,16 @@
     "Independent second pass remains pending.",
     "Historical laws continued by transitional references were not reconstructed in full.",
     "Later-law search is selective; no exhaustive legislative pipeline audit claimed."
-  ]
+  ],
+  "technical_validation": {
+    "repo": "Komentar-DE-MARKENG-1994",
+    "units": 191,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 215941,
+    "errors": [],
+    "warnings": [],
+    "ok": true,
+    "independent_xml_coverage_ok": true,
+    "broken_output_links": 0
+  }
 }
