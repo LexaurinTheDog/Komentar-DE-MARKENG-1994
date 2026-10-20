@@ -6,18 +6,25 @@ import json,re,hashlib,collections,sys,difflib,datetime
 W=Path(__file__).resolve().parent
 R=ET.parse(W/'sources/markeng.xml').getroot()
 U=[json.loads(s) for s in (W/'units.jsonl').read_text().splitlines() if s.strip()]
-expected=[];raw={};struct=[];other=[]
+expected=[];raw={};struct=[];other=[];official_labels=[];record_disposition=[]
 compact=lambda s:re.sub(r'\s+','',s)
 for n in R.findall('norm'):
  label=n.findtext('metadaten/enbez') or ''
- if n.find('metadaten/gliederungseinheit') is not None:struct.append(n.attrib['doknr']);continue
+ if n.find('metadaten/gliederungseinheit') is not None:
+  struct.append(n.attrib['doknr']);record_disposition.append(dict(doknr=n.attrib['doknr'],kind='structure'));continue
  if label.startswith('(XXXX)'):
   assert label=='(XXXX) §§ 161 bis 163'
-  expected.extend(['p161','p162','p163']);raw.update({f'p{x}':'(weggefallen)' for x in range(161,164)});continue
+  e=n.find('textdaten/text/Content');assert e is not None and not ''.join(e.itertext()).strip()
+  expected.append('p161-163');official_labels.append(label);raw['p161-163']=n.findtext('metadaten/titel')
+  record_disposition.append(dict(doknr=n.attrib['doknr'],kind='grouped_repeal',label=label,parsed_id='p161-163',text_origin='metadaten/titel; empty operative Content',covered_numbers=['161','162','163']));continue
  m=re.fullmatch(r'§ (\d+[a-z]?)',label)
  if m:
-  ident='p'+m[1];expected.append(ident);e=n.find('textdaten/text/Content');raw[ident]=''.join(e.itertext()) if e is not None else '';continue
+  ident='p'+m[1];expected.append(ident);official_labels.append(label);e=n.find('textdaten/text/Content');raw[ident]=''.join(e.itertext()) if e is not None else ''
+  record_disposition.append(dict(doknr=n.attrib['doknr'],kind='numbered_provision',label=label,parsed_id=ident));continue
+ assert label=='Inhaltsübersicht' or not label,('Unclassified record',label)
+ if not label:assert n.find('textdaten/text/Content') is None, 'Unnumbered operative text requires coverage'
  other.append(dict(doknr=n.attrib['doknr'],label=label or 'Act metadata and introductory footnotes'))
+ record_disposition.append(dict(doknr=n.attrib['doknr'],kind='contents' if label else 'act_metadata_and_introductory_footnotes',label=label))
 ids=[u['id'] for u in U];mismatch=[]
 for u in U:
  if compact(u['text'])!=compact(raw.get(u['id'],'')):mismatch.append(u['id'])
@@ -37,8 +44,9 @@ for ident,s in comments.items():
  for p in re.split(r'(?<=[.!?])\s+',s):
   if len(p)>100:sentences[p].add(ident)
 rs=[dict(sentence=k,ids=sorted(v)) for k,v in sentences.items() if len(v)>1]
-report=dict(checked_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),expected_basis='Independent enumeration of all raw operative XML metadata; no parser import and no copying parsed ids',xml_sha256=hashlib.sha256((W/'sources/markeng.xml').read_bytes()).hexdigest(),expected_ids=expected,parsed_ids=ids,expected_count=len(expected),parsed_count=len(ids),missing=sorted(set(expected)-set(ids)),unexpected=sorted(set(ids)-set(expected)),duplicates=[k for k,v in collections.Counter(ids).items() if v>1],xml_character_mismatch=mismatch,comparison='Exact character sequence after removing whitespace only; grouped repeal §§ 161–163 explicitly expanded',structural_record_count=len(struct),other_records=other,annex_disposition=[dict(label=n.findtext('metadaten/enbez'),handling='Operative annex included') for n in R if 'Anlage' in (n.findtext('metadaten/enbez') or '')] or ['No annex metadata record in complete official XML; no annex entry in official contents'],repealed_slots=[dict(id=u['id'],text=u['text']) for u in U if 'weggefallen' in u['title']],commented_count=len(comments),missing_commentary=sorted(set(ids)-set(comments)),extra_commentary=sorted(set(comments)-set(ids)),duplicate_commentary=duplicates,commentary_characters=sum(map(len,comments.values())),repeated_paragraphs=repeated,repeated_long_sentences=rs)
-report['ok']=not any(report[k] for k in ['missing','unexpected','duplicates','xml_character_mismatch','missing_commentary','extra_commentary','duplicate_commentary','repeated_paragraphs'])
+report=dict(checked_at=datetime.datetime.now(datetime.timezone.utc).isoformat(),expected_basis='Independent enumeration of every raw XML metadata record; grouped repeal preserved, no parser import and no copying parsed ids',xml_sha256=hashlib.sha256((W/'sources/markeng.xml').read_bytes()).hexdigest(),expected_ids=expected,parsed_ids=ids,expected_official_identifiers=official_labels,parsed_official_identifiers=[u['label'] for u in U],expected_count=len(expected),parsed_count=len(ids),covered_paragraph_numbers=sum(3 if x=='p161-163' else 1 for x in expected),missing=sorted(set(expected)-set(ids)),unexpected=sorted(set(ids)-set(expected)),missing_official_identifiers=sorted(set(official_labels)-{u['label'] for u in U}),extra_official_identifiers=sorted({u['label'] for u in U}-set(official_labels)),duplicates=[k for k,v in collections.Counter(ids).items() if v>1],xml_character_mismatch=mismatch,comparison='Exact character sequence after removing whitespace only; the empty grouped repeal uses its actual metadata title (weggefallen), explicitly tagged text_origin.',structural_record_count=len(struct),other_records=other,raw_record_count=len(R.findall('norm')),record_disposition=record_disposition,annex_disposition=[dict(label=n.findtext('metadaten/enbez'),handling='Operative annex included') for n in R if 'Anlage' in (n.findtext('metadaten/enbez') or '')] or ['No annex metadata record in all 224 official XML records; no annex entry in official contents'],repealed_slots=[dict(id=u['id'],text=u['text']) for u in U if 'weggefallen' in u['title']],commented_count=len(comments),missing_commentary=sorted(set(ids)-set(comments)),extra_commentary=sorted(set(comments)-set(ids)),duplicate_commentary=duplicates,commentary_characters=sum(map(len,comments.values())),repeated_paragraphs=repeated,repeated_long_sentences=rs)
+assert len(record_disposition)==len(R.findall('norm'))
+report['ok']=not any(report[k] for k in ['missing','unexpected','missing_official_identifiers','extra_official_identifiers','duplicates','xml_character_mismatch','missing_commentary','extra_commentary','duplicate_commentary','repeated_paragraphs'])
 (W/'completeness-independent.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 # Compare preserved intake provision text, never rewrite intake.
 s=(W/'sources/intake-2026-10-02.md').read_text();hs=list(re.finditer(r'(?m)^#{2,4} (.+)$',s));old={}
@@ -51,7 +59,7 @@ for i,h in enumerate(hs):
 changes=[]
 for u in U:
  if u['id'] in old and compact(old[u['id']])!=compact(u['text']):changes.append(u['id'])
-change=dict(original_intake_path='/Volumes/LaCie/law-intake/eu/de/gesetze/gii-markeng.md',preserved_intake='sources/intake-2026-10-02.md',original_sha256=hashlib.sha256((W/'sources/intake-2026-10-02.md').read_bytes()).hexdigest(),current_xml_sha256=report['xml_sha256'],comparison='All 190 individually headed intake provisions compared after removing whitespace only; three grouped repeal slots separately accounted for',compared_individual_units=len(old),changed_individual_units=changes,grouped_repeal_disposition='Original grouped §§ 161–163 retained as three explicit empty slots, no substantive insertion',statutory_change_since_intake=bool(changes),format_changes=['XML list and paragraph boundaries preserved in canonical Markdown','Official structure separated from operative text','Grouped repeal expanded for individual coverage'],version_note='Both intake and current XML list Art. 14 G v. 20.5.2026 I Nr. 152; commencement independently checked in BGBl. Art. 18(1): 1 October 2026. Earlier Art. 5 G v. 11.1.2026 I Nr. 9 effective 16 January 2026.')
+change=dict(original_intake_path='/Volumes/LaCie/law-intake/eu/de/gesetze/gii-markeng.md',preserved_intake='sources/intake-2026-10-02.md',original_sha256=hashlib.sha256((W/'sources/intake-2026-10-02.md').read_bytes()).hexdigest(),current_xml_sha256=report['xml_sha256'],comparison='All 190 individually headed intake provisions compared after removing whitespace only; grouped §§ 161–163 accounted for as one official record',compared_individual_units=len(old),changed_individual_units=changes,grouped_repeal_disposition='Official grouped §§ 161–163 retained as one unit p161-163; prior parser expanded it into p161/p162/p163, now repaired without deleting the three explanations.',statutory_change_since_intake=bool(changes),format_changes=['XML list and paragraph boundaries preserved in canonical Markdown','Official structure separated from operative text','Official grouped repeal preserved as one record'],parser_id_change_map={'p161':'p161-163','p162':'p161-163','p163':'p161-163'},prior_parser_snapshot='sources/preflight-2026-10-20/prior-parser/',version_note='Both intake and current XML list Art. 14 G v. 20.5.2026 I Nr. 152; commencement checked in BGBl. Art. 18(1): 1 October 2026. Earlier Art. 5 G v. 11.1.2026 I Nr. 9 effective 16 January 2026.')
 (W/'sources/change-map.json').write_text(json.dumps(change,ensure_ascii=False,indent=2)+'\n')
 # Output links in authored pages (raw source snapshots are evidence, not authored navigation).
 meta=json.loads((W/'meta.json').read_text());out=Path(meta['repo_dir']);broken=[];links=0

@@ -36,12 +36,12 @@ Absatz 2 ordnet für die bezeichnete Gruppe mit spätestens zwölf Monate nach d
 Absatz 1 erhält für die bezeichneten Straftaten und Ordnungswidrigkeiten bei Aufhebung oder Nichtanwendbarkeit einer in Bezug genommenen Unionsnorm grundsätzlich die Ahndung nach dem Tatzeitrecht. Der Wortlaut benennt hierfür ausdrücklich die Abweichung von den bezeichneten allgemeinen Regeln. Das verhindert, dass eine technische Umgestaltung des Unionsrechts ohne Prüfung der Übergangsvorschrift als automatische Straflosigkeit aller Altfälle behandelt wird.
 
 Absatz 2 ermächtigt zur Anpassung innerstaatlicher Verweise an geänderte oder inhaltsgleich ersetzte Unionsvorschriften. Fiktiv wird ein im Bußgeldtatbestand genannter Unionsartikel später neu geordnet. Für eine frühere Handlung sind Tatzeit, damaliger Verweis und der konkrete Änderungsgrund zu bestimmen. § 160 ist kein Freibrief für rückwirkende Erweiterung des Tatbestands über seine Wortlautgrenzen. Die Ermächtigung erlaubt Verweisanpassung im bezeichneten Umfang, nicht die beliebige Schaffung neuer Sanktionen. Wegen der besonderen zeitlichen und strafrechtlichen Fragen ist der konkrete Unionsakt gesondert anhand seiner amtlichen Fassungen zu prüfen.
-=== p161
-§ 161 ist weggefallen. Die amtliche XML fasst §§ 161 bis 163 in einem gemeinsamen Wegfallvermerk zusammen; für die vollständige Einzelabdeckung wird die Nummer hier gesondert geführt. Es besteht daraus kein eigenständiger heutiger Tatbestand. Für ältere Sachverhalte müsste die damals maßgebliche Fassung gesondert ermittelt werden.
-=== p162
-Auch § 162 gehört zum amtlichen Sammelvermerk „§§ 161 bis 163 (weggefallen)“. Die Nummer bleibt als ausdrücklicher leerer Platz dokumentiert, damit ein fehlender operativer Text nicht als Parserverlust missverstanden wird. Aktuelle Übergangsfragen sind anhand der fortbestehenden §§ 152 bis 160 zu prüfen, nicht durch Rekonstruktion einer vermeintlichen heutigen Regel des § 162.
-=== p163
-Der Wegfall des § 163 ist zusammen mit §§ 161 und 162 amtlich ausgewiesen. Die Einzelkennzeichnung dient der Nachprüfbarkeit der gesetzlichen Nummernfolge. Ein alter Verweis auf § 163 muss nach seinem zeitlichen Kontext untersucht werden; aus dem heutigen Wegfallvermerk lässt sich der damalige Regelungsinhalt weder bestätigen noch ergänzen.
+=== p161-163
+§ 161 ist weggefallen. Die amtliche XML fasst §§ 161 bis 163 in einem gemeinsamen Wegfallvermerk zusammen; diese Gruppierung wird als eine Einheit beibehalten. Es besteht daraus kein eigenständiger heutiger Tatbestand. Für ältere Sachverhalte müsste die damals maßgebliche Fassung gesondert ermittelt werden.
+
+Auch § 162 gehört zum amtlichen Sammelvermerk „§§ 161 bis 163 (weggefallen)“. Die Nummer bleibt als ausdrücklicher leerer Platz innerhalb dieser Gruppe dokumentiert, damit ein fehlender operativer Text nicht als Parserverlust missverstanden wird. Aktuelle Übergangsfragen sind anhand der fortbestehenden §§ 152 bis 160 zu prüfen, nicht durch Rekonstruktion einer vermeintlichen heutigen Regel des § 162.
+
+Der Wegfall des § 163 ist zusammen mit §§ 161 und 162 amtlich ausgewiesen. Die Kennzeichnung dient der Nachprüfbarkeit der gesetzlichen Nummernfolge. Ein alter Verweis auf § 163 muss nach seinem zeitlichen Kontext untersucht werden; aus dem heutigen Wegfallvermerk lässt sich der damalige Regelungsinhalt weder bestätigen noch ergänzen.
 === p164
 § 164 ist in den amtlichen Metadaten als weggefallen bezeichnet; der Textdatensatz enthält lediglich einen Gedankenstrich beziehungsweise Leerplatzmarker. Dieser Marker ist mechanisch übernommen und keine materielle Vorschrift. Die Nummer wird vollständig nachgewiesen, ohne einen nicht mehr vorhandenen Inhalt zu erfinden.
 

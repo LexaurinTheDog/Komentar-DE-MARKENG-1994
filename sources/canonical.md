@@ -2663,15 +2663,7 @@ Ist vor dem 1. Januar 1995 ein Verfahren von Amts wegen zur Löschung der Eintra
 1. der Europäischen Union ändern, soweit es zur Anpassung an eine Änderung dieser Vorschrift erforderlich ist,
 2. der Europäischen Union, die durch eine inhaltsgleiche Vorschrift der Europäischen Union ersetzt worden ist, durch den Verweis auf die ersetzende Vorschrift anpassen.
 
-### § 161 — (weggefallen)
-
-(weggefallen)
-
-### § 162 — (weggefallen)
-
-(weggefallen)
-
-### § 163 — (weggefallen)
+### (XXXX) §§ 161 bis 163 — (weggefallen)
 
 (weggefallen)
 

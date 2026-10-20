@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-19T16:04:22.272847+00:00",
+  "created_at": "2026-10-20T11:35:56.262262+00:00",
   "primary_statute": "markeng.xml",
   "canonical_statute": "canonical.md",
   "files": [
@@ -30,13 +30,13 @@
     },
     {
       "path": "sources/canonical.md",
-      "bytes": 217893,
-      "sha256": "be762f262f52fdc47360c42a5219266174ece3eaa3826a4d848ac13d4bec1588"
+      "bytes": 217820,
+      "sha256": "c0c7a75da5e3dd05ec3f7d5b1b7a5fe457643cdc275e7b0504c86bcb378f2338"
     },
     {
       "path": "sources/change-map.json",
-      "bytes": 1159,
-      "sha256": "81823f8ac04569df437b8193ff4e1bfb53e3b10443b8c691d02c8f066aae54c2"
+      "bytes": 1396,
+      "sha256": "c873aeb11d248cda262fb15984024bd07757e83495aaa685d5070f33e1feb04a"
     },
     {
       "path": "sources/dachser-local.md",
@@ -67,6 +67,11 @@
       "path": "sources/intake-2026-10-02.md",
       "bytes": 228763,
       "sha256": "f0f08aec140ce600b08b97b6995423c2d471c6667d30532f40ae2a3a29fece86"
+    },
+    {
+      "path": "sources/introductory-notes.md",
+      "bytes": 465,
+      "sha256": "4673ea4da657d49638dd483d2c7a7a0f24aae1a364f10b47a94d4b016c5726dc"
     },
     {
       "path": "sources/markeng.xml",
@@ -104,6 +109,136 @@
       "sha256": "f3ce95dd61d150449e2ad88e9d509c7411263ed997a0559303612935b66d86e0"
     },
     {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "bytes": 371774,
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.txt",
+      "bytes": 37646,
+      "sha256": "7f451fb603a8a25c5e911e94dbbfd317effd9d9d4b85a8629964f3bc132f1652"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-9.pdf",
+      "bytes": 748171,
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/amendment-2026-9.txt",
+      "bytes": 166215,
+      "sha256": "968e2d7c8c7f171fe5912cdcf4926703f6e8abd3c2824d5d4acf0fa80a71cbfe"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/delegated-regulation-2026-50.pdf",
+      "bytes": 288422,
+      "sha256": "a69f584c537e3418cb0538969648a6169575e4ba1718872359a9842e936b8611"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/delegated-regulation-2026-50.txt",
+      "bytes": 12686,
+      "sha256": "b0fcd79483db161d4e09b8fabfc4578ab1e47e254da9f8c78b0dbc0e72ce8a1a"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/fetches.json",
+      "bytes": 3078,
+      "sha256": "58b9fb5b40dea28163d8200a98a1d72101c9059c7d23796aa6f2c7032e193b15"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/full.html",
+      "bytes": 395683,
+      "sha256": "53a37fac2b6d3ba78186abd25a2dc1cc2df62a55b75f56563521e75c8509396d"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/index.html",
+      "bytes": 44679,
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/markeng.xml",
+      "bytes": 343720,
+      "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/markeng.zip",
+      "bytes": 60854,
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/preflight-2026-10-20-amendments.json",
+      "bytes": 1306,
+      "sha256": "396cf8b415073a1ce2f4bd7249490c00ceb71e39025605e1e1903e44f30e0852"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/preflight-2026-10-20-index.md",
+      "bytes": 32097,
+      "sha256": "0c0501324fb70a2809ab9667aa57dfcd5f77e16ed87882e93ebd0fd7244b2f90"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/preflight-2026-10-20-stand.json",
+      "bytes": 300,
+      "sha256": "d03cf73e3a83611e4e4558a150b14fd0276770e51befe57afc7907efe8984f48"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/README.md",
+      "bytes": 4923,
+      "sha256": "5a7e522d4c48924d97cbfaaa403adf224086d08c567ce3456205ce37385a3ebe"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/REVIEW.md",
+      "bytes": 2871,
+      "sha256": "050c3e7b7d70593ef294c896347bf3fa590256145241bcf74c5831cd32808c53"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/SOURCES.md",
+      "bytes": 3963,
+      "sha256": "df8429fb64a5213101dbc9a10089111ac33382b33f27909f91b40be0ec1c1714"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/_audit.py",
+      "bytes": 6876,
+      "sha256": "0342266712f219b36e4f4defe27b71834d621aa8b44677775987954846e86735"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/_parse.py",
+      "bytes": 5890,
+      "sha256": "b1191236452c33e2c37808e063752e31dea5345f8095d65f00d9ba6bb103c766"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/canonical.md",
+      "bytes": 217893,
+      "sha256": "be762f262f52fdc47360c42a5219266174ece3eaa3826a4d848ac13d4bec1588"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/commentary-part-12.md",
+      "bytes": 12294,
+      "sha256": "6bbcff320d1a68c5a07b9d99820d92687ca465880af75acef14196ec7c81551a"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/completeness-independent.json",
+      "bytes": 5878,
+      "sha256": "eedc73f480936385852b1d486842214f64f6619850439a1ab7d675b8a8418dc3"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/completeness.json",
+      "bytes": 5526,
+      "sha256": "9ee712784f14cc6f289e128699f7524572006d2a224091a87a4f0fe01d0e7887"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/meta.json",
+      "bytes": 1965,
+      "sha256": "c2d1bc5a64324f5586e0400a5ac31280798240d80f367f5651cae84604b2f613"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/status.json",
+      "bytes": 2912,
+      "sha256": "46412ac1818fd821bb0b9e6c69cdf36fcfa7fc3a648549947cd5e31b80556738"
+    },
+    {
+      "path": "sources/preflight-2026-10-20/prior-parser/units.jsonl",
+      "bytes": 265170,
+      "sha256": "c4711f153bc3c779b36dea8e8cc7339a47ebb29ec95c324f3444dce97d62ade9"
+    },
+    {
       "path": "sources/search-amendments.json",
       "bytes": 961,
       "sha256": "8e9837a58564d895845c3bd7eb1d850461745cd956c0a5a33b641c391f1d2d72"
@@ -120,8 +255,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 6686,
-      "sha256": "182868e7370496624ab6eb72c2f025c972cdbf08b9717adcee98f09398d9985e"
+      "bytes": 13096,
+      "sha256": "e76b594f6c0198109296d25b69e0f631add0ba70270dda797ce88e62e5eba6db"
     },
     {
       "path": "sources/werktitel-local.md",

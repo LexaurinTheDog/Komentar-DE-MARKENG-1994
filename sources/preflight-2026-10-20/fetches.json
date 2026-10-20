@@ -1,0 +1,61 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/",
+    "accessed_at": "2026-10-20T11:31:11.048594+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+    "path": "sources/preflight-2026-10-20/index.html",
+    "format_validation": "HTML signature and expected MarkenG title checked"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "accessed_at": "2026-10-20T11:31:11.309540+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+    "path": "sources/preflight-2026-10-20/markeng.zip",
+    "format_validation": "ZIP CRC verified; single BJNR308210994.xml parsed as dokumente; jurabk/amtabk MarkenG"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/markeng/BJNR308210994.html",
+    "final_url": "https://www.gesetze-im-internet.de/markeng/BJNR308210994.html",
+    "accessed_at": "2026-10-20T11:31:11.494244+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "53a37fac2b6d3ba78186abd25a2dc1cc2df62a55b75f56563521e75c8509396d",
+    "path": "sources/preflight-2026-10-20/full.html",
+    "format_validation": "HTML signature and expected MarkenG title checked"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:31:11.787979+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+    "path": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+    "format_validation": "PDF magic and EOF checked; complete text extraction follows"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+    "accessed_at": "2026-10-20T11:31:12.057652+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+    "path": "sources/preflight-2026-10-20/amendment-2026-9.pdf",
+    "format_validation": "PDF magic and EOF checked; complete text extraction follows"
+  },
+  {
+    "url": "https://www.recht.bund.de/bgbl/1/2026/50/regelungstext.pdf?__blob=publicationFile",
+    "accessed_at": "2026-10-20T11:33:28.741626+00:00",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "path": "sources/preflight-2026-10-20/delegated-regulation-2026-50.pdf",
+    "sha256": "a69f584c537e3418cb0538969648a6169575e4ba1718872359a9842e936b8611",
+    "format_validation": "PDF magic and EOF checked; full text extracted for title and scope"
+  }
+]

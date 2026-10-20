@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-10-19T16:04:51.085317+00:00",
-  "expected_basis": "Independent enumeration of all raw operative XML metadata; no parser import and no copying parsed ids",
+  "checked_at": "2026-10-20T11:35:20.277085+00:00",
+  "expected_basis": "Independent enumeration of every raw XML metadata record; grouped repeal preserved, no parser import and no copying parsed ids",
   "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
   "expected_ids": [
     "p1",
@@ -192,9 +192,7 @@
     "p158",
     "p159",
     "p160",
-    "p161",
-    "p162",
-    "p163",
+    "p161-163",
     "p164"
   ],
   "parsed_ids": [
@@ -387,18 +385,405 @@
     "p158",
     "p159",
     "p160",
-    "p161",
-    "p162",
-    "p163",
+    "p161-163",
     "p164"
   ],
-  "expected_count": 193,
-  "parsed_count": 193,
+  "expected_official_identifiers": [
+    "§ 1",
+    "§ 2",
+    "§ 3",
+    "§ 4",
+    "§ 5",
+    "§ 6",
+    "§ 6a",
+    "§ 7",
+    "§ 8",
+    "§ 9",
+    "§ 10",
+    "§ 11",
+    "§ 12",
+    "§ 13",
+    "§ 14",
+    "§ 14a",
+    "§ 15",
+    "§ 16",
+    "§ 17",
+    "§ 18",
+    "§ 19",
+    "§ 19a",
+    "§ 19b",
+    "§ 19c",
+    "§ 19d",
+    "§ 20",
+    "§ 21",
+    "§ 22",
+    "§ 23",
+    "§ 24",
+    "§ 25",
+    "§ 26",
+    "§ 27",
+    "§ 28",
+    "§ 29",
+    "§ 30",
+    "§ 31",
+    "§ 32",
+    "§ 33",
+    "§ 34",
+    "§ 35",
+    "§ 36",
+    "§ 37",
+    "§ 38",
+    "§ 39",
+    "§ 40",
+    "§ 41",
+    "§ 42",
+    "§ 43",
+    "§ 44",
+    "§ 45",
+    "§ 46",
+    "§ 47",
+    "§ 48",
+    "§ 49",
+    "§ 50",
+    "§ 51",
+    "§ 52",
+    "§ 53",
+    "§ 54",
+    "§ 55",
+    "§ 56",
+    "§ 57",
+    "§ 58",
+    "§ 59",
+    "§ 60",
+    "§ 61",
+    "§ 62",
+    "§ 62a",
+    "§ 63",
+    "§ 64",
+    "§ 64a",
+    "§ 65",
+    "§ 65a",
+    "§ 66",
+    "§ 67",
+    "§ 68",
+    "§ 69",
+    "§ 70",
+    "§ 71",
+    "§ 72",
+    "§ 73",
+    "§ 74",
+    "§ 75",
+    "§ 76",
+    "§ 77",
+    "§ 78",
+    "§ 79",
+    "§ 80",
+    "§ 81",
+    "§ 81a",
+    "§ 82",
+    "§ 83",
+    "§ 84",
+    "§ 85",
+    "§ 86",
+    "§ 87",
+    "§ 88",
+    "§ 89",
+    "§ 89a",
+    "§ 90",
+    "§ 91",
+    "§ 91a",
+    "§ 92",
+    "§ 93",
+    "§ 93a",
+    "§ 94",
+    "§ 95",
+    "§ 95a",
+    "§ 96",
+    "§ 96a",
+    "§ 97",
+    "§ 98",
+    "§ 99",
+    "§ 100",
+    "§ 101",
+    "§ 102",
+    "§ 103",
+    "§ 104",
+    "§ 105",
+    "§ 106",
+    "§ 106a",
+    "§ 106b",
+    "§ 106c",
+    "§ 106d",
+    "§ 106e",
+    "§ 106f",
+    "§ 106g",
+    "§ 106h",
+    "§ 107",
+    "§ 108",
+    "§ 109",
+    "§ 110",
+    "§ 111",
+    "§ 112",
+    "§ 113",
+    "§ 114",
+    "§ 115",
+    "§ 116",
+    "§ 117",
+    "§ 118",
+    "§ 119",
+    "§ 120",
+    "§ 121",
+    "§ 122",
+    "§ 123",
+    "§ 124",
+    "§ 125",
+    "§ 125a",
+    "§ 126",
+    "§ 127",
+    "§ 128",
+    "§ 129",
+    "§ 129a",
+    "§ 130",
+    "§ 131",
+    "§ 132",
+    "§ 132a",
+    "§ 133",
+    "§ 134",
+    "§ 134a",
+    "§ 134b",
+    "§ 135",
+    "§ 136",
+    "§ 137",
+    "§ 138",
+    "§ 139",
+    "§ 140",
+    "§ 141",
+    "§ 142",
+    "§ 143",
+    "§ 144",
+    "§ 145",
+    "§ 145a",
+    "§ 146",
+    "§ 147",
+    "§ 148",
+    "§ 149",
+    "§ 150",
+    "§ 151",
+    "§ 152",
+    "§ 153",
+    "§ 154",
+    "§ 155",
+    "§ 156",
+    "§ 157",
+    "§ 158",
+    "§ 159",
+    "§ 160",
+    "(XXXX) §§ 161 bis 163",
+    "§ 164"
+  ],
+  "parsed_official_identifiers": [
+    "§ 1",
+    "§ 2",
+    "§ 3",
+    "§ 4",
+    "§ 5",
+    "§ 6",
+    "§ 6a",
+    "§ 7",
+    "§ 8",
+    "§ 9",
+    "§ 10",
+    "§ 11",
+    "§ 12",
+    "§ 13",
+    "§ 14",
+    "§ 14a",
+    "§ 15",
+    "§ 16",
+    "§ 17",
+    "§ 18",
+    "§ 19",
+    "§ 19a",
+    "§ 19b",
+    "§ 19c",
+    "§ 19d",
+    "§ 20",
+    "§ 21",
+    "§ 22",
+    "§ 23",
+    "§ 24",
+    "§ 25",
+    "§ 26",
+    "§ 27",
+    "§ 28",
+    "§ 29",
+    "§ 30",
+    "§ 31",
+    "§ 32",
+    "§ 33",
+    "§ 34",
+    "§ 35",
+    "§ 36",
+    "§ 37",
+    "§ 38",
+    "§ 39",
+    "§ 40",
+    "§ 41",
+    "§ 42",
+    "§ 43",
+    "§ 44",
+    "§ 45",
+    "§ 46",
+    "§ 47",
+    "§ 48",
+    "§ 49",
+    "§ 50",
+    "§ 51",
+    "§ 52",
+    "§ 53",
+    "§ 54",
+    "§ 55",
+    "§ 56",
+    "§ 57",
+    "§ 58",
+    "§ 59",
+    "§ 60",
+    "§ 61",
+    "§ 62",
+    "§ 62a",
+    "§ 63",
+    "§ 64",
+    "§ 64a",
+    "§ 65",
+    "§ 65a",
+    "§ 66",
+    "§ 67",
+    "§ 68",
+    "§ 69",
+    "§ 70",
+    "§ 71",
+    "§ 72",
+    "§ 73",
+    "§ 74",
+    "§ 75",
+    "§ 76",
+    "§ 77",
+    "§ 78",
+    "§ 79",
+    "§ 80",
+    "§ 81",
+    "§ 81a",
+    "§ 82",
+    "§ 83",
+    "§ 84",
+    "§ 85",
+    "§ 86",
+    "§ 87",
+    "§ 88",
+    "§ 89",
+    "§ 89a",
+    "§ 90",
+    "§ 91",
+    "§ 91a",
+    "§ 92",
+    "§ 93",
+    "§ 93a",
+    "§ 94",
+    "§ 95",
+    "§ 95a",
+    "§ 96",
+    "§ 96a",
+    "§ 97",
+    "§ 98",
+    "§ 99",
+    "§ 100",
+    "§ 101",
+    "§ 102",
+    "§ 103",
+    "§ 104",
+    "§ 105",
+    "§ 106",
+    "§ 106a",
+    "§ 106b",
+    "§ 106c",
+    "§ 106d",
+    "§ 106e",
+    "§ 106f",
+    "§ 106g",
+    "§ 106h",
+    "§ 107",
+    "§ 108",
+    "§ 109",
+    "§ 110",
+    "§ 111",
+    "§ 112",
+    "§ 113",
+    "§ 114",
+    "§ 115",
+    "§ 116",
+    "§ 117",
+    "§ 118",
+    "§ 119",
+    "§ 120",
+    "§ 121",
+    "§ 122",
+    "§ 123",
+    "§ 124",
+    "§ 125",
+    "§ 125a",
+    "§ 126",
+    "§ 127",
+    "§ 128",
+    "§ 129",
+    "§ 129a",
+    "§ 130",
+    "§ 131",
+    "§ 132",
+    "§ 132a",
+    "§ 133",
+    "§ 134",
+    "§ 134a",
+    "§ 134b",
+    "§ 135",
+    "§ 136",
+    "§ 137",
+    "§ 138",
+    "§ 139",
+    "§ 140",
+    "§ 141",
+    "§ 142",
+    "§ 143",
+    "§ 144",
+    "§ 145",
+    "§ 145a",
+    "§ 146",
+    "§ 147",
+    "§ 148",
+    "§ 149",
+    "§ 150",
+    "§ 151",
+    "§ 152",
+    "§ 153",
+    "§ 154",
+    "§ 155",
+    "§ 156",
+    "§ 157",
+    "§ 158",
+    "§ 159",
+    "§ 160",
+    "(XXXX) §§ 161 bis 163",
+    "§ 164"
+  ],
+  "expected_count": 191,
+  "parsed_count": 191,
+  "covered_paragraph_numbers": 193,
   "missing": [],
   "unexpected": [],
+  "missing_official_identifiers": [],
+  "extra_official_identifiers": [],
   "duplicates": [],
   "xml_character_mismatch": [],
-  "comparison": "Exact character sequence after removing whitespace only; grouped repeal §§ 161–163 explicitly expanded",
+  "comparison": "Exact character sequence after removing whitespace only; the empty grouped repeal uses its actual metadata title (weggefallen), explicitly tagged text_origin.",
   "structural_record_count": 31,
   "other_records": [
     {
@@ -410,20 +795,1301 @@
       "label": "Inhaltsübersicht"
     }
   ],
+  "raw_record_count": 224,
+  "record_disposition": [
+    {
+      "doknr": "BJNR308210994",
+      "kind": "act_metadata_and_introductory_footnotes",
+      "label": ""
+    },
+    {
+      "doknr": "BJNR308210994BJNE000126129",
+      "kind": "contents",
+      "label": "Inhaltsübersicht"
+    },
+    {
+      "doknr": "BJNR308210994BJNG018500000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE000200000",
+      "kind": "numbered_provision",
+      "label": "§ 1",
+      "parsed_id": "p1"
+    },
+    {
+      "doknr": "BJNR308210994BJNE000300000",
+      "kind": "numbered_provision",
+      "label": "§ 2",
+      "parsed_id": "p2"
+    },
+    {
+      "doknr": "BJNR308210994BJNG018601129",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNG000400000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE000501360",
+      "kind": "numbered_provision",
+      "label": "§ 3",
+      "parsed_id": "p3"
+    },
+    {
+      "doknr": "BJNR308210994BJNE000602129",
+      "kind": "numbered_provision",
+      "label": "§ 4",
+      "parsed_id": "p4"
+    },
+    {
+      "doknr": "BJNR308210994BJNE000700000",
+      "kind": "numbered_provision",
+      "label": "§ 5",
+      "parsed_id": "p5"
+    },
+    {
+      "doknr": "BJNR308210994BJNE000800000",
+      "kind": "numbered_provision",
+      "label": "§ 6",
+      "parsed_id": "p6"
+    },
+    {
+      "doknr": "BJNR308210994BJNG020000129",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022100129",
+      "kind": "numbered_provision",
+      "label": "§ 6a",
+      "parsed_id": "p6a"
+    },
+    {
+      "doknr": "BJNR308210994BJNG000900000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001000000",
+      "kind": "numbered_provision",
+      "label": "§ 7",
+      "parsed_id": "p7"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001104360",
+      "kind": "numbered_provision",
+      "label": "§ 8",
+      "parsed_id": "p8"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001202360",
+      "kind": "numbered_provision",
+      "label": "§ 9",
+      "parsed_id": "p9"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001300000",
+      "kind": "numbered_provision",
+      "label": "§ 10",
+      "parsed_id": "p10"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001401360",
+      "kind": "numbered_provision",
+      "label": "§ 11",
+      "parsed_id": "p11"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001500000",
+      "kind": "numbered_provision",
+      "label": "§ 12",
+      "parsed_id": "p12"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001600000",
+      "kind": "numbered_provision",
+      "label": "§ 13",
+      "parsed_id": "p13"
+    },
+    {
+      "doknr": "BJNR308210994BJNG001700000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001803129",
+      "kind": "numbered_provision",
+      "label": "§ 14",
+      "parsed_id": "p14"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021001129",
+      "kind": "numbered_provision",
+      "label": "§ 14a",
+      "parsed_id": "p14a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE001901140",
+      "kind": "numbered_provision",
+      "label": "§ 15",
+      "parsed_id": "p15"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002000000",
+      "kind": "numbered_provision",
+      "label": "§ 16",
+      "parsed_id": "p16"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002101360",
+      "kind": "numbered_provision",
+      "label": "§ 17",
+      "parsed_id": "p17"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002201140",
+      "kind": "numbered_provision",
+      "label": "§ 18",
+      "parsed_id": "p18"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002303360",
+      "kind": "numbered_provision",
+      "label": "§ 19",
+      "parsed_id": "p19"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020300140",
+      "kind": "numbered_provision",
+      "label": "§ 19a",
+      "parsed_id": "p19a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020400140",
+      "kind": "numbered_provision",
+      "label": "§ 19b",
+      "parsed_id": "p19b"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020500140",
+      "kind": "numbered_provision",
+      "label": "§ 19c",
+      "parsed_id": "p19c"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020600140",
+      "kind": "numbered_provision",
+      "label": "§ 19d",
+      "parsed_id": "p19d"
+    },
+    {
+      "doknr": "BJNR308210994BJNG002400000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002502140",
+      "kind": "numbered_provision",
+      "label": "§ 20",
+      "parsed_id": "p20"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002600000",
+      "kind": "numbered_provision",
+      "label": "§ 21",
+      "parsed_id": "p21"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002702129",
+      "kind": "numbered_provision",
+      "label": "§ 22",
+      "parsed_id": "p22"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002801360",
+      "kind": "numbered_provision",
+      "label": "§ 23",
+      "parsed_id": "p23"
+    },
+    {
+      "doknr": "BJNR308210994BJNE002900000",
+      "kind": "numbered_provision",
+      "label": "§ 24",
+      "parsed_id": "p24"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003002360",
+      "kind": "numbered_provision",
+      "label": "§ 25",
+      "parsed_id": "p25"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003102129",
+      "kind": "numbered_provision",
+      "label": "§ 26",
+      "parsed_id": "p26"
+    },
+    {
+      "doknr": "BJNR308210994BJNG003200000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003304360",
+      "kind": "numbered_provision",
+      "label": "§ 27",
+      "parsed_id": "p27"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003402360",
+      "kind": "numbered_provision",
+      "label": "§ 28",
+      "parsed_id": "p28"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003503360",
+      "kind": "numbered_provision",
+      "label": "§ 29",
+      "parsed_id": "p29"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003601360",
+      "kind": "numbered_provision",
+      "label": "§ 30",
+      "parsed_id": "p30"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003700000",
+      "kind": "numbered_provision",
+      "label": "§ 31",
+      "parsed_id": "p31"
+    },
+    {
+      "doknr": "BJNR308210994BJNG018700000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNG003800000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE003904360",
+      "kind": "numbered_provision",
+      "label": "§ 32",
+      "parsed_id": "p32"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004006360",
+      "kind": "numbered_provision",
+      "label": "§ 33",
+      "parsed_id": "p33"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004102360",
+      "kind": "numbered_provision",
+      "label": "§ 34",
+      "parsed_id": "p34"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004203360",
+      "kind": "numbered_provision",
+      "label": "§ 35",
+      "parsed_id": "p35"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004302360",
+      "kind": "numbered_provision",
+      "label": "§ 36",
+      "parsed_id": "p36"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004402360",
+      "kind": "numbered_provision",
+      "label": "§ 37",
+      "parsed_id": "p37"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004501377",
+      "kind": "numbered_provision",
+      "label": "§ 38",
+      "parsed_id": "p38"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004600000",
+      "kind": "numbered_provision",
+      "label": "§ 39",
+      "parsed_id": "p39"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004702123",
+      "kind": "numbered_provision",
+      "label": "§ 40",
+      "parsed_id": "p40"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004801123",
+      "kind": "numbered_provision",
+      "label": "§ 41",
+      "parsed_id": "p41"
+    },
+    {
+      "doknr": "BJNR308210994BJNE004905129",
+      "kind": "numbered_provision",
+      "label": "§ 42",
+      "parsed_id": "p42"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005001360",
+      "kind": "numbered_provision",
+      "label": "§ 43",
+      "parsed_id": "p43"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005100000",
+      "kind": "numbered_provision",
+      "label": "§ 44",
+      "parsed_id": "p44"
+    },
+    {
+      "doknr": "BJNR308210994BJNG005200000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005300000",
+      "kind": "numbered_provision",
+      "label": "§ 45",
+      "parsed_id": "p45"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005403360",
+      "kind": "numbered_provision",
+      "label": "§ 46",
+      "parsed_id": "p46"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005503360",
+      "kind": "numbered_provision",
+      "label": "§ 47",
+      "parsed_id": "p47"
+    },
+    {
+      "doknr": "BJNR308210994BJNG005601360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005700000",
+      "kind": "numbered_provision",
+      "label": "§ 48",
+      "parsed_id": "p48"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005801360",
+      "kind": "numbered_provision",
+      "label": "§ 49",
+      "parsed_id": "p49"
+    },
+    {
+      "doknr": "BJNR308210994BJNE005902360",
+      "kind": "numbered_provision",
+      "label": "§ 50",
+      "parsed_id": "p50"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006002129",
+      "kind": "numbered_provision",
+      "label": "§ 51",
+      "parsed_id": "p51"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006101360",
+      "kind": "numbered_provision",
+      "label": "§ 52",
+      "parsed_id": "p52"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006202129",
+      "kind": "numbered_provision",
+      "label": "§ 53",
+      "parsed_id": "p53"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006302360",
+      "kind": "numbered_provision",
+      "label": "§ 54",
+      "parsed_id": "p54"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006404129",
+      "kind": "numbered_provision",
+      "label": "§ 55",
+      "parsed_id": "p55"
+    },
+    {
+      "doknr": "BJNR308210994BJNG006501360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006601360",
+      "kind": "numbered_provision",
+      "label": "§ 56",
+      "parsed_id": "p56"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006701360",
+      "kind": "numbered_provision",
+      "label": "§ 57",
+      "parsed_id": "p57"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006802360",
+      "kind": "numbered_provision",
+      "label": "§ 58",
+      "parsed_id": "p58"
+    },
+    {
+      "doknr": "BJNR308210994BJNE006901360",
+      "kind": "numbered_provision",
+      "label": "§ 59",
+      "parsed_id": "p59"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007002360",
+      "kind": "numbered_provision",
+      "label": "§ 60",
+      "parsed_id": "p60"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007102123",
+      "kind": "numbered_provision",
+      "label": "§ 61",
+      "parsed_id": "p61"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007206129",
+      "kind": "numbered_provision",
+      "label": "§ 62",
+      "parsed_id": "p62"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020900123",
+      "kind": "numbered_provision",
+      "label": "§ 62a",
+      "parsed_id": "p62a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007305360",
+      "kind": "numbered_provision",
+      "label": "§ 63",
+      "parsed_id": "p63"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007403360",
+      "kind": "numbered_provision",
+      "label": "§ 64",
+      "parsed_id": "p64"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019501360",
+      "kind": "numbered_provision",
+      "label": "§ 64a",
+      "parsed_id": "p64a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007508360",
+      "kind": "numbered_provision",
+      "label": "§ 65",
+      "parsed_id": "p65"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021100360",
+      "kind": "numbered_provision",
+      "label": "§ 65a",
+      "parsed_id": "p65a"
+    },
+    {
+      "doknr": "BJNR308210994BJNG007601360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007704360",
+      "kind": "numbered_provision",
+      "label": "§ 66",
+      "parsed_id": "p66"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007801360",
+      "kind": "numbered_provision",
+      "label": "§ 67",
+      "parsed_id": "p67"
+    },
+    {
+      "doknr": "BJNR308210994BJNE007901360",
+      "kind": "numbered_provision",
+      "label": "§ 68",
+      "parsed_id": "p68"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008001360",
+      "kind": "numbered_provision",
+      "label": "§ 69",
+      "parsed_id": "p69"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008101360",
+      "kind": "numbered_provision",
+      "label": "§ 70",
+      "parsed_id": "p70"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008203360",
+      "kind": "numbered_provision",
+      "label": "§ 71",
+      "parsed_id": "p71"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008301360",
+      "kind": "numbered_provision",
+      "label": "§ 72",
+      "parsed_id": "p72"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008401360",
+      "kind": "numbered_provision",
+      "label": "§ 73",
+      "parsed_id": "p73"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008501360",
+      "kind": "numbered_provision",
+      "label": "§ 74",
+      "parsed_id": "p74"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008600000",
+      "kind": "numbered_provision",
+      "label": "§ 75",
+      "parsed_id": "p75"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008701360",
+      "kind": "numbered_provision",
+      "label": "§ 76",
+      "parsed_id": "p76"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008800000",
+      "kind": "numbered_provision",
+      "label": "§ 77",
+      "parsed_id": "p77"
+    },
+    {
+      "doknr": "BJNR308210994BJNE008901360",
+      "kind": "numbered_provision",
+      "label": "§ 78",
+      "parsed_id": "p78"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009001360",
+      "kind": "numbered_provision",
+      "label": "§ 79",
+      "parsed_id": "p79"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009101360",
+      "kind": "numbered_provision",
+      "label": "§ 80",
+      "parsed_id": "p80"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009203129",
+      "kind": "numbered_provision",
+      "label": "§ 81",
+      "parsed_id": "p81"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020801360",
+      "kind": "numbered_provision",
+      "label": "§ 81a",
+      "parsed_id": "p81a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009305129",
+      "kind": "numbered_provision",
+      "label": "§ 82",
+      "parsed_id": "p82"
+    },
+    {
+      "doknr": "BJNR308210994BJNG009400000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009501360",
+      "kind": "numbered_provision",
+      "label": "§ 83",
+      "parsed_id": "p83"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009601377",
+      "kind": "numbered_provision",
+      "label": "§ 84",
+      "parsed_id": "p84"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009704377",
+      "kind": "numbered_provision",
+      "label": "§ 85",
+      "parsed_id": "p85"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009800000",
+      "kind": "numbered_provision",
+      "label": "§ 86",
+      "parsed_id": "p86"
+    },
+    {
+      "doknr": "BJNR308210994BJNE009901360",
+      "kind": "numbered_provision",
+      "label": "§ 87",
+      "parsed_id": "p87"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010002310",
+      "kind": "numbered_provision",
+      "label": "§ 88",
+      "parsed_id": "p88"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010101360",
+      "kind": "numbered_provision",
+      "label": "§ 89",
+      "parsed_id": "p89"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020200301",
+      "kind": "numbered_provision",
+      "label": "§ 89a",
+      "parsed_id": "p89a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010202360",
+      "kind": "numbered_provision",
+      "label": "§ 90",
+      "parsed_id": "p90"
+    },
+    {
+      "doknr": "BJNR308210994BJNG010300000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010402360",
+      "kind": "numbered_provision",
+      "label": "§ 91",
+      "parsed_id": "p91"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019802360",
+      "kind": "numbered_provision",
+      "label": "§ 91a",
+      "parsed_id": "p91a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010501360",
+      "kind": "numbered_provision",
+      "label": "§ 92",
+      "parsed_id": "p92"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010601360",
+      "kind": "numbered_provision",
+      "label": "§ 93",
+      "parsed_id": "p93"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020000377",
+      "kind": "numbered_provision",
+      "label": "§ 93a",
+      "parsed_id": "p93a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010705360",
+      "kind": "numbered_provision",
+      "label": "§ 94",
+      "parsed_id": "p94"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010801360",
+      "kind": "numbered_provision",
+      "label": "§ 95",
+      "parsed_id": "p95"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019907360",
+      "kind": "numbered_provision",
+      "label": "§ 95a",
+      "parsed_id": "p95a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE010904360",
+      "kind": "numbered_provision",
+      "label": "§ 96",
+      "parsed_id": "p96"
+    },
+    {
+      "doknr": "BJNR308210994BJNE020701360",
+      "kind": "numbered_provision",
+      "label": "§ 96a",
+      "parsed_id": "p96a"
+    },
+    {
+      "doknr": "BJNR308210994BJNG018800000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011001360",
+      "kind": "numbered_provision",
+      "label": "§ 97",
+      "parsed_id": "p97"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011101360",
+      "kind": "numbered_provision",
+      "label": "§ 98",
+      "parsed_id": "p98"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011201129",
+      "kind": "numbered_provision",
+      "label": "§ 99",
+      "parsed_id": "p99"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011302129",
+      "kind": "numbered_provision",
+      "label": "§ 100",
+      "parsed_id": "p100"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011401360",
+      "kind": "numbered_provision",
+      "label": "§ 101",
+      "parsed_id": "p101"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011501360",
+      "kind": "numbered_provision",
+      "label": "§ 102",
+      "parsed_id": "p102"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011601360",
+      "kind": "numbered_provision",
+      "label": "§ 103",
+      "parsed_id": "p103"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011701360",
+      "kind": "numbered_provision",
+      "label": "§ 104",
+      "parsed_id": "p104"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011801360",
+      "kind": "numbered_provision",
+      "label": "§ 105",
+      "parsed_id": "p105"
+    },
+    {
+      "doknr": "BJNR308210994BJNE011901360",
+      "kind": "numbered_provision",
+      "label": "§ 106",
+      "parsed_id": "p106"
+    },
+    {
+      "doknr": "BJNR308210994BJNG018902360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021200360",
+      "kind": "numbered_provision",
+      "label": "§ 106a",
+      "parsed_id": "p106a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021300360",
+      "kind": "numbered_provision",
+      "label": "§ 106b",
+      "parsed_id": "p106b"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021500360",
+      "kind": "numbered_provision",
+      "label": "§ 106c",
+      "parsed_id": "p106c"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021400360",
+      "kind": "numbered_provision",
+      "label": "§ 106d",
+      "parsed_id": "p106d"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021600360",
+      "kind": "numbered_provision",
+      "label": "§ 106e",
+      "parsed_id": "p106e"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021700360",
+      "kind": "numbered_provision",
+      "label": "§ 106f",
+      "parsed_id": "p106f"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021800360",
+      "kind": "numbered_provision",
+      "label": "§ 106g",
+      "parsed_id": "p106g"
+    },
+    {
+      "doknr": "BJNR308210994BJNE021900360",
+      "kind": "numbered_provision",
+      "label": "§ 106h",
+      "parsed_id": "p106h"
+    },
+    {
+      "doknr": "BJNR308210994BJNG018903360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNG019600360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012105129",
+      "kind": "numbered_provision",
+      "label": "§ 107",
+      "parsed_id": "p107"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012203360",
+      "kind": "numbered_provision",
+      "label": "§ 108",
+      "parsed_id": "p108"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012303360",
+      "kind": "numbered_provision",
+      "label": "§ 109",
+      "parsed_id": "p109"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012401360",
+      "kind": "numbered_provision",
+      "label": "§ 110",
+      "parsed_id": "p110"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012504360",
+      "kind": "numbered_provision",
+      "label": "§ 111",
+      "parsed_id": "p111"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012602360",
+      "kind": "numbered_provision",
+      "label": "§ 112",
+      "parsed_id": "p112"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012701360",
+      "kind": "numbered_provision",
+      "label": "§ 113",
+      "parsed_id": "p113"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012804129",
+      "kind": "numbered_provision",
+      "label": "§ 114",
+      "parsed_id": "p114"
+    },
+    {
+      "doknr": "BJNR308210994BJNE012903360",
+      "kind": "numbered_provision",
+      "label": "§ 115",
+      "parsed_id": "p115"
+    },
+    {
+      "doknr": "BJNR308210994BJNE013002360",
+      "kind": "numbered_provision",
+      "label": "§ 116",
+      "parsed_id": "p116"
+    },
+    {
+      "doknr": "BJNR308210994BJNE013103360",
+      "kind": "numbered_provision",
+      "label": "§ 117",
+      "parsed_id": "p117"
+    },
+    {
+      "doknr": "BJNR308210994BJNE013202360",
+      "kind": "numbered_provision",
+      "label": "§ 118",
+      "parsed_id": "p118"
+    },
+    {
+      "doknr": "BJNR308210994BJNG015402360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE018704129",
+      "kind": "numbered_provision",
+      "label": "§ 119",
+      "parsed_id": "p119"
+    },
+    {
+      "doknr": "BJNR308210994BJNE018803129",
+      "kind": "numbered_provision",
+      "label": "§ 120",
+      "parsed_id": "p120"
+    },
+    {
+      "doknr": "BJNR308210994BJNE018906129",
+      "kind": "numbered_provision",
+      "label": "§ 121",
+      "parsed_id": "p121"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019004129",
+      "kind": "numbered_provision",
+      "label": "§ 122",
+      "parsed_id": "p122"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019103360",
+      "kind": "numbered_provision",
+      "label": "§ 123",
+      "parsed_id": "p123"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019203129",
+      "kind": "numbered_provision",
+      "label": "§ 124",
+      "parsed_id": "p124"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019302360",
+      "kind": "numbered_provision",
+      "label": "§ 125",
+      "parsed_id": "p125"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019603129",
+      "kind": "numbered_provision",
+      "label": "§ 125a",
+      "parsed_id": "p125a"
+    },
+    {
+      "doknr": "BJNR308210994BJNG019001360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNG014101000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014200000",
+      "kind": "numbered_provision",
+      "label": "§ 126",
+      "parsed_id": "p126"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014301129",
+      "kind": "numbered_provision",
+      "label": "§ 127",
+      "parsed_id": "p127"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014402140",
+      "kind": "numbered_provision",
+      "label": "§ 128",
+      "parsed_id": "p128"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014500000",
+      "kind": "numbered_provision",
+      "label": "§ 129",
+      "parsed_id": "p129"
+    },
+    {
+      "doknr": "BJNR308210994BJNG019404129",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022200129",
+      "kind": "numbered_provision",
+      "label": "§ 129a",
+      "parsed_id": "p129a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014709129",
+      "kind": "numbered_provision",
+      "label": "§ 130",
+      "parsed_id": "p130"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014807129",
+      "kind": "numbered_provision",
+      "label": "§ 131",
+      "parsed_id": "p131"
+    },
+    {
+      "doknr": "BJNR308210994BJNE014906129",
+      "kind": "numbered_provision",
+      "label": "§ 132",
+      "parsed_id": "p132"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022300129",
+      "kind": "numbered_provision",
+      "label": "§ 132a",
+      "parsed_id": "p132a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015004129",
+      "kind": "numbered_provision",
+      "label": "§ 133",
+      "parsed_id": "p133"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015105129",
+      "kind": "numbered_provision",
+      "label": "§ 134",
+      "parsed_id": "p134"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022400129",
+      "kind": "numbered_provision",
+      "label": "§ 134a",
+      "parsed_id": "p134a"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022500129",
+      "kind": "numbered_provision",
+      "label": "§ 134b",
+      "parsed_id": "p134b"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015206129",
+      "kind": "numbered_provision",
+      "label": "§ 135",
+      "parsed_id": "p135"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015301140",
+      "kind": "numbered_provision",
+      "label": "§ 136",
+      "parsed_id": "p136"
+    },
+    {
+      "doknr": "BJNR308210994BJNG015403129",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015505129",
+      "kind": "numbered_provision",
+      "label": "§ 137",
+      "parsed_id": "p137"
+    },
+    {
+      "doknr": "BJNR308210994BJNG020100129",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015607129",
+      "kind": "numbered_provision",
+      "label": "§ 138",
+      "parsed_id": "p138"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015708129",
+      "kind": "numbered_provision",
+      "label": "§ 139",
+      "parsed_id": "p139"
+    },
+    {
+      "doknr": "BJNR308210994BJNG019101360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015806360",
+      "kind": "numbered_provision",
+      "label": "§ 140",
+      "parsed_id": "p140"
+    },
+    {
+      "doknr": "BJNR308210994BJNE015901377",
+      "kind": "numbered_provision",
+      "label": "§ 141",
+      "parsed_id": "p141"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016000000",
+      "kind": "numbered_provision",
+      "label": "§ 142",
+      "parsed_id": "p142"
+    },
+    {
+      "doknr": "BJNR308210994BJNG019201360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNG016101000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016205360",
+      "kind": "numbered_provision",
+      "label": "§ 143",
+      "parsed_id": "p143"
+    },
+    {
+      "doknr": "BJNR308210994BJNE019704129",
+      "kind": "numbered_provision",
+      "label": "§ 144",
+      "parsed_id": "p144"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016404129",
+      "kind": "numbered_provision",
+      "label": "§ 145",
+      "parsed_id": "p145"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022600129",
+      "kind": "numbered_provision",
+      "label": "§ 145a",
+      "parsed_id": "p145a"
+    },
+    {
+      "doknr": "BJNR308210994BJNG016501000",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016604129",
+      "kind": "numbered_provision",
+      "label": "§ 146",
+      "parsed_id": "p146"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016700000",
+      "kind": "numbered_provision",
+      "label": "§ 147",
+      "parsed_id": "p147"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016803123",
+      "kind": "numbered_provision",
+      "label": "§ 148",
+      "parsed_id": "p148"
+    },
+    {
+      "doknr": "BJNR308210994BJNE016900000",
+      "kind": "numbered_provision",
+      "label": "§ 149",
+      "parsed_id": "p149"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017003123",
+      "kind": "numbered_provision",
+      "label": "§ 150",
+      "parsed_id": "p150"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017103129",
+      "kind": "numbered_provision",
+      "label": "§ 151",
+      "parsed_id": "p151"
+    },
+    {
+      "doknr": "BJNR308210994BJNG019301360",
+      "kind": "structure"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017200000",
+      "kind": "numbered_provision",
+      "label": "§ 152",
+      "parsed_id": "p152"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017300000",
+      "kind": "numbered_provision",
+      "label": "§ 153",
+      "parsed_id": "p153"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017400000",
+      "kind": "numbered_provision",
+      "label": "§ 154",
+      "parsed_id": "p154"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017500000",
+      "kind": "numbered_provision",
+      "label": "§ 155",
+      "parsed_id": "p155"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017601123",
+      "kind": "numbered_provision",
+      "label": "§ 156",
+      "parsed_id": "p156"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017702360",
+      "kind": "numbered_provision",
+      "label": "§ 157",
+      "parsed_id": "p157"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017805129",
+      "kind": "numbered_provision",
+      "label": "§ 158",
+      "parsed_id": "p158"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017803360",
+      "kind": "numbered_provision",
+      "label": "§ 159",
+      "parsed_id": "p159"
+    },
+    {
+      "doknr": "BJNR308210994BJNE022001129",
+      "kind": "numbered_provision",
+      "label": "§ 160",
+      "parsed_id": "p160"
+    },
+    {
+      "doknr": "BJNR308210994BJNE017903360",
+      "kind": "grouped_repeal",
+      "label": "(XXXX) §§ 161 bis 163",
+      "parsed_id": "p161-163",
+      "text_origin": "metadaten/titel; empty operative Content",
+      "covered_numbers": [
+        "161",
+        "162",
+        "163"
+      ]
+    },
+    {
+      "doknr": "BJNR308210994BJNE018401140",
+      "kind": "numbered_provision",
+      "label": "§ 164",
+      "parsed_id": "p164"
+    }
+  ],
   "annex_disposition": [
-    "No annex metadata record in complete official XML; no annex entry in official contents"
+    "No annex metadata record in all 224 official XML records; no annex entry in official contents"
   ],
   "repealed_slots": [
     {
-      "id": "p161",
-      "text": "(weggefallen)"
-    },
-    {
-      "id": "p162",
-      "text": "(weggefallen)"
-    },
-    {
-      "id": "p163",
+      "id": "p161-163",
       "text": "(weggefallen)"
     },
     {
@@ -431,11 +2097,11 @@
       "text": "-"
     }
   ],
-  "commented_count": 193,
+  "commented_count": 191,
   "missing_commentary": [],
   "extra_commentary": [],
   "duplicate_commentary": [],
-  "commentary_characters": 215943,
+  "commentary_characters": 215941,
   "repeated_paragraphs": [],
   "repeated_long_sentences": [],
   "ok": true

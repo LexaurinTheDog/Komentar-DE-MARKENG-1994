@@ -1,20 +1,8 @@
 {
-  "units": 193,
-  "commentary_chars": 215943,
-  "minimum_commentary_chars": 332,
+  "units": 191,
+  "commentary_chars": 215941,
+  "minimum_commentary_chars": 699,
   "below_700": [
-    {
-      "id": "p161",
-      "chars": 332
-    },
-    {
-      "id": "p162",
-      "chars": 379
-    },
-    {
-      "id": "p163",
-      "chars": 342
-    },
     {
       "id": "p164",
       "chars": 699
@@ -22,7 +10,7 @@
   ],
   "exact_repeated_paragraphs": [],
   "repeated_long_sentences": [],
-  "checked_output_links": 75,
+  "checked_output_links": 86,
   "broken_local_links": [],
   "placeholder_matches": []
 }

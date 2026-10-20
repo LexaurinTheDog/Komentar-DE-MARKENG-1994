@@ -1,0 +1,82 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-MARKENG-1994",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-MARKENG-1994",
+  "title": "Kommentar zum Markengesetz",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-MARKENG-1994/sources/canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Einleitung und Methode",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Amtliche Fußnote"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "grundlagen",
+      "title": "Grundlagen und Eintragungshindernisse"
+    },
+    {
+      "n": 2,
+      "slug": "verletzung",
+      "title": "Schutzinhalt und Rechtsdurchsetzung"
+    },
+    {
+      "n": 3,
+      "slug": "schranken-vermoegen",
+      "title": "Schranken und Vermögensverkehr"
+    },
+    {
+      "n": 4,
+      "slug": "eintragung",
+      "title": "Eintragung, Widerspruch und Verlängerung"
+    },
+    {
+      "n": 5,
+      "slug": "bestand",
+      "title": "Verfall und Nichtigkeit"
+    },
+    {
+      "n": 6,
+      "slug": "amt",
+      "title": "Verfahren vor dem Deutschen Patent- und Markenamt"
+    },
+    {
+      "n": 7,
+      "slug": "patentgericht",
+      "title": "Verfahren vor dem Bundespatentgericht"
+    },
+    {
+      "n": 8,
+      "slug": "rechtsmittel",
+      "title": "Rechtsbeschwerde und gemeinsame Verfahrensregeln"
+    },
+    {
+      "n": 9,
+      "slug": "kollektiv-gewaehrleistung",
+      "title": "Kollektiv- und Gewährleistungsmarken"
+    },
+    {
+      "n": 10,
+      "slug": "international",
+      "title": "Internationale Registrierungen und Unionsmarken"
+    },
+    {
+      "n": 11,
+      "slug": "herkunft",
+      "title": "Geografische Herkunftsangaben"
+    },
+    {
+      "n": 12,
+      "slug": "durchsetzung",
+      "title": "Kennzeichenstreitsachen, Sanktionen und Zoll"
+    },
+    {
+      "n": 13,
+      "slug": "uebergang",
+      "title": "Übergangsrecht"
+    }
+  ]
+}

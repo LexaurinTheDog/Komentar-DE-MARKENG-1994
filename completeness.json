@@ -1,6 +1,6 @@
 {
   "xml_sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
-  "expected_basis": "Official XML Inhaltsübersicht entry nodes; grouped §§ 161–163 expanded explicitly; empty operative § 164 record audited separately because absent from the XML contents table",
+  "expected_basis": "Official XML Inhaltsübersicht entry nodes plus the grouped §§ 161–163 and empty § 164 operative metadata records omitted by that table; source grouping preserved.",
   "expected_ids": [
     "p1",
     "p2",
@@ -191,9 +191,7 @@
     "p158",
     "p159",
     "p160",
-    "p161",
-    "p162",
-    "p163",
+    "p161-163",
     "p164"
   ],
   "parsed_ids": [
@@ -386,38 +384,230 @@
     "p158",
     "p159",
     "p160",
-    "p161",
-    "p162",
-    "p163",
+    "p161-163",
     "p164"
   ],
-  "expected_count": 193,
-  "parsed_count": 193,
+  "expected_count": 191,
+  "parsed_count": 191,
+  "covered_paragraph_numbers": 193,
   "missing": [],
   "unexpected": [],
   "duplicates": [],
-  "non_provision_records": [
+  "record_disposition": [
+    {
+      "record": "BJNR308210994",
+      "type": "act_header",
+      "handling": "No text/Content or separate Eingangsformel; official introductory footnotes retained in canonical text and sources/introductory-notes.md.",
+      "notes": "(+++ Textnachweis ab: 1.1.1995 +++)\n(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\nUmsetzung der\nEWGRL 104/89 (CELEX Nr: 389L0104) +++)\n(+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)\n\nDas G wurde als Artikel 1 G (423-5-1) v. 25.10.1994 I 3082 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 50 Abs. 3 dieses G nach Maßgabe der Abs. 1 und 2 mWv 1.1.1995 in Kraft getreten."
+    },
     {
       "record": "BJNR308210994BJNE000126129",
       "type": "official_contents",
       "handling": "Independently checked against operative records; not a separate statutory unit."
     },
     {
+      "record": "BJNR308210994BJNG018500000",
+      "type": "structural_heading",
+      "heading": "Teil 1 — Anwendungsbereich",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG018601129",
+      "type": "structural_heading",
+      "heading": "Teil 2 — Voraussetzungen; Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; weitere Zeichen; Übertragung und Lizenz",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG000400000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 1 — Marken und geschäftliche Bezeichnungen, Vorrang und Zeitrang",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG020000129",
+      "type": "structural_heading",
+      "heading": "Abschnitt 1a — Wappen, Flaggen, Hoheitszeichen, amtliche Prüf- und Gewährzeichen, Kennzeichen, Siegel und Bezeichnungen internationaler zwischenstaatlicher Organisationen",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG000900000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 2 — Voraussetzungen für den Schutz von Marken durch Eintragung",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG001700000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 3 — Schutzinhalt, Rechtsverletzungen",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG002400000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 4 — Schranken des Schutzes",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG003200000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 5 — Marken als Gegenstand des Vermögens",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG018700000",
+      "type": "structural_heading",
+      "heading": "Teil 3 — Verfahren in Markenangelegenheiten",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG003800000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 1 — Eintragungsverfahren",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG005200000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 2 — Berichtigung, Teilung, Schutzdauer und Verlängerung",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG005601360",
+      "type": "structural_heading",
+      "heading": "Abschnitt 3 — Verzicht; Verfalls- und Nichtigkeitsverfahren",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG006501360",
+      "type": "structural_heading",
+      "heading": "Abschnitt 4 — Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG007601360",
+      "type": "structural_heading",
+      "heading": "Abschnitt 5 — Verfahren vor dem Bundespatentgericht",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG009400000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 6 — Verfahren vor dem Bundesgerichtshof",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG010300000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 7 — Gemeinsame Vorschriften",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG018800000",
+      "type": "structural_heading",
+      "heading": "Teil 4 — Kollektivmarken",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG018902360",
+      "type": "structural_heading",
+      "heading": "Teil 5 — Gewährleistungsmarken",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG018903360",
+      "type": "structural_heading",
+      "heading": "Teil 6 — Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG019600360",
+      "type": "structural_heading",
+      "heading": "Abschnitt 1 — Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG015402360",
+      "type": "structural_heading",
+      "heading": "Abschnitt 2 — Unionsmarken",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG019001360",
+      "type": "structural_heading",
+      "heading": "Teil 7 — Geographische Herkunftsangaben",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG014101000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 1 — Schutz geographischer Herkunftsangaben",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG019404129",
+      "type": "structural_heading",
+      "heading": "Abschnitt 2 — Schutz von geografischen Angaben gemäß der Verordnung (EU) 2023/2411",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG015403129",
+      "type": "structural_heading",
+      "heading": "Abschnitt 3 — Schutz von geografischen Angaben für handwerkliche und industrielle Erzeugnisse auf der Grundlage internationaler Übereinkünfte",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG020100129",
+      "type": "structural_heading",
+      "heading": "Abschnitt 4 — Ermächtigungen zum Erlass von Rechtsverordnungen",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG019101360",
+      "type": "structural_heading",
+      "heading": "Teil 8 — Verfahren in Kennzeichenstreitsachen",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG019201360",
+      "type": "structural_heading",
+      "heading": "Teil 9 — Straf- und Bußgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG016101000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 1 — Straf- und Bußgeldvorschriften",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG016501000",
+      "type": "structural_heading",
+      "heading": "Abschnitt 2 — Beschlagnahme von Waren bei der Einfuhr und Ausfuhr",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
+      "record": "BJNR308210994BJNG019301360",
+      "type": "structural_heading",
+      "heading": "Teil 10 — Übergangsvorschriften",
+      "handling": "Retained in structure, not an operative provision."
+    },
+    {
       "record": "BJNR308210994BJNE017903360",
       "type": "grouped_repeal",
-      "official_label": "(weggefallen)",
-      "expanded_ids": [
-        "p161",
-        "p162",
-        "p163"
-      ]
+      "official_label": "(XXXX) §§ 161 bis 163",
+      "unit_id": "p161-163",
+      "covered_numbers": [
+        "161",
+        "162",
+        "163"
+      ],
+      "text_origin": "metadaten/titel; text/Content is empty",
+      "handling": "One official record retained; (XXXX) is the source technical label, not statutory wording."
     }
   ],
-  "annex_disposition": "No operative annex record exists in the preserved XML; official contents ends with § 164.",
+  "annex_disposition": "No operative annex record exists in the complete preserved XML or official contents. The XML contents ends at § 160; the grouped §§ 161–163 and § 164 follow as operative metadata records.",
   "empty_repealed": [
-    "p161",
-    "p162",
-    "p163",
+    "p161-163",
     "p164"
   ],
   "ok": true

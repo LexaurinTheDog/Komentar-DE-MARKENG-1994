@@ -127,29 +127,17 @@ Absatz 1 erhält für die bezeichneten Straftaten und Ordnungswidrigkeiten bei A
 
 Absatz 2 ermächtigt zur Anpassung innerstaatlicher Verweise an geänderte oder inhaltsgleich ersetzte Unionsvorschriften. Fiktiv wird ein im Bußgeldtatbestand genannter Unionsartikel später neu geordnet. Für eine frühere Handlung sind Tatzeit, damaliger Verweis und der konkrete Änderungsgrund zu bestimmen. § 160 ist kein Freibrief für rückwirkende Erweiterung des Tatbestands über seine Wortlautgrenzen. Die Ermächtigung erlaubt Verweisanpassung im bezeichneten Umfang, nicht die beliebige Schaffung neuer Sanktionen. Wegen der besonderen zeitlichen und strafrechtlichen Fragen ist der konkrete Unionsakt gesondert anhand seiner amtlichen Fassungen zu prüfen.
 
-### § 161 — (weggefallen)
+### (XXXX) §§ 161 bis 163 — (weggefallen)
 
 **Wortlaut der Vorschrift:**
 
 > (weggefallen)
 
-§ 161 ist weggefallen. Die amtliche XML fasst §§ 161 bis 163 in einem gemeinsamen Wegfallvermerk zusammen; für die vollständige Einzelabdeckung wird die Nummer hier gesondert geführt. Es besteht daraus kein eigenständiger heutiger Tatbestand. Für ältere Sachverhalte müsste die damals maßgebliche Fassung gesondert ermittelt werden.
+§ 161 ist weggefallen. Die amtliche XML fasst §§ 161 bis 163 in einem gemeinsamen Wegfallvermerk zusammen; diese Gruppierung wird als eine Einheit beibehalten. Es besteht daraus kein eigenständiger heutiger Tatbestand. Für ältere Sachverhalte müsste die damals maßgebliche Fassung gesondert ermittelt werden.
 
-### § 162 — (weggefallen)
+Auch § 162 gehört zum amtlichen Sammelvermerk „§§ 161 bis 163 (weggefallen)“. Die Nummer bleibt als ausdrücklicher leerer Platz innerhalb dieser Gruppe dokumentiert, damit ein fehlender operativer Text nicht als Parserverlust missverstanden wird. Aktuelle Übergangsfragen sind anhand der fortbestehenden §§ 152 bis 160 zu prüfen, nicht durch Rekonstruktion einer vermeintlichen heutigen Regel des § 162.
 
-**Wortlaut der Vorschrift:**
-
-> (weggefallen)
-
-Auch § 162 gehört zum amtlichen Sammelvermerk „§§ 161 bis 163 (weggefallen)“. Die Nummer bleibt als ausdrücklicher leerer Platz dokumentiert, damit ein fehlender operativer Text nicht als Parserverlust missverstanden wird. Aktuelle Übergangsfragen sind anhand der fortbestehenden §§ 152 bis 160 zu prüfen, nicht durch Rekonstruktion einer vermeintlichen heutigen Regel des § 162.
-
-### § 163 — (weggefallen)
-
-**Wortlaut der Vorschrift:**
-
-> (weggefallen)
-
-Der Wegfall des § 163 ist zusammen mit §§ 161 und 162 amtlich ausgewiesen. Die Einzelkennzeichnung dient der Nachprüfbarkeit der gesetzlichen Nummernfolge. Ein alter Verweis auf § 163 muss nach seinem zeitlichen Kontext untersucht werden; aus dem heutigen Wegfallvermerk lässt sich der damalige Regelungsinhalt weder bestätigen noch ergänzen.
+Der Wegfall des § 163 ist zusammen mit §§ 161 und 162 amtlich ausgewiesen. Die Kennzeichnung dient der Nachprüfbarkeit der gesetzlichen Nummernfolge. Ein alter Verweis auf § 163 muss nach seinem zeitlichen Kontext untersucht werden; aus dem heutigen Wegfallvermerk lässt sich der damalige Regelungsinhalt weder bestätigen noch ergänzen.
 
 ### § 164 — (weggefallen)
 

@@ -98,6 +98,71 @@
       "sha256": "7cc0161e8a39f93849b702aeafe5d3c83f31fdd71237e3ec2fbd09e66a78cd29",
       "format_validation": "HTML ZPO provision heading confirmed",
       "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/",
+      "accessed_at": "2026-10-20T11:31:11.048594+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "5f96ea34d19a74fa4460ba6ffe5837a20f1d017e8084f50139691e58da3c00ae",
+      "path": "sources/preflight-2026-10-20/index.html",
+      "format_validation": "HTML signature and expected MarkenG title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+      "accessed_at": "2026-10-20T11:31:11.309540+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "483fa06c190e3f5b648603165396b6fa92f0fc177cc38a5c27a36b18f4a446fa",
+      "path": "sources/preflight-2026-10-20/markeng.zip",
+      "format_validation": "ZIP CRC verified; single BJNR308210994.xml parsed as dokumente; jurabk/amtabk MarkenG",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/markeng/BJNR308210994.html",
+      "final_url": "https://www.gesetze-im-internet.de/markeng/BJNR308210994.html",
+      "accessed_at": "2026-10-20T11:31:11.494244+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "53a37fac2b6d3ba78186abd25a2dc1cc2df62a55b75f56563521e75c8509396d",
+      "path": "sources/preflight-2026-10-20/full.html",
+      "format_validation": "HTML signature and expected MarkenG title checked",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/152/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T11:31:11.787979+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "76b8a4e49be30a35dfa400d4e1933dce7d2c57aa3303b59e78bf1851fa167d4e",
+      "path": "sources/preflight-2026-10-20/amendment-2026-152.pdf",
+      "format_validation": "PDF magic and EOF checked; complete text extraction follows",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "final_url": "https://www.recht.bund.de/bgbl/1/2026/9/regelungstext.pdf?__blob=publicationFile&v=1",
+      "accessed_at": "2026-10-20T11:31:12.057652+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "sha256": "53b5704db3dd3a499ded1050fcf86886d1bdb3c95b17e392f8d950e4e8c0ef7c",
+      "path": "sources/preflight-2026-10-20/amendment-2026-9.pdf",
+      "format_validation": "PDF magic and EOF checked; complete text extraction follows",
+      "captured_body_sha256_verified": true
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/50/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-20T11:33:28.741626+00:00",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "path": "sources/preflight-2026-10-20/delegated-regulation-2026-50.pdf",
+      "sha256": "a69f584c537e3418cb0538969648a6169575e4ba1718872359a9842e936b8611",
+      "format_validation": "PDF magic and EOF checked; full text extracted for title and scope",
+      "captured_body_sha256_verified": true
     }
   ],
   "decisive_date": "2026-10-19",
@@ -148,5 +213,66 @@
         "sources/zpo-753a.html"
       ]
     }
-  ]
+  ],
+  "last_verified_at": "2026-10-20T11:35:56.262262+00:00",
+  "preflight_decisive_date": "2026-10-19",
+  "preflight_note": "Original authoring date retained; source/parser repair verified again on 20 October 2026. No legal second pass performed.",
+  "official_xml": {
+    "url": "https://www.gesetze-im-internet.de/markeng/xml.zip",
+    "path": "sources/markeng.xml",
+    "sha256": "2ed9363ddadb733f6dd45a0de5504450a5656c2054a8abd3170ccd8eb4b46484",
+    "fresh_evidence_path": "sources/preflight-2026-10-20/markeng.xml",
+    "format_validation": "XML parsed; root dokumente; header jurabk/amtabk MarkenG; extracted from validated official ZIP"
+  },
+  "historical_version_selection": {
+    "checked": true,
+    "operative_record_count": 191,
+    "duplicate_official_labels": [],
+    "duplicate_doknr": [],
+    "xml_builddates": [
+      "20260930215552"
+    ],
+    "selected_effective_date": "2026-10-19",
+    "method": "One current official consolidation, not multiple historical versions; latest two amendments and actual commencement clauses read in fresh official BGBl PDFs. Transitional references and historical notes retained as such.",
+    "old_and_new_xml_identical": true,
+    "full_historical_reconstruction": false
+  },
+  "introductory_text_disposition": {
+    "checked": true,
+    "separate_eingangsformel_present": false,
+    "evidence": "Header norm BJNR308210994 has no text/Content; introductory adoption/commencement statement is in textdaten/fussnoten/Content; full HTML has no Eingangsformel heading.",
+    "preserved_notes": "sources/introductory-notes.md"
+  },
+  "preflight_search": {
+    "queries": [
+      {
+        "query": "site:recht.bund.de Markengesetz Änderung 2026 Oktober September",
+        "evidence": "sources/preflight-2026-10-20/preflight-2026-10-20-amendments.json"
+      },
+      {
+        "query": "site:gesetze-im-internet.de/markeng \"Stand\" \"2026\"",
+        "evidence": "sources/preflight-2026-10-20/preflight-2026-10-20-stand.json"
+      }
+    ],
+    "later_amendment_identified": false,
+    "additional_hit_checked": {
+      "citation": "BGBl. 2026 I Nr. 50",
+      "evidence": "sources/preflight-2026-10-20/delegated-regulation-2026-50.pdf",
+      "disposition": "Delegated DPMA electronic-procedure regulation; no MarkenG amending article. Separate regulation not annex to MarkenG."
+    },
+    "limit": "Search engine results and current official consolidation are not an exhaustive audit of every BGBl issue."
+  },
+  "annex_check": {
+    "checked": true,
+    "raw_records_examined": 224,
+    "operative_annex_records": [],
+    "official_contents_annex_entry": false,
+    "disposition": "No operative annex in this title; external EU acts and delegated regulations are not annexes."
+  },
+  "preflight_source_agreement": {
+    "intake_hash_verified": true,
+    "fresh_xml_matches_previous_xml": true,
+    "fresh_bgbl_152_matches_previous_pdf": true,
+    "fresh_bgbl_9_matches_previous_pdf": true
+  }
 }
